@@ -1,7 +1,7 @@
 <footer>
   <div class="container">
     <div class="row">
-      <div class="col-md-4">
+      <div class="col-md-3">
         {% for line in site.footer.address %}
         <p>{{ line.line }}</p>
         {% endfor %}
@@ -9,7 +9,7 @@
           Phone: <a href="tel: {{ site.footer.phone }}">{{ site.footer.phone }}</a>
           Fax: <a href="fax: {{ site.footer.fax }}">{{ site.footer.fax }}</a>
       </div>
-      <div class="col-md-8">
+      <div class="col-md-9">
         <ul class="footer-list">
           {% for page in site.data.footer %}
             <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>

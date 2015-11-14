@@ -1,6 +1,6 @@
 ---
-title: Events
-permalink: /events/
+title: Jobs
+permalink: /jobs/
 ---
 
 More text goes here

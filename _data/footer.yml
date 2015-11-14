@@ -18,6 +18,8 @@
   url: '/join'
 - title: 'Learning'
   url: '/learning'
+- title: 'Services'
+  url: '/services'
 - title: 'Space Rental'
   url: '/space-rental'
 - title: 'Staff'
