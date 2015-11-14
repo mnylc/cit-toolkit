@@ -1,0 +1,24 @@
+# Site settings
+title: METRO | Metropolitan New York Library Council
+email: info@metro.org
+description: METRO is a lab where New York's libraries and archives come together to learn, innovate, and collaborate on digital initiatives.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://metro.org" # the base hostname & protocol for your site
+twitter_username: mnylc
+github_username:  mnylc
+
+defaults:
+  -
+    scope:
+      type: "posts"
+    values:
+      permalink: "/news/:title"
+  -
+    scope:
+      path: "pages"
+      type: "pages"
+    values:
+      layout: "page"
+
+# Build settings
+markdown: kramdown
