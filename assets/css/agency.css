@@ -274,8 +274,10 @@ header {
 }
 
 header .intro-text {
-    padding-top: 100px;
-    padding-bottom: 50px;
+    background-color: rgba(0, 0, 0, 0.65);
+    margin-top: 250px;
+    margin-bottom: 50px;
+    padding: 2em;
 }
 
 header .intro-text .intro-lead-in {
@@ -297,14 +299,14 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
-        padding-bottom: 200px;
+        padding-top: 100px;
+        padding-bottom: 50px;
     }
 
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
         font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 40px;
+        font-size: 32px;
         font-style: italic;
         line-height: 40px;
     }
