@@ -730,6 +730,10 @@ footer {
     padding: 25px 0;
 }
 
+footer .footer-logo {
+    background-color: white;
+}
+
 footer .footer-list {
     height: 8em;
     list-style-type: none;
