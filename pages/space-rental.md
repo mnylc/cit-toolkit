@@ -3,8 +3,6 @@ title: Space Rental
 permalink: /space-rental/
 ---
 
-# Space rental
-
 Consider the Metropolitan New York Library Council's Community Room for your next training event or meeting in New York City. Conveniently located 3 blocks from Union Square, our space features everything you need for your occasion at affordable and flexible rates. As a METRO member, you receive a 50% discount on the non-profit rate.
 
 The Community Room features two rental options to accommodate your specific needs:

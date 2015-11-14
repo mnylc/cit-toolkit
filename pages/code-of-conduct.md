@@ -3,8 +3,6 @@ title: Code of Conduct
 permalink: /code-of-conduct/
 ---
 
-# Code of Conduct
-
 At METRO, we strive to:
 
 * Offer an organized calendar of diverse and relevant training and networking events to our membership community

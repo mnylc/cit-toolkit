@@ -3,8 +3,6 @@ title: Join
 permalink: /join/
 ---
 
-# Join
-
 For nearly 50 years, METRO’s state-of-the-art training, services, and networking opportunities have helped our diverse members in New York City and Westchester County stay at the forefront of the latest innovations in the library and archival services fields. We welcome your membership and look forward to working with you!
 
 ## Institutional / Corporate Membership

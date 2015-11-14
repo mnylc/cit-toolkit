@@ -3,8 +3,6 @@ title: Learning
 permalink: /learning/
 ---
 
-# Learning
-
 ## Webinar Archives
 
 We keep digital copies of all of our past webinars. Register to our site to access to access our trove of webinars.
