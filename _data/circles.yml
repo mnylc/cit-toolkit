@@ -1,0 +1,12 @@
+- title: Location
+  url: '/services/digitization-grants/'
+  icon: 'map-marker'
+  description: ''
+- title: Join
+  url: '/services/delivery-service/'
+  icon: 'group'
+  description: ''
+- title: Events
+  url: '/services/referral-cards'
+  icon: 'calendar'
+  description: ''
