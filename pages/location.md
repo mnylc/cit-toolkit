@@ -1,9 +1,9 @@
 ---
-title: Directions
-permalink: /directions/
+title: Location
+permalink: /location/
 ---
 
-METRO's office is located at 57 East 11th Street, 4th Floor (between Broadway and University Place, near Union Square), easily accessible by car or public transportation. To enter our building, you will need to dial 4 followed by the green bell button on the outdoor keypad. When you hear the buzzer, pass through both doors to the elevator lobby. After 5:00 PM, when the elevator locks, METRO staff will call it to the 4th floor for you. Please note that entry before 9:00 AM cannot be guaranteed.
+METRO's space is located at 57 East 11th Street, 4th Floor (between Broadway and University Place, near Union Square), easily accessible by car or public transportation. To enter our building, you will need to dial 4 followed by the green bell button on the outdoor keypad. When you hear the buzzer, pass through both doors to the elevator lobby. After 5:00 PM, when the elevator locks, METRO staff will call it to the 4th floor for you. Please note that entry before 9:00 AM cannot be guaranteed.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.3121263101475!2d-73.99453568459437!3d40.733156979329564!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25999a3a680ef%3A0xa72a16c8395ae03d!2s57+E+11th+St%2C+New+York%2C+NY+10003!5e0!3m2!1sen!2sus!4v1447520650459" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
