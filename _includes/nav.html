@@ -18,10 +18,17 @@
                 <li class="hidden">
                     <a href="#page-top"></a>
                 </li>
-                {% for page in site.data.nav %}
-                  {% if page.title %}
-                    <li>
-                        <a class="page-scroll" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                {% for nav in site.data.nav %}
+                  {% assign current = false %}
+                  {% assign navUrl = nav.url | append: '/' %}
+                  {% if navUrl == page.url %}
+                    {% assign current = true %}
+                  {% endif %}
+                  {% if nav.title %}
+                    <li class="{% if current == true %} active {% endif %}">
+                        <a class="page-scroll" href="{{ nav.url | prepend: site.baseurl }}">
+                          {{ nav.title }}
+                        </a>
                     </li>
                   {% endif %}
                 {% endfor %}
