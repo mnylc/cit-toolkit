@@ -4,7 +4,11 @@ html {
 }
 
 body {
-    margin: 0 0 300px; /* bottom = footer height */
+    margin: 0 0 100px; /* bottom = footer height */
+
+    @media (max-width: 1000px) {
+      margin-bottom: 400px;
+    }
 }
 
 footer {
@@ -18,4 +22,17 @@ footer {
 .footer-logo {
 	border: 4px;
 	border-color: #fff;
+}
+
+footer .footer-list {
+  @media (max-width: 1000px) {
+    padding-left: 0;
+    text-align: left;
+  }
+}
+
+.footer-list li {
+  @media (max-width: 1000px) {
+    width: 100%;
+  }
 }
