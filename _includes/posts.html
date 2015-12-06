@@ -1,0 +1,11 @@
+<ol class="posts">
+  {% for post in site.tags[include.tag] %}
+    <li>
+      <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+      <div class="post-date">{{ post.date }}</div>
+      <div class="post-excerpt">
+        {{ post.excerpt }}
+      </div>
+    </li>
+  {% endfor %}
+</ol>
