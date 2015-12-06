@@ -7,29 +7,6 @@ body {
     margin: 0 0 300px; /* bottom = footer height */
 }
 
-.posts {
-	list-style-type: none;
-	padding: 0;
-}
-
-table {
-	border: 1px solid #ecf0f1;
-	width: 100%;
-}
-
-thead {
-	border-bottom: 2px solid #ccc;
-}
-
-th, td {
-	padding: .7em;
-}
-
-tr:nth-child(odd) > td,
-tr:nth-child(odd) > th {
-	background-color: #ecf0f1;
-}
-
 footer {
 	background-color: #000;
 	bottom: 0;
