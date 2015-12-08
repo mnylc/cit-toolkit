@@ -27,8 +27,19 @@ defaults:
   -
     scope:
       type: "posts"
+      path: "_posts/jobs"
+    values:
+      permalink: "/jobs/:title"
+      tags:
+        - job
+  -
+    scope:
+      type: "posts"
+      path: "_posts/news"
     values:
       permalink: "/news/:title"
+      tags:
+        - news
   -
     scope:
       path: "pages"
