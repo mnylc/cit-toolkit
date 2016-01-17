@@ -21,22 +21,22 @@ The library community encompasses a vast spectrum of interests, specializations,
 
 Our 19 SIGs cover the following topics. Read more about each group below.
 
-* Bibliographic Instruction
-* Circulation & Reserves
-* Code4Lib NYC
-* CollectiveAccess User Group
-* Economics & Business Librarians
-* Government Documents
-* High School to College Transition
-* Interlibrary Loan
-* Library Assistants and Support Staff
-* Learning Beyond the Library
-* myMETRO
-* Open Access
-* Outreach & Advocacy
-* Reference
-* Science, Technology, and Medicine
-* Social Justice
-* Social Media
-* User Experience
-* Web Archiving
+* [Bibliographic Instruction](#)
+* [Circulation & Reserves](#)
+* [Code4Lib NYC](#)
+* [CollectiveAccess User Group](#)
+* [Economics & Business Librarians](#)
+* [Government Documents](#)
+* [High School to College Transition](#)
+* [Interlibrary Loan](#)
+* [Library Assistants and Support Staff](#)
+* [Learning Beyond the Library](#)
+* [myMETRO](#)
+* [Open Access](#)
+* [Outreach & Advocacy](#)
+* [Reference](#)
+* [Science, Technology, and Medicine](#)
+* [Social Justice](#)
+* [Social Media](#)
+* [User Experience](#)
+* [Web Archiving](#)
