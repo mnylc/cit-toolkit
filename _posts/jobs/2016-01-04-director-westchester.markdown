@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "DIRECTOR OF COLLEGE LIBRARY SERVICES - THE COLLEGE OF WESTCHESTER"
-date:   2016-01-04 16:53:17
+title:  "Director of college library services - the College of Westchester"
+date:   2016-01-04
 ---
 
 The College of Westchester in White Plains, NY is seeking a Director of College Library Services.  The Director of College Library Services plans and administers a comprehensive program of library professional services to all students, faculty, and staff by supervising the Library staff, by answering research and information queries, cataloging materials, by assisting with collection development, and performs professional library duties in the selection, acquisition, organization, and use of books, periodicals, materials, and electronic resources. The Director is further responsible for overseeing that students are provided with instruction (online and on ground) and measured for Information Literacy competence.  In addition, the Director of the College Library Services will have primary responsibility for the delegation of duties to all personnel involved in the Library as well as primary oversight for all services provided.  
@@ -61,4 +61,3 @@ Phone: None
 Fax:
 wrosenberg@cw.edu
 www.cw.edu
-
