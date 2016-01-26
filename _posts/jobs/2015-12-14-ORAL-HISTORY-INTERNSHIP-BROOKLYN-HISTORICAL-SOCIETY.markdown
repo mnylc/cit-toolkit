@@ -1,63 +1,53 @@
 ---
 layout: post
-title:  "Director of college library services - the College of Westchester"
-date:   2016-01-04
+title:  "Oral History Internship - Brooklyn Historical Society"
+date:   2015-12-14
 ---
 
-The College of Westchester in White Plains, NY is seeking a Director of College Library Services.  The Director of College Library Services plans and administers a comprehensive program of library professional services to all students, faculty, and staff by supervising the Library staff, by answering research and information queries, cataloging materials, by assisting with collection development, and performs professional library duties in the selection, acquisition, organization, and use of books, periodicals, materials, and electronic resources. The Director is further responsible for overseeing that students are provided with instruction (online and on ground) and measured for Information Literacy competence.  In addition, the Director of the College Library Services will have primary responsibility for the delegation of duties to all personnel involved in the Library as well as primary oversight for all services provided.  
+Brooklyn Historical Society (BHS) is seeking 2 Oral History Interns for 2016 who will assist the Oral History Project Archivist with the processing of BHS’s oral history collections as part of Voices of Generations: Investigating Brooklyn’s Cultural Identity, a project to digitize, process, catalogue, and make available online ten oral history collections.
 
-##Duties and Responsibilities##
+##More##
+The internship will provide training and hands-on experience in all stages of processing oral histories: research, rights assessment, auditing, transcribing, indexing, online publishing using digital tools, item-level and collection-level description, and cataloguing. In addition, interns will be among the first to access some of BHS previously unavailable oral history collections that document the diverse histories of Brooklyn.
 
-* Oversee daily operation of the Library and supervise library staff and library interns to ensure a full array of library services are provided during library operational hours.
-* Analyze and coordinate departmental budget estimates and control expenditures to administer approved budget;
-* Submit recommendations on library policies and services and implement policy decisions;
-* Submit recommendations on learning support policies and services and implement policy decisions
-* Provide research services to faculty and staff in support of curriculum and strategic planning initiatives and to support institutional effectiveness practices;
-* Work closely with the Director of IT and the Director of Security to ensure a user-friendly and efficient ID system.
-* Review and evaluate orders for books, serials, and periodicals and perform ongoing evaluation of select materials to be recycled, repaired or replaced and catalog materials as required;
-* Examine trade publications and materials, interview publishers’ representatives, and consult with department chairpersons to select materials;
-* Edit and maintain Library website for better user experience.
-* Chair the Library Advisory Committee (LAC);
-* Respond to in-person, telephone and virtual requests for information and research;
-* Oversee the classroom and online instruction; Provide ongoing guidance of information literacy to students and provide library public relations services;
-* Member of Curriculum and Faculty Committees as library representative;
-* Instruct students, faculty and staff in the use of library resources including online databases, books, periodicals, etc.;
-* Develop bibliographic materials, fliers, pathfinders, etc.
-* Oversee the delivery of Audiovisual equipment for classes.
+Candidates must have taken at least one graduate-level course in oral history, public history, or archival concepts; or be enrolled in a similar course the first semester of the internship to be eligible for the position.
 
-###Location###
-White Plains, NY
+##Responsibilities##
+* Conduct background research on subjects related to collections
+* Assist with rights-assessment: review release forms, research and contact narrators to update permissions
+* Audit audio recordings, reformat, review and proofread transcripts, and create index logs of at least two interviews per week
+* Draft brief biographical and scope and content notes, assign Library of Congress Subject Headings and keywords to interviews, and transcribe metadata
+* Complete online synchronization of audio recordings to transcripts/indices using Oral History Metadata Synchronizer (OHMS) tool
+* Assist with completion of finding aids
+* Contribute to BHS’s blog
 
-###Starts On###
-Jan. 18, 2016, 8 a.m.
+##Required Qualifications##
+* Availability of 1-2 days a week (9:00am – 5:00pm) including an hour for lunch
+* Coursework towards the completion of a Masters in Oral History, Public History, or Archival Management
+* Experience with oral history collections or audio digital assets
+* Experience working with controlled vocabularies and archival arrangement & description
+* Extremely organized, detail-oriented
+* Effective oral and written communication skills; command of Adobe Acrobat and Microsoft Office, particularly Excel and Word
+* Ability to work independently and ensure that work is accomplished in a timely and accurate manner
 
-##Job Requirements##
+##Preferred Qualifications##
+* Familiarity with and/or interest in histories of Brooklyn neighborhoods, New York City, immigration, ethnic communities, public health, and/or racial and social justice
+* Knowledge of oral history best practices
+* Familiarity with OHMS
+* Conversational fluency in Spanish or Cantonese is a plus
 
-###Experience###
-3 to 5 years experience working in higher education library settings.
+###Compensation###
+Internships are unpaid and are intended to fulfill course credit requirements for internships and practicums. BHS staff ID grants free entrance to museums around New York City. 
 
-###Skills###
-* General knowledge of the principles and methods of modern academic library services including automated systems and electronic/digital resources
-* Strong written and verbal expression
-* Solid commitment to customer service
-* Good reference interview techniques including effective listening skills
+###To Apply###
+Please email a cover letter and resume to [library@brooklynhistory.org](mailto:library@brooklynhistory.org) with a subject line of Oral History Internship [your last name]. Applications will be reviewed immediately. No phone calls please.
 
-###Computer Skills###
-Knowledge of KOHA Integrated Library System (ILS), online databases, and the Internet
+####About Voices of Generations: Investigating Brooklyn's Cultural Identity####
+Brooklyn Historical Society’s Voices of Generations: Investigating Brooklyn’s Cultural Identity is a project to digitize, process, and catalogue ten oral history collections that document different ethnic and cultural groups in Brooklyn. Some of these collections date back as early as 1973; and they all demonstrate how diverse communities sought to preserve vital social, political, religious, and even culinary traditions while embracing new identities as Brooklynites, New Yorkers, and Americans.
+The chief goals of the project are to digitize and process the collections, catalogue them through item-level descriptions as well as collection-level finding aids, and post as many as possible online using the Oral History Metadata Synchronizer (OHMS)—an innovative online application that makes the content of interviews searchable, and therefore more accessible. A final goal of the project is to use each collection as the basis for increased community and public engagement through outreach, social media, online publishing, and programming.
 
-###Education Required###
-MLS or equivalent from an ALA accredited College
+For more information on our oral history collections, visit: [http://brooklynhistory.org/library/wp/library-collections/oralhistory](http://brooklynhistory.org/library/wp/library-collections/oralhistory)
 
-###Company Information###
+####About Brooklyn Historical Society####
+Founded in 1863, Brooklyn Historical Society is a nationally recognized urban history center dedicated to preserving and encouraging the study of Brooklyn's extraordinary and complex history. BHS is a vibrant museum, a world-renowned research library, a cutting-edge educational center, and a hub for community dialogue. Located in a landmark 1881 building designed by architect George Browne Post, BHS welcomes both residents and visitors from around the world to learn about Brooklyn’s past, present, and future.
 
-The College of Westchester
-325 Central Avenue
-White Plains NY 10606
-United States
-
-###Contact Information###
-
-Phone: None
-Fax:
-wrosenberg@cw.edu
-www.cw.edu
+Brooklyn Historical Society is dedicated to a policy of non-discrimination in employment on any basis including race, color, age, sex, religion national origin, the presence of any mental, physical, or sensory disability, sexual orientation, or any other basis prohibited by federal or state law. 

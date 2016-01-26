@@ -1,63 +1,41 @@
 ---
 layout: post
-title:  "Director of college library services - the College of Westchester"
-date:   2016-01-04
+title:  "Associate Dean, Library and Executive Director, Academic Information Technology - Brooklyn College"
+date:   2015-12-30
 ---
 
-The College of Westchester in White Plains, NY is seeking a Director of College Library Services.  The Director of College Library Services plans and administers a comprehensive program of library professional services to all students, faculty, and staff by supervising the Library staff, by answering research and information queries, cataloging materials, by assisting with collection development, and performs professional library duties in the selection, acquisition, organization, and use of books, periodicals, materials, and electronic resources. The Director is further responsible for overseeing that students are provided with instruction (online and on ground) and measured for Information Literacy competence.  In addition, the Director of the College Library Services will have primary responsibility for the delegation of duties to all personnel involved in the Library as well as primary oversight for all services provided.  
+Brooklyn College of the City University of New York (CUNY) seeks a creative and experienced library leader as its next Associate Dean of the Brooklyn College Library and Executive Director of Academic Information Technologies (AIT).
 
-##Duties and Responsibilities##
+##Qualifications##
 
-* Oversee daily operation of the Library and supervise library staff and library interns to ensure a full array of library services are provided during library operational hours.
-* Analyze and coordinate departmental budget estimates and control expenditures to administer approved budget;
-* Submit recommendations on library policies and services and implement policy decisions;
-* Submit recommendations on learning support policies and services and implement policy decisions
-* Provide research services to faculty and staff in support of curriculum and strategic planning initiatives and to support institutional effectiveness practices;
-* Work closely with the Director of IT and the Director of Security to ensure a user-friendly and efficient ID system.
-* Review and evaluate orders for books, serials, and periodicals and perform ongoing evaluation of select materials to be recycled, repaired or replaced and catalog materials as required;
-* Examine trade publications and materials, interview publishers’ representatives, and consult with department chairpersons to select materials;
-* Edit and maintain Library website for better user experience.
-* Chair the Library Advisory Committee (LAC);
-* Respond to in-person, telephone and virtual requests for information and research;
-* Oversee the classroom and online instruction; Provide ongoing guidance of information literacy to students and provide library public relations services;
-* Member of Curriculum and Faculty Committees as library representative;
-* Instruct students, faculty and staff in the use of library resources including online databases, books, periodicals, etc.;
-* Develop bibliographic materials, fliers, pathfinders, etc.
-* Oversee the delivery of Audiovisual equipment for classes.
-
-###Location###
-White Plains, NY
-
-###Starts On###
-Jan. 18, 2016, 8 a.m.
-
-##Job Requirements##
+The Associate Dean will lead a faculty and staff of more than 100, while serving approximately 17,000 graduate and undergraduate students and 500 full-time faculty, in a stunning, technologically sophisticated, building. The library provides extensive research support to faculty and students and houses substantial physical and digital collections; the college archives; a new media center; and academic computing services, including five computer classrooms and over 600 public-use workstations in four computer labs. The library is an academic unit supporting the mission of Brooklyn College; it is also an important focal point of community life for students at this nonresidential institution.
 
 ###Experience###
-3 to 5 years experience working in higher education library settings.
+
+* Ten or more years of progressively responsible management experience in academic
+library leadership and proven capacity to develop and sustain relationships with senior
 
 ###Skills###
-* General knowledge of the principles and methods of modern academic library services including automated systems and electronic/digital resources
-* Strong written and verbal expression
-* Solid commitment to customer service
-* Good reference interview techniques including effective listening skills
 
-###Computer Skills###
-Knowledge of KOHA Integrated Library System (ILS), online databases, and the Internet
+* Academic credentials appropriate to the leadership of a library in a research-intensive environment, qualifying for appointment to the rank of Associate Professor or Professor 
+* Academic leadership, faculty, staff, and students
+* The ability and willingness to engage with potential donors and to seek funds and resources
+* An established track record of successful fundraising with demonstrated success in personally cultivating, stewarding and soliciting gifts.
 
-###Education Required###
-MLS or equivalent from an ALA accredited College
+###Education###
 
-###Company Information###
+* An ALA-accredited MLS or MLIS and a master’s degree in a discipline is required
+* A PhD is preferred, with a record of scholarly and professional achievement
 
-The College of Westchester
-325 Central Avenue
-White Plains NY 10606
-United States
+###Location###
+Brooklyn College Library | 2900 Bedford Ave | Brooklyn, NY | 11210
 
-###Contact Information###
+###URL###
+[http://www.imsearch.com/searches/details/content/S5-617](http://www.imsearch.com/searches/details/content/S5-617)
 
-Phone: None
-Fax:
-wrosenberg@cw.edu
-www.cw.edu
+###To Apply###
+All applications must be submitted through the CUNYfirst system using this link:
+[https://home.cunyfirst.cuny.edu/psp/cnyepprd/GUEST/HRMS/c/HRS_HRAM.HRS_CE.GBL](https://home.cunyfirst.cuny.edu/psp/cnyepprd/GUEST/HRMS/c/HRS_HRAM.HRS_CE.GBL)
+
+###Contact Information
+Karla Saunders | Phone: (202) 682-1504 | [ksaunders@imsearch.com](mailto:ksaunders@imsearch.com)

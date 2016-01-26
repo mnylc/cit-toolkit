@@ -1,12 +1,15 @@
 ---
 layout: post
-title:  "THE CENTER FOR BOOK ARTS - COLLECTIONS SPECIALIST OR LIBRARIAN"
+title:  "Collection Specialist or Librarian - The Center for Books Arts"
 date:   2016-01-19
 ---
-
 The Center for Book Arts seeks a collections specialist or librarian to oversee the ongoing documentation and management of the Center’s permanent collections, including the Reference Library, Fine Arts Collections, and Archives. This is a temporary part-time grant-funded position with possibility for growth to permanent.
 
-##Responsibilities##
+**Collections Manager / Librarian**  
+Part-time Temporary  
+$20 per hour, 15-20 hours a week  
+
+###Responsibilities###
 
 * Document and catalogue works (primarily reference materials and fine art works including artist books, art objects, limited editions) in the Center’s collections 
 * Supervise cataloguing interns, collections photography, and rehousing volunteers, including recruiting and training
@@ -17,7 +20,7 @@ The Center for Book Arts seeks a collections specialist or librarian to oversee 
 * Assist with the arrangement of traveling exhibitions
 * Oversee loans of items from the Permanent Collection to other institutions
 
-##Qualifications##
+###Qualifications###
 
 * Required education: MLS or arts/museum collection management degree or certificate
 * Prior experience working in a museum, library, or archives context
@@ -31,9 +34,7 @@ The Center for Book Arts seeks a collections specialist or librarian to oversee 
 * Proactive and self-motivated
 * Interest in bookbinding, letterpress printing, history of the book, and other book arts a plus
 
-##To Apply##
+###To Apply###
 
 The Center for Book Arts promotes active explorations of both contemporary and traditional artistic practices related to the book as an art object. Founded in 1974, the Center for Book Arts is unique among art organizations in New York as the only venue at which visitors can view exhibitions of contemporary book arts in the context of an active studio. The Center has produced over 300 exhibitions, involving more than 10,000 artists. The Center offers an extensive selection of 150 classes & workshops annually, along with lectures, readings, and other public programs.
 
-Part-time Temporary
-$20 per hour, 15-20 hours a week

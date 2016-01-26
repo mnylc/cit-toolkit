@@ -1,63 +1,34 @@
 ---
 layout: post
-title:  "Director of college library services - the College of Westchester"
-date:   2016-01-04
+title:  "Head of Technical Services (Instructor or Assistant Professor) - Lehman College (CUNY)"
+date:   2015-12-15
 ---
 
-The College of Westchester in White Plains, NY is seeking a Director of College Library Services.  The Director of College Library Services plans and administers a comprehensive program of library professional services to all students, faculty, and staff by supervising the Library staff, by answering research and information queries, cataloging materials, by assisting with collection development, and performs professional library duties in the selection, acquisition, organization, and use of books, periodicals, materials, and electronic resources. The Director is further responsible for overseeing that students are provided with instruction (online and on ground) and measured for Information Literacy competence.  In addition, the Director of the College Library Services will have primary responsibility for the delegation of duties to all personnel involved in the Library as well as primary oversight for all services provided.  
+The Head of Technical Services is responsible for managing the Library’s database licensing, resource allocation, acquisitions, cataloging, and materials processing units. The candidate is tasked with stewarding the annual resource budget, arranging for database licenses, vendor relations, and working closely with the Budget, Accounts Payable, and Procurement Offices.
 
-##Duties and Responsibilities##
+##More##
+The Head of Technical Services oversees licensing of additional electronic content (electronic journals and eBooks), standing orders, monographs – with related cataloging and processing. The individual keeps current with developments in the resource management arena, develops workflows and policies, and integrates new technologies to streamline efficient processing. This position supervises the Periodicals Librarian, Electronic Information Resources staff member, as well as three support staff. In addition, incumbent provides reference and instructional services.
 
-* Oversee daily operation of the Library and supervise library staff and library interns to ensure a full array of library services are provided during library operational hours.
-* Analyze and coordinate departmental budget estimates and control expenditures to administer approved budget;
-* Submit recommendations on library policies and services and implement policy decisions;
-* Submit recommendations on learning support policies and services and implement policy decisions
-* Provide research services to faculty and staff in support of curriculum and strategic planning initiatives and to support institutional effectiveness practices;
-* Work closely with the Director of IT and the Director of Security to ensure a user-friendly and efficient ID system.
-* Review and evaluate orders for books, serials, and periodicals and perform ongoing evaluation of select materials to be recycled, repaired or replaced and catalog materials as required;
-* Examine trade publications and materials, interview publishers’ representatives, and consult with department chairpersons to select materials;
-* Edit and maintain Library website for better user experience.
-* Chair the Library Advisory Committee (LAC);
-* Respond to in-person, telephone and virtual requests for information and research;
-* Oversee the classroom and online instruction; Provide ongoing guidance of information literacy to students and provide library public relations services;
-* Member of Curriculum and Faculty Committees as library representative;
-* Instruct students, faculty and staff in the use of library resources including online databases, books, periodicals, etc.;
-* Develop bibliographic materials, fliers, pathfinders, etc.
-* Oversee the delivery of Audiovisual equipment for classes.
+##Qualifications##
+Master’s degree in Library and Information Science from an ALA-accredited institution. Second Master’s required for appointment to Assistant Professor. Candidate should possess superlative financial and data management acumen, knowledge of original and copy cataloging (OCLC, MARC, RDA), familiarity with online metadata and integrated library systems, as well as interest and expertise in adapting emerging technologies. Excellent communication and supervisory skills, as well as comfort dealing with diverse constituencies. 
 
-###Location###
-White Plains, NY
+###Compensation###
+CUNY offers faculty a competitive compensation and benefits package covering health insurance, pension and retirement benefits, paid parental leave, and savings programs. We also provide mentoring and support for research, scholarship, and publication as part of our commitment to ongoing faculty professional development. 
 
-###Starts On###
-Jan. 18, 2016, 8 a.m.
+###To Apply###
+Visit www.cuny.edu, access the employment page, log in or create a new user account, and search for this vacancy using the Job Title. Select “Apply Now” and provide the requested information.
 
-##Job Requirements##
+Alternatively, Copy/Paste this url in your browser:
+https://home.cunyfirst.cuny.edu/psp/cnyepprd/GUEST/HRMS/c/HRS_HRAM.HRS_CE.GBL?Page=HRS_CE_JOB_DTL&Action=A&JobOpeningId=14163&SiteId=1&PostingSeq=1
 
-###Experience###
-3 to 5 years experience working in higher education library settings.
+Candidates should provide a CV-resume and names and contact information of three professional references.
 
-###Skills###
-* General knowledge of the principles and methods of modern academic library services including automated systems and electronic/digital resources
-* Strong written and verbal expression
-* Solid commitment to customer service
-* Good reference interview techniques including effective listening skills
+CLOSING DATE: Review of applications to begin January 29, 2016.
 
-###Computer Skills###
-Knowledge of KOHA Integrated Library System (ILS), online databases, and the Internet
-
-###Education Required###
-MLS or equivalent from an ALA accredited College
+EQUAL EMPLOYMENT OPPORTUNITY: We are committed to enhancing our diverse academic community by actively encouraging people with disabilities, minorities, veterans, and women to apply. We take pride in our pluralistic community and continue to seek excellence through diversity and inclusion. Lehman College/CUNY is an EEO/AA/ADA/IRCA Employer.
 
 ###Company Information###
+Lehman College | Leonard Lief Library | Bronx, New York | 10468 | United States
 
-The College of Westchester
-325 Central Avenue
-White Plains NY 10606
-United States
-
-###Contact Information###
-
-Phone: None
-Fax:
-wrosenberg@cw.edu
-www.cw.edu
+###Contact Information
+Madeline Cohen | Phone: (718) 960-8250 | [madeline.cohen@lehman.edu](mailto:madeline.cohen@lehman.cuny.edu)

@@ -1,63 +1,79 @@
 ---
 layout: post
-title:  "Director of college library services - the College of Westchester"
-date:   2016-01-04
+title:  "Paid Internship: Library Assistant - the Interpublic Group"
+date:   2016-01-11
 ---
+The Interpublic Group of Companies is a leading, global marketing communications company with 43,000 employees worldwide in 130 countries. The Center for Marketing Intelligence provides IPG operating companies with fast access to timely information, research and analysis.
 
-whatever
+###Job function###
+Internship: Library Assistant, [Center for Marketing Intelligence](http://bit.ly/IPGcmi)  
 
-##Duties and Responsibilities##
+This position handles all periodical and library-related subscriptions, coordinates research-related contracts, and resolves billing issues. The role will provide administrative support to the department head and serve as the department point-person for receipt of vendor invoices, time off recordkeeping, the department calendar and reception duty as required. This is a paid position with growth potential.
 
-* Oversee daily operation of the Library and supervise library staff and library interns to ensure a full array of library services are provided during library operational hours.
-* Analyze and coordinate departmental budget estimates and control expenditures to administer approved budget;
-* Submit recommendations on library policies and services and implement policy decisions;
-* Submit recommendations on learning support policies and services and implement policy decisions
-* Provide research services to faculty and staff in support of curriculum and strategic planning initiatives and to support institutional effectiveness practices;
-* Work closely with the Director of IT and the Director of Security to ensure a user-friendly and efficient ID system.
-* Review and evaluate orders for books, serials, and periodicals and perform ongoing evaluation of select materials to be recycled, repaired or replaced and catalog materials as required;
-* Examine trade publications and materials, interview publishers’ representatives, and consult with department chairpersons to select materials;
-* Edit and maintain Library website for better user experience.
-* Chair the Library Advisory Committee (LAC);
-* Respond to in-person, telephone and virtual requests for information and research;
-* Oversee the classroom and online instruction; Provide ongoing guidance of information literacy to students and provide library public relations services;
-* Member of Curriculum and Faculty Committees as library representative;
-* Instruct students, faculty and staff in the use of library resources including online databases, books, periodicals, etc.;
-* Develop bibliographic materials, fliers, pathfinders, etc.
-* Oversee the delivery of Audiovisual equipment for classes.
+###Job responsibilities###
+* Order, check-in, route, and maintain periodical (paper and online) subscriptions and passwords. Troubleshoot missing issues and other problems, working with subscription agent and directly with publishers. (Learning objective: most libraries perform this activity so it is important to learn as the candidate might do it or supervise it during his or her career)
+* Light research work (online and Web-based information search) as time permits (Learning objective: this is the #1 skill a future librarian/information professional needs)
+* Work with Growth Services Team on internal databases (Learning objective: databases have become an important function in most libraries/information centers)
+* Co-ordinate ordering and payment for books, reports, association memberships, etc. (Learning objective: like above, this is a typical library function)
+* Maintain small physical library (Learning objective: same as above)
+* Co-ordinate organization wide, research-related contracts (e.g., Lexis Nexis):
+* Prepare pre-approval forms for user participation
+* Reconcile billing issues
+* Maintain subscription files
+* Process department vendor invoices (Learning objective: typical library work)
+* General administrative support, including monitoring dept. time-off records, maintaining phone lists and organization charts
+* Setting up for CMI and vendor webinars, meetings and conference calls
+* Expense report processing, meeting and calendar management and phone support for the department head (Learning objective: all of the above three functions are basic to working in an office today – developing the skill set to multi-task, to do detailed work for a variety of people in a variety of different areas)
+* Ordering office supplies
+
+###Qualifications###
+* 1 - 2 years administrative experience in a corporate environment desirable
+* Enrolled in an MLS program (preferably in early stages)
+* Research skills
+* Excellent Microsoft Office skills, especially Excel & PowerPoint
+* Strong facility with numbers
+* Strong organizational and detail skills
+* Team player, self-starter
+
+**For consideration, please send a cover letter and resume to:**  
+Christopher Policarpio  
+IPG HR Coordinator  
+[Christopher.Policarpio@interpublic.com](mailto:Christopher.Policarpio@interpublic.com)
+
+###Period###
+Ongoing
 
 ###Location###
-White Plains, NY
+New York, NY
 
 ###Starts On###
-Jan. 18, 2016, 8 a.m.
+Feb. 1, 2016
 
 ##Job Requirements##
 
 ###Experience###
-3 to 5 years experience working in higher education library settings.
+1 - 2 years administrative experience in a corporate environment desirable
 
 ###Skills###
-* General knowledge of the principles and methods of modern academic library services including automated systems and electronic/digital resources
-* Strong written and verbal expression
-* Solid commitment to customer service
-* Good reference interview techniques including effective listening skills
-
-###Computer Skills###
-Knowledge of KOHA Integrated Library System (ILS), online databases, and the Internet
+* Research skills
+* Excellent Microsoft Office skills, especially Excel & PowerPoint
+* Strong facility with numbers
+* Strong organizational and detail skills
+* Team player, self-starter
 
 ###Education Required###
-MLS or equivalent from an ALA accredited College
+Enrolled in an MLS program (preferably in early stages)
 
 ###Company Information###
-
-The College of Westchester
-325 Central Avenue
-White Plains NY 10606
+Interpublic Group  
 United States
 
 ###Contact Information###
+Christopher Policarpio  
+[Christopher.Policarpio@interpublic.com](mailto:Christopher.Policarpio@interpublic.com)  
 
-Phone: None
-Fax:
-wrosenberg@cw.edu
-www.cw.edu
+####Contact Method####
+For consideration, please send a cover letter and resume to:  
+Christopher Policarpio  
+IPG HR Coordinator  
+[Christopher.Policarpio@interpublic.com](mailto:Christopher.Policarpio@interpublic.com)

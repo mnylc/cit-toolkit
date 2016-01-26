@@ -1,63 +1,47 @@
 ---
 layout: post
-title:  "Director of college library services - the College of Westchester"
-date:   2016-01-04
+title:  "Art Digitization Project Manager (Temporary) - Leo Baeck Institute"
+date:   2016-01-06
 ---
+The Leo Baeck Institute (LBI) seeks someone to manage the digitization of the Arts and Objects Collection.  The LBI Art and Objects Collection comprises approximately 8,000 works of art, including paintings, drawings, watercolors, prints, and sculpture that document the history and material culture of German-speaking Jewry.  The Art Digitization Project is already underway with 1,000 works of art evaluated, digitized and re-catalogued to provide better access through a customized Web portal.  The goals of the project are to continue digitizing our art and object collection in conjunction with the Digital Lab of the Center for Jewish History to provide high-resolution scans and to improve the metadata of these records by providing more information about the artists and artworks, as well as subject, genre, and other relevant reference terms. This position requires a familiarity with art objects as well as with German.  This is a temporary, full-time position lasting for one year.
 
-whatever
+####URL####
+[https://www.lbi.org/wp-content/uploads/2016/01/Art-Digitization-Project-Manager.pdf](https://www.lbi.org/wp-content/uploads/2016/01/Art-Digitization-Project-Manager.pdf) 
 
-##Duties and Responsibilities##
+####Period####
+One year  
 
-* Oversee daily operation of the Library and supervise library staff and library interns to ensure a full array of library services are provided during library operational hours.
-* Analyze and coordinate departmental budget estimates and control expenditures to administer approved budget;
-* Submit recommendations on library policies and services and implement policy decisions;
-* Submit recommendations on learning support policies and services and implement policy decisions
-* Provide research services to faculty and staff in support of curriculum and strategic planning initiatives and to support institutional effectiveness practices;
-* Work closely with the Director of IT and the Director of Security to ensure a user-friendly and efficient ID system.
-* Review and evaluate orders for books, serials, and periodicals and perform ongoing evaluation of select materials to be recycled, repaired or replaced and catalog materials as required;
-* Examine trade publications and materials, interview publishers’ representatives, and consult with department chairpersons to select materials;
-* Edit and maintain Library website for better user experience.
-* Chair the Library Advisory Committee (LAC);
-* Respond to in-person, telephone and virtual requests for information and research;
-* Oversee the classroom and online instruction; Provide ongoing guidance of information literacy to students and provide library public relations services;
-* Member of Curriculum and Faculty Committees as library representative;
-* Instruct students, faculty and staff in the use of library resources including online databases, books, periodicals, etc.;
-* Develop bibliographic materials, fliers, pathfinders, etc.
-* Oversee the delivery of Audiovisual equipment for classes.
+####Position Reports To####
+Renata Stein  
 
-###Location###
-White Plains, NY
-
-###Starts On###
-Jan. 18, 2016, 8 a.m.
+####Starts on####
+Feb 1, 2016
 
 ##Job Requirements##
 
 ###Experience###
-3 to 5 years experience working in higher education library settings.
+* Experience cataloging art objects, fine art handling, and managing preservation concerns
+* Knowledge of art techniques, German Jewish history and experience conducting academic 
+research
 
 ###Skills###
-* General knowledge of the principles and methods of modern academic library services including automated systems and electronic/digital resources
-* Strong written and verbal expression
-* Solid commitment to customer service
-* Good reference interview techniques including effective listening skills
+* Attention to detail and strong organizational skills
+* At least some German language skills
 
 ###Computer Skills###
-Knowledge of KOHA Integrated Library System (ILS), online databases, and the Internet
+* Familiarity with MARC standards and RDA, experience cataloging objects in Aleph ideal
+* Excellent computer skills: knowledge of computer databases and digital imaging, proficiency with MS Outlook, Word, and Excel
 
 ###Education Required###
-MLS or equivalent from an ALA accredited College
+* Degree in Library and Information Sciences (preferred) or art history, museum studies, or 
+related field and experience
 
-###Company Information###
-
-The College of Westchester
-325 Central Avenue
-White Plains NY 10606
-United States
+##Company Information##
+Leo Baeck Institute
 
 ###Contact Information###
-
-Phone: None
-Fax:
-wrosenberg@cw.edu
-www.cw.edu
+Renata Stein  
+[rstein@lbi.cjh.org](mailto:rstein@lbi.cjh.org)
+[www.lbi.org](www.lbi.org)
+####Contact method####
+Email

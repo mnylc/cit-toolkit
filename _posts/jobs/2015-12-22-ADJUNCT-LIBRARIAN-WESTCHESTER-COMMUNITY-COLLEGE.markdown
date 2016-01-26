@@ -1,63 +1,38 @@
 ---
 layout: post
-title:  "Director of college library services - the College of Westchester"
-date:   2016-01-04
+title:  "Adjunct Librarian - Westchester Community College"
+date:   2016-12-22
 ---
 
-The College of Westchester in White Plains, NY is seeking a Director of College Library Services.  The Director of College Library Services plans and administers a comprehensive program of library professional services to all students, faculty, and staff by supervising the Library staff, by answering research and information queries, cataloging materials, by assisting with collection development, and performs professional library duties in the selection, acquisition, organization, and use of books, periodicals, materials, and electronic resources. The Director is further responsible for overseeing that students are provided with instruction (online and on ground) and measured for Information Literacy competence.  In addition, the Director of the College Library Services will have primary responsibility for the delegation of duties to all personnel involved in the Library as well as primary oversight for all services provided.  
+The following position requires familiarity with the community college philosophy and the ability to work within a culturally diverse college population.
 
-##Duties and Responsibilities##
+Westchester Community College provides accessible, high quality and affordable education to meet the needs of our diverse community. We are committed to student success, academic excellence and lifelong learning.
 
-* Oversee daily operation of the Library and supervise library staff and library interns to ensure a full array of library services are provided during library operational hours.
-* Analyze and coordinate departmental budget estimates and control expenditures to administer approved budget;
-* Submit recommendations on library policies and services and implement policy decisions;
-* Submit recommendations on learning support policies and services and implement policy decisions
-* Provide research services to faculty and staff in support of curriculum and strategic planning initiatives and to support institutional effectiveness practices;
-* Work closely with the Director of IT and the Director of Security to ensure a user-friendly and efficient ID system.
-* Review and evaluate orders for books, serials, and periodicals and perform ongoing evaluation of select materials to be recycled, repaired or replaced and catalog materials as required;
-* Examine trade publications and materials, interview publishers’ representatives, and consult with department chairpersons to select materials;
-* Edit and maintain Library website for better user experience.
-* Chair the Library Advisory Committee (LAC);
-* Respond to in-person, telephone and virtual requests for information and research;
-* Oversee the classroom and online instruction; Provide ongoing guidance of information literacy to students and provide library public relations services;
-* Member of Curriculum and Faculty Committees as library representative;
-* Instruct students, faculty and staff in the use of library resources including online databases, books, periodicals, etc.;
-* Develop bibliographic materials, fliers, pathfinders, etc.
-* Oversee the delivery of Audiovisual equipment for classes.
+##Responsibilities##
+The Adjunct Librarian will participate in a very active, robust library information literacy program, planning and teaching library information literacy classes on the main campus, at the college’s extension sites and virtually.  S/he will provide traditional and virtual reference services.  S/he will also assist in the evening and weekend supervision of Library Clerks and Library Technicians as well as assist in the evening and weekend supervision of library building and services, as needed.  10-15 hours per week, days, evenings and weekends required.
+
+##Qualifications##
+A minimum of a Master’s degree in Library and Information Science from an ALA-accredited degree-granting program and one year of experience working as an academic librarian or senior librarian in a middle-size to large public library setting is required.  Two years of academic library experience are strongly preferred.  Knowledge of information and instructional technologies.  The incumbent must have the ability to collaborate and communicate with students, faculty, staff, administrators, and community users.  Additional subject masters and supervisory experience preferred.  Excellent interpersonal, oral, and written communication skills required.
+
+###Compensation###
+$39.85 per hour.  No benefits.
 
 ###Location###
-White Plains, NY
+Valhalla, NY
 
-###Starts On###
-Jan. 18, 2016, 8 a.m.
+###URL###
+[http://www.sunywcc.edu/about/jobshuman-resources/](http://www.sunywcc.edu/about/jobshuman-resources/)
 
-##Job Requirements##
+###To Apply###
+Send resumes, cover letters, references and copies of transcripts to: [humanresources@sunywcc.edu](humanresources@sunywcc.edu). Please indicate **“Adjunct Librarian”** in the subject line of the email, or mail to:  
 
-###Experience###
-3 to 5 years experience working in higher education library settings.
+Director, Human Resources  
+Westchester Community College  
+HR Department, Administration Building - Suite B42  
+75 Grasslands Road  
+Valhalla, NY 10595
 
-###Skills###
-* General knowledge of the principles and methods of modern academic library services including automated systems and electronic/digital resources
-* Strong written and verbal expression
-* Solid commitment to customer service
-* Good reference interview techniques including effective listening skills
+Applications will be accepted until the position is filled.
 
-###Computer Skills###
-Knowledge of KOHA Integrated Library System (ILS), online databases, and the Internet
-
-###Education Required###
-MLS or equivalent from an ALA accredited College
-
-###Company Information###
-
-The College of Westchester
-325 Central Avenue
-White Plains NY 10606
-United States
-
-###Contact Information###
-
-Phone: None
-Fax:
-wrosenberg@cw.edu
-www.cw.edu
+###Contact Information
+Director, Human Resources | [humanresources@sunywcc.edu](mailto:humanresources@sunywcc.edu) | Fax: (914) 606-7838

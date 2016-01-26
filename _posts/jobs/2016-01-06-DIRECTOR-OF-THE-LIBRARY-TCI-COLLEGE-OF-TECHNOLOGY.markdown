@@ -1,63 +1,77 @@
 ---
 layout: post
-title:  "Director of college library services - the College of Westchester"
-date:   2016-01-04
+title:  "Director of the Library - TCI College of Technology"
+date:   2016-01-06
 ---
+TCI College is a two year associate degree granting institution located across from Penn Station in midtown Manhattan.  TCI is accredited by both the New York State Board of Regents and the Middle States Commission on Higher Education.
 
-whatever
+##Job Description##
+The Library Director reports to the Provost and is responsible for leadership and overall management of TCI Library technical services and collections, as well as for maintenance of general patron services of the Library, such as circulation and reference.  The Director is responsible for planning, budgeting, and staffing in support of the academic, instructional and information needs of faculty, students and staff.  In particular, these responsibilities include: creation, management, and maintenance of Library space, furnishings, and electronic and paper records, information literacy instruction, collection development (including weeding, surveying, and evaluating the collection), acquisition and accession of materials and supplies, and supervision of professional and clerical staff and of work-study students.
 
-##Duties and Responsibilities##
+##Responsibilities##
+* Direct Library operations, and manage and supervise library professional and support staff.
+* Determine library resource and service needs.
+* Develop Library programs, policies, and procedures in support of the academic program overall, especially in such key areas as information literacy, student and faculty research, and technology.
+* Consult with College administrators to determine budget and personnel requirements and to coordinate library practices and procedures with College policies and generally accepted professional standards.
+* Develop and administer the Library’s annual capital and operating budgets.
+* Manage the Library’s physical collections.
+* Select, provide, and maintain access to appropriate electronic and other media information resources.
+* Promote and market Library resources and programs to faculty and students.
+* Teach students how to use the library and its various resources.
+* Provide reference services to students.
+* Assess the quality and effectiveness of programs and services.
+* Maintain patron and database usage statistics.
+* Provide information necessary to comply with the college accreditation process.
 
-* Oversee daily operation of the Library and supervise library staff and library interns to ensure a full array of library services are provided during library operational hours.
-* Analyze and coordinate departmental budget estimates and control expenditures to administer approved budget;
-* Submit recommendations on library policies and services and implement policy decisions;
-* Submit recommendations on learning support policies and services and implement policy decisions
-* Provide research services to faculty and staff in support of curriculum and strategic planning initiatives and to support institutional effectiveness practices;
-* Work closely with the Director of IT and the Director of Security to ensure a user-friendly and efficient ID system.
-* Review and evaluate orders for books, serials, and periodicals and perform ongoing evaluation of select materials to be recycled, repaired or replaced and catalog materials as required;
-* Examine trade publications and materials, interview publishers’ representatives, and consult with department chairpersons to select materials;
-* Edit and maintain Library website for better user experience.
-* Chair the Library Advisory Committee (LAC);
-* Respond to in-person, telephone and virtual requests for information and research;
-* Oversee the classroom and online instruction; Provide ongoing guidance of information literacy to students and provide library public relations services;
-* Member of Curriculum and Faculty Committees as library representative;
-* Instruct students, faculty and staff in the use of library resources including online databases, books, periodicals, etc.;
-* Develop bibliographic materials, fliers, pathfinders, etc.
-* Oversee the delivery of Audiovisual equipment for classes.
+
+
+###Level###
+Academic
+
+###Period###
+Permanent
+
+###Position Reports to###
+Provost
 
 ###Location###
-White Plains, NY
+Penn Station area
 
-###Starts On###
-Jan. 18, 2016, 8 a.m.
+###Code###
+Administrative
 
 ##Job Requirements##
 
 ###Experience###
-3 to 5 years experience working in higher education library settings.
+Familiarity with current Library technologies and trends. Experience working with integrated electronic library systems and online research databases. Internet literacy and familiarity with MS Office. Previous library experience in supervision, reference, acquisitions, collection development, and information literacy instruction. Cataloging experience a plus. Minimum 3 years’ experience with increasing administrative responsibilities in an academic library.
+
 
 ###Skills###
-* General knowledge of the principles and methods of modern academic library services including automated systems and electronic/digital resources
-* Strong written and verbal expression
-* Solid commitment to customer service
-* Good reference interview techniques including effective listening skills
+Service orientation and strong interpersonal and communication skills. Applicant must be able to work courteously and productively with Library users and with other staff in a team environment, as well as to perform independent tasks. Applicant must be able to work overtime.
 
 ###Computer Skills###
-Knowledge of KOHA Integrated Library System (ILS), online databases, and the Internet
+Demonstrated expertise with information technology, social media, and library systems.
 
 ###Education Required###
-MLS or equivalent from an ALA accredited College
+Master’s in Library or Information Science required.  
+
+TCI College is an Equal Opportunity Employer.
 
 ###Company Information###
 
-The College of Westchester
-325 Central Avenue
-White Plains NY 10606
+TCI College of Technology  
+TCI Library  
+New York NY 10001  
 United States
 
 ###Contact Information###
+Daniel Marshall, Interim Director of the Library  
+Phone: (212) 594-4000 ext. 5312, 5279  
+Fax: 212-330-0894  
+[dmarshall@tcicollege.edu](mailto:dmarshall@tcicollege.edu)  
+[library@tcicollege.edu](library@tcicollege.edu)  
 
-Phone: None
-Fax:
-wrosenberg@cw.edu
-www.cw.edu
+####Contact Method####
+Send letter of application and resume to: [library@tcicollege.edu](mailto:library@tcicollege.edu). 
+
+List three references.

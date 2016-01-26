@@ -1,14 +1,15 @@
 ---
 layout: post
-title:  "ASSISTANT CHIEF LIBRARIAN - NYPL"
+title:  "Assistant Chief Librarian - New York Public Library"
 date:   2016-01-18
 ---
 
 The Schomburg Center for Research in Black Culture is one of the research units of The New York Public Library.  Recognized as the world’s leading repository devoted to collecting, preserving and interpreting materials on the global black experience.
 
+###More###
 The Jean Blackwell Hutson Research and Reference Division of the Schomburg Center and provides access to books, serials, and microforms containing information by and about people of African descent throughout the world, concentrating on the humanities, social sciences, and the arts.  The division's holdings cover disciplines within the arts, humanities, and social sciences as well as the presence and role of people of African descent in the natural and pure sciences. Works on the history of Harlem and Blacks in New York and the Northeast region; texts on Harlem and Blacks in the performing and visual arts; and African, Caribbean and African American literature holdings are particularly strong. Additionally, the division maintains a strong retrospective and current collection of African American, Caribbean, and African newspapers and other serials.
 
-##Principal Responsibilities##
+###Principal Responsibilities###
 
 The Assistant Chief Librarian will work closely with the Associate Chief Librarian to provide strategic leadership, direction, and planning to the Research and Reference team on collection processing and maintenance, public service, the user experience, collection development and promoting the collections.  More specfically, the Assistant Chief Librarian will:
 
@@ -24,7 +25,7 @@ The Assistant Chief Librarian will work closely with the Associate Chief Librari
 * Assume overall responsibility for the day to day running of the division in the absence of the Associate Chief Librarian
 * Perform other related duties, inclusive of representing the division on committees as required
 
-##Job Requirements##
+###Job Requirements###
 
 * A minimum of five years’ experience as a professional research or academic librarian
 * Demonstrated supervisory and team-building skills, including the ability to motivate, develop, and mentor others
@@ -42,22 +43,13 @@ Level: Management
 
 Position Reports To Associate Chief Librarian
 
-###Company Information###
-
-New York Public Library
-
-455 Fifth Avenue
-
-New York New York 10016
-
+##Company Information##
+New York Public Library  
+455 Fifth Avenue  
+New York New York 10016  
 United States
 
 ###Contact Information###
-
-Human Resources Department
-
-Phone: (212) 592-7320
-
-Fax:
-
-hrd@nypl.org
+Human Resources Department  
+Phone: (212) 592-7320  
+[hrd@nypl.org](mailto:hrd@nypl.org)

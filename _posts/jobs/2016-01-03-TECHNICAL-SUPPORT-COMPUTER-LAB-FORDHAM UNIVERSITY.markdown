@@ -1,63 +1,55 @@
 ---
 layout: post
-title:  "Director of college library services - the College of Westchester"
-date:   2016-01-04
+title:  "Technical Support/Computer Lab Support Staff, Level 5 - Fordham University"
+date:   2016-01-03
 ---
 
-The College of Westchester in White Plains, NY is seeking a Director of College Library Services.  The Director of College Library Services plans and administers a comprehensive program of library professional services to all students, faculty, and staff by supervising the Library staff, by answering research and information queries, cataloging materials, by assisting with collection development, and performs professional library duties in the selection, acquisition, organization, and use of books, periodicals, materials, and electronic resources. The Director is further responsible for overseeing that students are provided with instruction (online and on ground) and measured for Information Literacy competence.  In addition, the Director of the College Library Services will have primary responsibility for the delegation of duties to all personnel involved in the Library as well as primary oversight for all services provided.  
+HOURS: Monday to Friday, 9:00 AM to 5:00 PM
+(some flexibility required when library hours vary)
 
-##Duties and Responsibilities##
+START DATE: ASAP
 
-* Oversee daily operation of the Library and supervise library staff and library interns to ensure a full array of library services are provided during library operational hours.
-* Analyze and coordinate departmental budget estimates and control expenditures to administer approved budget;
-* Submit recommendations on library policies and services and implement policy decisions;
-* Submit recommendations on learning support policies and services and implement policy decisions
-* Provide research services to faculty and staff in support of curriculum and strategic planning initiatives and to support institutional effectiveness practices;
-* Work closely with the Director of IT and the Director of Security to ensure a user-friendly and efficient ID system.
-* Review and evaluate orders for books, serials, and periodicals and perform ongoing evaluation of select materials to be recycled, repaired or replaced and catalog materials as required;
-* Examine trade publications and materials, interview publishers’ representatives, and consult with department chairpersons to select materials;
-* Edit and maintain Library website for better user experience.
-* Chair the Library Advisory Committee (LAC);
-* Respond to in-person, telephone and virtual requests for information and research;
-* Oversee the classroom and online instruction; Provide ongoing guidance of information literacy to students and provide library public relations services;
-* Member of Curriculum and Faculty Committees as library representative;
-* Instruct students, faculty and staff in the use of library resources including online databases, books, periodicals, etc.;
-* Develop bibliographic materials, fliers, pathfinders, etc.
-* Oversee the delivery of Audiovisual equipment for classes.
+CODE: C01265
+
+##Responsibilities##
+
+* Reports to Head of Access, Information and Collection Services & Operations.
+* Participate in the production of training materials and instructional videos for Lincoln Center students and faculty.
+* Research and create projects that utilize upcoming technology which will benefit students and faculty.
+* Prepare monthly statistics report.
+* Works with the Director of Information Technology Services to ensure system integrity, reliability, responsiveness, security and compliance with library policies.
+* Assists in AV when needed.
+* Other tasks as assigned.
+
+
+* Provide support in a multi-platform OS environment (Mac & Windows) for all Quinn Library computers (desktops, laptops, and other devices), printers, and scanners:
+* Supervise student assistants and train them for basic computer and AV support.
+* Handle day to day maintenance, minor repair, installation, and troubleshooting of the library’s computer hardware and software, peripherals, office equipment, and other technology-related areas.
+Assist patrons with software applications, print jobs, backup procedures, document searching, Wi-Fi problems and all AV playback machine problems.
+* Responsible for orienting staff and patrons on the use of computing and telecommunications equipment; assisting and instructing in the use of other hardware and software, and creating training materials and policy manuals for computer and AV operations for library staff and patrons as needed.
+
+
+##Qualifications##
+* Extensive knowledge of computer networking and wireless communication preferred
+* Minimum of one year's experience in a library, academic computing or IT department
+* Strong knowledge of media-related hardware preferred
+* Ability to install, configure and troubleshoot PC and network-related hardware
+* Must be well organized and able to work well with non-technical staff and patrons
+* Must be self-motivated, highly detail oriented with the ability to prioritize tasks
+* Must possess excellent communication skills, both written and oral
+* Must be capable of light lifting and shelving activities
+* Must be willing to work at RH or Westchester campus if necessary
+* Mandatory competency testing
+* High School Diploma required, B.A./B.S. in Computer Science or Communications preferred
+* Academic library experience preferred.
 
 ###Location###
-White Plains, NY
+Fordham University Lincoln Center Campus, Quinn Library
 
-###Starts On###
-Jan. 18, 2016, 8 a.m.
+###To Apply###
+Send letter and resume to:  
+Nick Alongi, Head of Access, Information, and Collection Services and Library Operations  
+nalongi@fordham.edu
 
-##Job Requirements##
-
-###Experience###
-3 to 5 years experience working in higher education library settings.
-
-###Skills###
-* General knowledge of the principles and methods of modern academic library services including automated systems and electronic/digital resources
-* Strong written and verbal expression
-* Solid commitment to customer service
-* Good reference interview techniques including effective listening skills
-
-###Computer Skills###
-Knowledge of KOHA Integrated Library System (ILS), online databases, and the Internet
-
-###Education Required###
-MLS or equivalent from an ALA accredited College
-
-###Company Information###
-
-The College of Westchester
-325 Central Avenue
-White Plains NY 10606
-United States
-
-###Contact Information###
-
-Phone: None
-Fax:
-wrosenberg@cw.edu
-www.cw.edu
+###Contact Information
+Nick Alongi | Head of Access, Information, & Collection Services, and Library Operations | [nalongi@fordham.edu](mailto:nalongi@fordham.edu)

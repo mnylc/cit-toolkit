@@ -1,63 +1,39 @@
 ---
 layout: post
-title:  "Director of college library services - the College of Westchester"
+title:  "Part Time Children's Librarian - White Plains Public Library"
 date:   2016-01-04
 ---
 
-whatever
+Be a part of one of the most exciting libraries in New York! The White Plains Public Library seeks a part-time Childrens Services Librarian. We are seeking individuals who love working with the children, their families and technology—and take pride in delivering great customer service.
 
-##Duties and Responsibilities##
+Hours include Monday noon – 4:00pm, and monthly Saturdays and occasional Sundays.
 
-* Oversee daily operation of the Library and supervise library staff and library interns to ensure a full array of library services are provided during library operational hours.
-* Analyze and coordinate departmental budget estimates and control expenditures to administer approved budget;
-* Submit recommendations on library policies and services and implement policy decisions;
-* Submit recommendations on learning support policies and services and implement policy decisions
-* Provide research services to faculty and staff in support of curriculum and strategic planning initiatives and to support institutional effectiveness practices;
-* Work closely with the Director of IT and the Director of Security to ensure a user-friendly and efficient ID system.
-* Review and evaluate orders for books, serials, and periodicals and perform ongoing evaluation of select materials to be recycled, repaired or replaced and catalog materials as required;
-* Examine trade publications and materials, interview publishers’ representatives, and consult with department chairpersons to select materials;
-* Edit and maintain Library website for better user experience.
-* Chair the Library Advisory Committee (LAC);
-* Respond to in-person, telephone and virtual requests for information and research;
-* Oversee the classroom and online instruction; Provide ongoing guidance of information literacy to students and provide library public relations services;
-* Member of Curriculum and Faculty Committees as library representative;
-* Instruct students, faculty and staff in the use of library resources including online databases, books, periodicals, etc.;
-* Develop bibliographic materials, fliers, pathfinders, etc.
-* Oversee the delivery of Audiovisual equipment for classes.
+##Responsibilities##
+Duties include, but are not limited to:  
+
+* provide reference and reader’s advisory
+* carry out other tasks as needed
+
+##Qualifications##
+
+* Must be able to assist patrons with a range of software and to assist in e-book and basic computer skills.
+* Master’s Degree in Library Science desired and Spanish language skills preferred. MLS students will be considered.
 
 ###Location###
 White Plains, NY
 
-###Starts On###
-Jan. 18, 2016, 8 a.m.
+###To Apply###
+Submit resume with references via email to:  
 
-##Job Requirements##
+Rosemary Rasmussen  
+Manager of Childrens’ Services  
+White Plains Public Library  
+[rrasmussen@whiteplainsny.gov](mailto:rrasmussen@whiteplainsny.gov)  
 
-###Experience###
-3 to 5 years experience working in higher education library settings.
-
-###Skills###
-* General knowledge of the principles and methods of modern academic library services including automated systems and electronic/digital resources
-* Strong written and verbal expression
-* Solid commitment to customer service
-* Good reference interview techniques including effective listening skills
-
-###Computer Skills###
-Knowledge of KOHA Integrated Library System (ILS), online databases, and the Internet
-
-###Education Required###
-MLS or equivalent from an ALA accredited College
+Applications will be accepted until January 31, 2016.
 
 ###Company Information###
+White Plains Public Library | 100 Martine Avenue | White Plains, NY | 10601 | United States
 
-The College of Westchester
-325 Central Avenue
-White Plains NY 10606
-United States
-
-###Contact Information###
-
-Phone: None
-Fax:
-wrosenberg@cw.edu
-www.cw.edu
+###Contact Information
+Rosemary Rasmussen | [rrasmussen@whiteplainsny.gov](mailto:rrasmussen@whiteplainsny.gov)

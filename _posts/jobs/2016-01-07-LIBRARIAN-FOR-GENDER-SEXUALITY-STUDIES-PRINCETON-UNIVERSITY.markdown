@@ -1,63 +1,55 @@
 ---
 layout: post
-title:  "Director of college library services - the College of Westchester"
-date:   2016-01-04
+title:  "Librarian for Reference and Research Services and Gender and Sexuality Studies - Princeton University"
+date:   2016-01-07
 ---
+The Princeton University Library is one of the world's leading research libraries, serving a diverse community of 5,200 undergraduates, 2,700 graduate students, 1,200 faculty members, and many visiting scholars. Its holdings include more than 9 million printed volumes, 5 million manuscripts, 2 million non-print items, and extensive collections of digital text, data, and images. The Library employs a dedicated and knowledgeable staff of more than 300 professional and support staff working in a large central library, 9 specialized branches, and 3 storage facilities. More information: [http://library.princeton.edu/](http://library.princeton.edu/) 
 
-whatever
+The Princeton University Library seeks an accomplished, service-oriented professional to provide general reference and research services for Princeton students, faculty, and visiting scholars. This position coordinates user services provided by students at the Firestone Library Reference Desk, participates in direct provision of email and chat reference services, offers bibliographic instruction, and leads general orientation sessions. Selects and maintains the Firestone Library Reference Collection. This position also serves as the subject specialist for Gender and Sexuality Studies: selects and manages these collections, provides services including library instruction and research consultations, and is the Library's liaison to the Program in Gender and Sexuality Studies. Works closely with other subject specialists and public services librarians. Represents Princeton in relevant regional, national and international professional and scholarly organizations. The position reports to the Associate University Librarian for Research and Instructional Services. 
 
-##Duties and Responsibilities##
+The successful candidate will be appointed to an appropriate Librarian rank depending upon qualifications and experience. Applications will be accepted only from the Jobs at Princeton website: [http://www.princeton.edu/jobs](http://www.princeton.edu/jobs) and must include a resume, cover letter, and a list of three references with full contact information. This position is subject to the university's background check policy. 
 
-* Oversee daily operation of the Library and supervise library staff and library interns to ensure a full array of library services are provided during library operational hours.
-* Analyze and coordinate departmental budget estimates and control expenditures to administer approved budget;
-* Submit recommendations on library policies and services and implement policy decisions;
-* Submit recommendations on learning support policies and services and implement policy decisions
-* Provide research services to faculty and staff in support of curriculum and strategic planning initiatives and to support institutional effectiveness practices;
-* Work closely with the Director of IT and the Director of Security to ensure a user-friendly and efficient ID system.
-* Review and evaluate orders for books, serials, and periodicals and perform ongoing evaluation of select materials to be recycled, repaired or replaced and catalog materials as required;
-* Examine trade publications and materials, interview publishers’ representatives, and consult with department chairpersons to select materials;
-* Edit and maintain Library website for better user experience.
-* Chair the Library Advisory Committee (LAC);
-* Respond to in-person, telephone and virtual requests for information and research;
-* Oversee the classroom and online instruction; Provide ongoing guidance of information literacy to students and provide library public relations services;
-* Member of Curriculum and Faculty Committees as library representative;
-* Instruct students, faculty and staff in the use of library resources including online databases, books, periodicals, etc.;
-* Develop bibliographic materials, fliers, pathfinders, etc.
-* Oversee the delivery of Audiovisual equipment for classes.
+Princeton University is an Equal Opportunity/Affirmative Action Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law. Princeton is especially interested in qualified candidates who can contribute, through their service to the Library, to the diversity and excellence of our academic community.  
+
+###URL###
+[https://jobs.princeton.edu/applicants/jsp/shared/position/JobDetails_css.jsp?postingId=217631](https://jobs.princeton.edu/applicants/jsp/shared/position/JobDetails_css.jsp?postingId=217631)
 
 ###Location###
-White Plains, NY
-
-###Starts On###
-Jan. 18, 2016, 8 a.m.
+Princeton University Library, Princeton, New Jersey
 
 ##Job Requirements##
 
 ###Experience###
-3 to 5 years experience working in higher education library settings.
+Minimum 1 year professional experience relevant to reference or research services in an academic or research library.  
+
+Broad familiarity with academic research in the field of gender and sexuality.  
 
 ###Skills###
-* General knowledge of the principles and methods of modern academic library services including automated systems and electronic/digital resources
-* Strong written and verbal expression
-* Solid commitment to customer service
-* Good reference interview techniques including effective listening skills
-
-###Computer Skills###
-Knowledge of KOHA Integrated Library System (ILS), online databases, and the Internet
+**Required Qualifications:**  
+* An ALA-accredited Master's degree in library science. 
+* An academic degree that includes coursework in gender and sexuality studies. 
+* Minimum 1 year professional experience relevant to reference or research services in an academic or research library. 
+* Excellent interpersonal skills and ability to work successfully and collegially with a diverse group of colleagues, scholars, and students.  
+    
+**Strongly Preferred:**
+* Broad familiarity with academic research in the field of gender and sexuality. 
+* Experience conducting bibliographic instruction or research consultations in an academic setting.
+* Ability to work effectively in a rapidly changing environment. 
 
 ###Education Required###
-MLS or equivalent from an ALA accredited College
+An ALA-accredited Master's degree in library science.
 
 ###Company Information###
-
-The College of Westchester
-325 Central Avenue
-White Plains NY 10606
+Princeton University Library  
+1 Washington Road  
+Princeton New Jersey 08544  
 United States
 
 ###Contact Information###
+Robin  
+Phone: (609) 258-8515  
+[rdunham@princeton.edu](mailto:rdunham@princeton.edu)
+[http://www.princeton.edu/jobs](http://www.princeton.edu/jobs)
 
-Phone: None
-Fax:
-wrosenberg@cw.edu
-www.cw.edu
+####Contact Method####
+Applications will be accepted only from the Jobs at Princeton website: http://www.princeton.edu/jobs and must include a resume, cover letter, and a list of three references with full contact information. This position is subject to the university's background check policy.

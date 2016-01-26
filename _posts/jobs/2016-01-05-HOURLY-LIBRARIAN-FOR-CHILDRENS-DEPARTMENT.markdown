@@ -1,63 +1,38 @@
 ---
 layout: post
-title:  "Director of college library services - the College of Westchester"
-date:   2016-01-04
+title:  "Hourly Librarian for Children's Department - New Rochelle Public Library"
+date:   2016-01-05
 ---
+This part-time position requires the employee to perform reference services for the children’s department, as assigned under the supervision of the head of the department.  
 
-whatever
+The duties of this position primarily include answering reference questions using the OPAC and the internet and assist children and parents with computer and printer difficulties.  The position requires flexible hours in order to work day, evening and/or weekend hours.  Hours can vary from week-to-week.  This position allows the employee to work up to 19 hours per week.
 
-##Duties and Responsibilities##
+Applicants must go to City Hall in New Rochelle to fill out an application.
 
-* Oversee daily operation of the Library and supervise library staff and library interns to ensure a full array of library services are provided during library operational hours.
-* Analyze and coordinate departmental budget estimates and control expenditures to administer approved budget;
-* Submit recommendations on library policies and services and implement policy decisions;
-* Submit recommendations on learning support policies and services and implement policy decisions
-* Provide research services to faculty and staff in support of curriculum and strategic planning initiatives and to support institutional effectiveness practices;
-* Work closely with the Director of IT and the Director of Security to ensure a user-friendly and efficient ID system.
-* Review and evaluate orders for books, serials, and periodicals and perform ongoing evaluation of select materials to be recycled, repaired or replaced and catalog materials as required;
-* Examine trade publications and materials, interview publishers’ representatives, and consult with department chairpersons to select materials;
-* Edit and maintain Library website for better user experience.
-* Chair the Library Advisory Committee (LAC);
-* Respond to in-person, telephone and virtual requests for information and research;
-* Oversee the classroom and online instruction; Provide ongoing guidance of information literacy to students and provide library public relations services;
-* Member of Curriculum and Faculty Committees as library representative;
-* Instruct students, faculty and staff in the use of library resources including online databases, books, periodicals, etc.;
-* Develop bibliographic materials, fliers, pathfinders, etc.
-* Oversee the delivery of Audiovisual equipment for classes.
+**Level:**
+Librarian 1
 
-###Location###
-White Plains, NY
+**Position Reports To:**
+Mrs. Kathleen Cronin
 
-###Starts On###
-Jan. 18, 2016, 8 a.m.
+**Location:**
+New Rochelle Public Library
+
 
 ##Job Requirements##
-
-###Experience###
-3 to 5 years experience working in higher education library settings.
-
-###Skills###
-* General knowledge of the principles and methods of modern academic library services including automated systems and electronic/digital resources
-* Strong written and verbal expression
-* Solid commitment to customer service
-* Good reference interview techniques including effective listening skills
-
-###Computer Skills###
-Knowledge of KOHA Integrated Library System (ILS), online databases, and the Internet
-
-###Education Required###
-MLS or equivalent from an ALA accredited College
+* Must have experience working as a children's librarian in a public library or school.
+* Knowledge of Children's literature and pop culture. Spanish speaking a plus.
+* Internet, MS Word, OPAC
+* College degree; Masters in Library Science
 
 ###Company Information###
-
-The College of Westchester
-325 Central Avenue
-White Plains NY 10606
-United States
+New Rochelle Public Library,
+1 Library Plaza,
+New Rochelle NY 10595
 
 ###Contact Information###
 
-Phone: None
-Fax:
-wrosenberg@cw.edu
-www.cw.edu
+Mrs. Kathleen Cronin
+Phone: (914) 813-3716
+[mailto:kcronin@wlsmail.org](kcronin@wlsmail.org)
+[www.nrpl.org](www.nrpl.org)

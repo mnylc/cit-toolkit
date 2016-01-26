@@ -1,63 +1,28 @@
 ---
 layout: post
-title:  "Director of college library services - the College of Westchester"
-date:   2016-01-04
+title:  "Reference Librarian - New York Historical Society"
+date:   2016-01-08
 ---
+The Department of Prints, Photographs, and Architectural Collections (PPAC) holds more than 300 collections, including 500,000 photographic prints and negatives, over one million historical prints and ephemera, approximately 100,000 architectural drawings, and the records of such noted American architects as Cass Gilbert and McKim, Mead and White.  These collections are used daily by in-house and external researchers, including historians, art historians, architects, preservationists, filmmakers and the general public.
 
-whatever
+##Job description##
+The New-York Historical Society is seeking an experienced reference librarian to work in its Department of Prints, Photographs, and Architectural Collections. Public service is the primary focus of this position. Specific aspects of public service and other responsibilities include: 
+* Conducting in-depth reference interviews prior to scheduling of appointments; coordinating and  providing reference service on-site and by telephone, letter, and e-mail to all those interested in the department’s collections. 
+* Occasional provision of reference service in the library’s departments of manuscripts and printed collections.
+* Educating researchers about rules and procedures for proper handling of the collections; monitoring researchers’ use of the collections
+* Providing photocopies for researchers and coordinating image requests with the Department of Rights and Reproductions
+* Working with the Department Head and other staff to set processing and cataloging priorities for the Department, including the selection and organizing of collections for digitization.
+* Coordinating the retrieval and return of collections for researchers, maintaining collections, and tracking the flow of collections in and out of PPAC
+* Assisting in record keeping of acquisitions
+* Education and outreach activities, such as group presentations
 
-##Duties and Responsibilities##
+###Qualifications###
+M.L.S. from an A.L.A. accredited library school. One to two years experience in a busy reference setting, preferably in an academic or research library. Experience identifying and working with visual materials collections, and familiarity with their care, organization, and arrangement. Ability to work independently and as part of a team in an environment of frequently shifting projects and responsibilities. Good attention to details and organizational skills. Excellent oral and written communication skills. Subject specialty in American history, New York history or art history is preferred.
 
-* Oversee daily operation of the Library and supervise library staff and library interns to ensure a full array of library services are provided during library operational hours.
-* Analyze and coordinate departmental budget estimates and control expenditures to administer approved budget;
-* Submit recommendations on library policies and services and implement policy decisions;
-* Submit recommendations on learning support policies and services and implement policy decisions
-* Provide research services to faculty and staff in support of curriculum and strategic planning initiatives and to support institutional effectiveness practices;
-* Work closely with the Director of IT and the Director of Security to ensure a user-friendly and efficient ID system.
-* Review and evaluate orders for books, serials, and periodicals and perform ongoing evaluation of select materials to be recycled, repaired or replaced and catalog materials as required;
-* Examine trade publications and materials, interview publishers’ representatives, and consult with department chairpersons to select materials;
-* Edit and maintain Library website for better user experience.
-* Chair the Library Advisory Committee (LAC);
-* Respond to in-person, telephone and virtual requests for information and research;
-* Oversee the classroom and online instruction; Provide ongoing guidance of information literacy to students and provide library public relations services;
-* Member of Curriculum and Faculty Committees as library representative;
-* Instruct students, faculty and staff in the use of library resources including online databases, books, periodicals, etc.;
-* Develop bibliographic materials, fliers, pathfinders, etc.
-* Oversee the delivery of Audiovisual equipment for classes.
+###Compensation###
+Commensurate with background and experience.  Attractive benefits package.
 
-###Location###
-White Plains, NY
+##To apply##
+For consideration please send cover letter, resume, and the names and contact information of three references to [resumes@nyhistory.org](mailto:resumes@nyhistory.org). **In the subject line please reference the job title.**  
 
-###Starts On###
-Jan. 18, 2016, 8 a.m.
-
-##Job Requirements##
-
-###Experience###
-3 to 5 years experience working in higher education library settings.
-
-###Skills###
-* General knowledge of the principles and methods of modern academic library services including automated systems and electronic/digital resources
-* Strong written and verbal expression
-* Solid commitment to customer service
-* Good reference interview techniques including effective listening skills
-
-###Computer Skills###
-Knowledge of KOHA Integrated Library System (ILS), online databases, and the Internet
-
-###Education Required###
-MLS or equivalent from an ALA accredited College
-
-###Company Information###
-
-The College of Westchester
-325 Central Avenue
-White Plains NY 10606
-United States
-
-###Contact Information###
-
-Phone: None
-Fax:
-wrosenberg@cw.edu
-www.cw.edu
+The New-York Historical Society is an Equal Opportunity Employer.

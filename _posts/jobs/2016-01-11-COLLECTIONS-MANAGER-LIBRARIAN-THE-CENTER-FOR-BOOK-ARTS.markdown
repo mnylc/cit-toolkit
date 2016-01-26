@@ -1,63 +1,56 @@
 ---
 layout: post
-title:  "Director of college library services - the College of Westchester"
-date:   2016-01-04
+title:  "Collections Manager/Librarian - the Center for Book Arts"
+date:   2016-01-11
 ---
+The Center for Book Arts seeks a collections specialist or librarian to oversee the ongoing documentation and management of the Center’s permanent collections, including the Reference Library, Fine Arts Collections, and Archives. This is a temporary part-time grant-funded position with possibility for growth to permanent.
 
-whatever
+Part-time Temporary  
 
-##Duties and Responsibilities##
+$20 per hour, 15-20 hours a week  
 
-* Oversee daily operation of the Library and supervise library staff and library interns to ensure a full array of library services are provided during library operational hours.
-* Analyze and coordinate departmental budget estimates and control expenditures to administer approved budget;
-* Submit recommendations on library policies and services and implement policy decisions;
-* Submit recommendations on learning support policies and services and implement policy decisions
-* Provide research services to faculty and staff in support of curriculum and strategic planning initiatives and to support institutional effectiveness practices;
-* Work closely with the Director of IT and the Director of Security to ensure a user-friendly and efficient ID system.
-* Review and evaluate orders for books, serials, and periodicals and perform ongoing evaluation of select materials to be recycled, repaired or replaced and catalog materials as required;
-* Examine trade publications and materials, interview publishers’ representatives, and consult with department chairpersons to select materials;
-* Edit and maintain Library website for better user experience.
-* Chair the Library Advisory Committee (LAC);
-* Respond to in-person, telephone and virtual requests for information and research;
-* Oversee the classroom and online instruction; Provide ongoing guidance of information literacy to students and provide library public relations services;
-* Member of Curriculum and Faculty Committees as library representative;
-* Instruct students, faculty and staff in the use of library resources including online databases, books, periodicals, etc.;
-* Develop bibliographic materials, fliers, pathfinders, etc.
-* Oversee the delivery of Audiovisual equipment for classes.
+###Responsibilities###
+* Document and catalogue works (primarily reference materials and fine art works including artist books, art objects, limited editions) in the Center’s collections
+* Supervise cataloguing interns, collections photography, and rehousing volunteers, including recruiting and training
+* Respond to collections related inquiries from the public and from the Center’s artist community
+* Work with the Executive Director/Curator to organize the Permanent Collections Spotlight exhibitions
+* Help to create and institute internal circulation procedures for the Reference Library
+* Conduct other collections-related research and administration as needed
+* Assist with the arrangement of traveling exhibitions
+* Oversee loans of items from the Permanent Collection to other institutions
+
+###Qualifications###
+* Required education: MLS or arts/museum collection management degree or certificate
+* Prior experience working in a museum, library, or archives context
+* Experience in cataloguing and/or special collections management strongly preferred
+* Experience in the physical handling or housing of rare books or works on paper
+* High comfort level with computers and other technology
+* Proficient with Microsoft Excel
+* Experience with Photoshop and scanners preferred
+* Experience with Collective Access or other database system preferred
+* Comfortable multitasking in an open office and lively studio/gallery environment
+* Proactive and self-motivated
+* Interest in bookbinding, letterpress printing, history of the book, and other book arts a plus
+
+###To Apply###
+Send cover letter, and resume via email: [jobs@centerforbookarts.org](mailto:jobs@centerforbookarts.org) with the subject matter “Collections Manager.”  
+
+**About the Center for Book Arts**  
+The Center for Book Arts promotes active explorations of both contemporary and traditional artistic practices related to the book as an art object. Founded in 1974, the Center for Book Arts is unique among art organizations in New York as the only venue at which visitors can view exhibitions of contemporary book arts in the context of an active studio. The Center has produced over 300 exhibitions, involving more than 10,000 artists. The Center offers an extensive selection of 150 classes & workshops annually, along with lectures, readings, and other public programs.
 
 ###Location###
-White Plains, NY
+Manhattan
 
 ###Starts On###
-Jan. 18, 2016, 8 a.m.
-
-##Job Requirements##
-
-###Experience###
-3 to 5 years experience working in higher education library settings.
-
-###Skills###
-* General knowledge of the principles and methods of modern academic library services including automated systems and electronic/digital resources
-* Strong written and verbal expression
-* Solid commitment to customer service
-* Good reference interview techniques including effective listening skills
-
-###Computer Skills###
-Knowledge of KOHA Integrated Library System (ILS), online databases, and the Internet
-
-###Education Required###
-MLS or equivalent from an ALA accredited College
+Jan. 19, 2016
 
 ###Company Information###
-
-The College of Westchester
-325 Central Avenue
-White Plains NY 10606
-United States
+The Center for Book Arts  
+28 West 27th Street  
+New York NY 10001  
+United States  
 
 ###Contact Information###
-
-Phone: None
-Fax:
-wrosenberg@cw.edu
-www.cw.edu
+Paul Romaine  
+Phone: (212) 481-0295  
+[promaine@centerforbookarts.org](mailto:promaine@centerforbookarts.org)

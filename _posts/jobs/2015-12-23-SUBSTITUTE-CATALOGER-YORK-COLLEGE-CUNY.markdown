@@ -1,63 +1,34 @@
 ---
 layout: post
-title:  "Director of college library services - the College of Westchester"
-date:   2016-01-04
+title:  "Substitute Cataloger - York College, CUNY"
+date:   2015-12-23
 ---
 
-The College of Westchester in White Plains, NY is seeking a Director of College Library Services.  The Director of College Library Services plans and administers a comprehensive program of library professional services to all students, faculty, and staff by supervising the Library staff, by answering research and information queries, cataloging materials, by assisting with collection development, and performs professional library duties in the selection, acquisition, organization, and use of books, periodicals, materials, and electronic resources. The Director is further responsible for overseeing that students are provided with instruction (online and on ground) and measured for Information Literacy competence.  In addition, the Director of the College Library Services will have primary responsibility for the delegation of duties to all personnel involved in the Library as well as primary oversight for all services provided.  
+York College, CUNY (Jamaica, Queens, NY) seeks a full-time Substitute Cataloging Librarian for Spring 2016. Substitutes are appointed on a semester-by-semester basis, and there is the possibility that the successful candidate may also be appointed again for Fall 2016. The Substitute Cataloging Librarian will work within a collaborative and collegial environment and report to the Chief Librarian, providing general cataloging support for the Library. Performs full original and complex copy cataloging of various types of materials across all disciplines, including print, media, digital resources, and other non-print formats. Trains staff as necessary and may supervise full-time and/or part-time non-librarian employees. Participates in active Reference and Information Literacy programs.  
 
-##Duties and Responsibilities##
+##Qualifications##
+* MLS (or equivalent) degree from an ALA-accredited institution. A second Master’s degree is required for appointment as a Substitute Assistant Professor
+* Professional cataloging experience in an academic library
+* Familiarity with MARC format and cataloging rules, including RDA, AACR2, LCSH, and LCC
+* Experience with an integrated library system (Aleph 500 strongly preferred)
+* Experience with OCLC and Connexion client
+* Working knowledge of standard bibliographic and other reference tools
+* Strong interpersonal skills and organization skills
+* Effective verbal and written communication skills
 
-* Oversee daily operation of the Library and supervise library staff and library interns to ensure a full array of library services are provided during library operational hours.
-* Analyze and coordinate departmental budget estimates and control expenditures to administer approved budget;
-* Submit recommendations on library policies and services and implement policy decisions;
-* Submit recommendations on learning support policies and services and implement policy decisions
-* Provide research services to faculty and staff in support of curriculum and strategic planning initiatives and to support institutional effectiveness practices;
-* Work closely with the Director of IT and the Director of Security to ensure a user-friendly and efficient ID system.
-* Review and evaluate orders for books, serials, and periodicals and perform ongoing evaluation of select materials to be recycled, repaired or replaced and catalog materials as required;
-* Examine trade publications and materials, interview publishers’ representatives, and consult with department chairpersons to select materials;
-* Edit and maintain Library website for better user experience.
-* Chair the Library Advisory Committee (LAC);
-* Respond to in-person, telephone and virtual requests for information and research;
-* Oversee the classroom and online instruction; Provide ongoing guidance of information literacy to students and provide library public relations services;
-* Member of Curriculum and Faculty Committees as library representative;
-* Instruct students, faculty and staff in the use of library resources including online databases, books, periodicals, etc.;
-* Develop bibliographic materials, fliers, pathfinders, etc.
-* Oversee the delivery of Audiovisual equipment for classes.
+###To Apply###
+Send resume, cover letter, and names of and contact information for three professional references by January 14, 2016 to:  
 
-###Location###
-White Plains, NY
+Prof. Njoki Kinyatti, Chief Librarian  
+York College, CUNY  
+94-20 Guy R. Brewer Blvd  
+Jamaica, NY 11451  
 
-###Starts On###
-Jan. 18, 2016, 8 a.m.
-
-##Job Requirements##
-
-###Experience###
-3 to 5 years experience working in higher education library settings.
-
-###Skills###
-* General knowledge of the principles and methods of modern academic library services including automated systems and electronic/digital resources
-* Strong written and verbal expression
-* Solid commitment to customer service
-* Good reference interview techniques including effective listening skills
-
-###Computer Skills###
-Knowledge of KOHA Integrated Library System (ILS), online databases, and the Internet
-
-###Education Required###
-MLS or equivalent from an ALA accredited College
+Tel: 718-262-2021  
+Email: [nkinyatti@york.cuny.edu](mailto:nkinyatti@york.cuny.edu)
 
 ###Company Information###
+York College, CUNY | 94-20 Guy R. Brewer Blvd | Jamaica, NY | 11451 | United States
 
-The College of Westchester
-325 Central Avenue
-White Plains NY 10606
-United States
-
-###Contact Information###
-
-Phone: None
-Fax:
-wrosenberg@cw.edu
-www.cw.edu
+###Contact Information
+Njoki Kinyatti | Phone: (718) 262-2021 | Fax: (718) 262-2997 | [nkinyatti@york.cuny.edu](mailto:nkinyatti@york.cuny.edu) | [http://www.york.cuny.edu/library](http://www.york.cuny.edu/library)

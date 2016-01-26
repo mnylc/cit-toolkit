@@ -1,63 +1,34 @@
 ---
 layout: post
-title:  "Director of college library services - the College of Westchester"
-date:   2016-01-04
+title:  "President - York County (PA) Libraries"
+date:   2015-12-12
 ---
 
-The College of Westchester in White Plains, NY is seeking a Director of College Library Services.  The Director of College Library Services plans and administers a comprehensive program of library professional services to all students, faculty, and staff by supervising the Library staff, by answering research and information queries, cataloging materials, by assisting with collection development, and performs professional library duties in the selection, acquisition, organization, and use of books, periodicals, materials, and electronic resources. The Director is further responsible for overseeing that students are provided with instruction (online and on ground) and measured for Information Literacy competence.  In addition, the Director of the College Library Services will have primary responsibility for the delegation of duties to all personnel involved in the Library as well as primary oversight for all services provided.  
+Let [York County (PA) Libraries](http://www.yorklibraries.org/) be the answer when looking for your next career possibility! The York County Libraries Board of Directors seeks an innovative, entrepreneurial and experienced President to implement the exciting vision for the library and its many constituencies. Located in south-central Pennsylvania, York County is situated on the northern Maryland border, covers roughly 900 square miles, and serves a population of 437,846 residents with 13 public libraries. YCL is a federated library system comprised of six branch and seven member libraries. System-wide revenues of $10M include a county dedicated library tax, PA State Aid, grants, local and private funds, as well as contract management fees for innovative and entrepreneurial programs delivered to public and private schools, hospitals, and outreach services. YCL directly employs 117 staff at ten of its thirteen libraries and another 114 employees at its contract sites. More than 45% of York County residents hold library cards and borrow more than 1.8 million items each year.
 
-##Duties and Responsibilities##
+#More##
+There’s no better place to live than historic [York County](http://yorkcountypa.gov/)—nestled in the Susquehanna River Valley of South Central Pennsylvania—York offers big-city amenities with small-town charm. While continuing to embrace its agricultural roots, the county also has evolved into a manufacturing and business hub. Major companies with roots in York County include Harley-Davidson, York Barbell, Voith Hydro, York International, Utz Quality Foods, Snyder’s of Hanover and BAE Systems.  A bustling local economy has made York one of the fastest growing counties in Pennsylvania. York also has great [schools](http://yorkcountypa.gov/about-york-county/education/197-about-york-county/education/694-local-schools-in-york,-pa.html), a low cost of living, quality health care and boundless entertainment opportunities. Since 2009, York has seen the emergence of cultural events and movements, art exhibits and shops, multiple music and performance venues, industrial street art, family events, children’s activities, “foodie” delights from festivals to underground restaurants, and more. York has become a place where you can have it all: a challenging and rewarding career, deep friendships, engaging social life, valuable education, family-friendly activities and a great place to call home. York is only a short drive away from Philadelphia, Harrisburg, Pittsburgh, Baltimore, and Washington, D.C. For more information about the System and the area see [YCL Links](http://www.gossagesager.com/Yorklinks.htm).  
 
-* Oversee daily operation of the Library and supervise library staff and library interns to ensure a full array of library services are provided during library operational hours.
-* Analyze and coordinate departmental budget estimates and control expenditures to administer approved budget;
-* Submit recommendations on library policies and services and implement policy decisions;
-* Submit recommendations on learning support policies and services and implement policy decisions
-* Provide research services to faculty and staff in support of curriculum and strategic planning initiatives and to support institutional effectiveness practices;
-* Work closely with the Director of IT and the Director of Security to ensure a user-friendly and efficient ID system.
-* Review and evaluate orders for books, serials, and periodicals and perform ongoing evaluation of select materials to be recycled, repaired or replaced and catalog materials as required;
-* Examine trade publications and materials, interview publishers’ representatives, and consult with department chairpersons to select materials;
-* Edit and maintain Library website for better user experience.
-* Chair the Library Advisory Committee (LAC);
-* Respond to in-person, telephone and virtual requests for information and research;
-* Oversee the classroom and online instruction; Provide ongoing guidance of information literacy to students and provide library public relations services;
-* Member of Curriculum and Faculty Committees as library representative;
-* Instruct students, faculty and staff in the use of library resources including online databases, books, periodicals, etc.;
-* Develop bibliographic materials, fliers, pathfinders, etc.
-* Oversee the delivery of Audiovisual equipment for classes.
+##Responsibilities##
+The President is one of the primary champions for library service, who, in collaboration with the Board of Directors, creates the vision for the organization; is responsible for providing strategic leadership, and ensures that fiscal, fundraising, marketing, human resource, government relations, technology,  programmatic, and  operational strategies are effectively implemented across all segments of the organization.
+
+##Qualifications##
+Minimum requirementsfor the position include an MLS degree from an ALA accredited institution and a minimum of 5 years in administration with a solid background in institutional advancement and experience as an advocate for literacy and intellectual freedom. Essential attributes and skills include: strategic agility; exceptional communication skills; high emotional intelligence and comfort dealing with ambiguity; political and interpersonal savvy; business acumen; integrity and trust; future focus with skill in managing vision and purpose; innovative management and organizational agility; and perspective with a good sense of humor. A second advanced degree in related business and proven experience reporting to a governing Board are very desirable. For the complete description, visit [York President Position Description](http://www.gossagesager.com/yorkpresdesc.pdf).
+
+###Compensation###
+The starting salary range for the position is $105,000-$125,000 (with placement dependent upon experience and qualifications) and an attractive [benefits package](http://www.gossagesager.com/yorkbenefits.pdf).
 
 ###Location###
-White Plains, NY
+York, Pennsylvania
 
-###Starts On###
-Jan. 18, 2016, 8 a.m.
+###URL###
+[http://www.gossagesager.com/yorkad.htm](http://www.gossagesager.com/yorkad.htm)
 
-##Job Requirements##
-
-###Experience###
-3 to 5 years experience working in higher education library settings.
-
-###Skills###
-* General knowledge of the principles and methods of modern academic library services including automated systems and electronic/digital resources
-* Strong written and verbal expression
-* Solid commitment to customer service
-* Good reference interview techniques including effective listening skills
-
-###Computer Skills###
-Knowledge of KOHA Integrated Library System (ILS), online databases, and the Internet
-
-###Education Required###
-MLS or equivalent from an ALA accredited College
+###For Further Information###
+Contact [Bradbury Associates/Gossage Sager Associates](http://www.gossagesager.com/) via email or telephone. To start the application process, send a meaningful cover letter and your resume as Word or pdf attachments via email to [Dan Bradbury](mailto:danbradbury@gossagesager.com) on or before the closing date of **February 21, 2016**.
 
 ###Company Information###
-
-The College of Westchester
-325 Central Avenue
-White Plains NY 10606
-United States
+Bradbury Associates/Gossage Sager Associates | 4545 Wornall Rd | Kansas City, Missouri 64111 | United States
 
 ###Contact Information###
-
-Phone: None
-Fax:
-wrosenberg@cw.edu
-www.cw.edu
+Jobeth Bradbury | Phone: (816) 803-7087 | [jobethbradbury@gossagesager.com](jobethbradbury@gossagesager.com) | [www.gossagesager.com](www.gossagesager.com)

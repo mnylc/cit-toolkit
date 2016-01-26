@@ -1,63 +1,62 @@
 ---
 layout: post
-title:  "Director of college library services - the College of Westchester"
-date:   2016-01-04
+title:  "Scholarly Communications Librarian (Part Time) - New York Medical College"
+date:   2016-01-14
 ---
+Reporting to the Assistant Director, Information Management, the Scholarly Communications Librarian promotes and supports research and publishing activities within the New York Medical College Community.
 
-whatever
+###Responsibilities###
+* Lead the production of the Faculty Author Bibliography in conjunction with colleagues at Touro University.
+* Participate in the implementation of an institutional repository system.
+* Market and promote the use of the institutional repository both by contributing faculty and end users.
+* Develop librarian staff awareness and knowledge of digital scholarship practices.
+* Facilitate researchers in meeting the requirements of the NIH Public Access Policy
+* Consult on intellectual property issues related to data sets and publications.
+* Maintain a current awareness of scholarly communication models, trends and issues.
+* Participate in Library Writing Center activities.
+* Lead special projects and serve as a member of project teams within and outside of the library.
+* Serve as a member of the Reference team with liaison responsibilities.
+* Exhibit continuous improvement in knowledge and skills.
 
-##Duties and Responsibilities##
+###Reporting###
+This position reports to the Assistant Director, Information Management.
 
-* Oversee daily operation of the Library and supervise library staff and library interns to ensure a full array of library services are provided during library operational hours.
-* Analyze and coordinate departmental budget estimates and control expenditures to administer approved budget;
-* Submit recommendations on library policies and services and implement policy decisions;
-* Submit recommendations on learning support policies and services and implement policy decisions
-* Provide research services to faculty and staff in support of curriculum and strategic planning initiatives and to support institutional effectiveness practices;
-* Work closely with the Director of IT and the Director of Security to ensure a user-friendly and efficient ID system.
-* Review and evaluate orders for books, serials, and periodicals and perform ongoing evaluation of select materials to be recycled, repaired or replaced and catalog materials as required;
-* Examine trade publications and materials, interview publishers’ representatives, and consult with department chairpersons to select materials;
-* Edit and maintain Library website for better user experience.
-* Chair the Library Advisory Committee (LAC);
-* Respond to in-person, telephone and virtual requests for information and research;
-* Oversee the classroom and online instruction; Provide ongoing guidance of information literacy to students and provide library public relations services;
-* Member of Curriculum and Faculty Committees as library representative;
-* Instruct students, faculty and staff in the use of library resources including online databases, books, periodicals, etc.;
-* Develop bibliographic materials, fliers, pathfinders, etc.
-* Oversee the delivery of Audiovisual equipment for classes.
+###Schedule###
+Flexible 14 hours per week with possible full-time in the future if desired.
+
+###URL###
+[https://www.nymc.edu/depthome/hr/available_postings.asp](https://www.nymc.edu/depthome/hr/available_postings.asp)
+
+###Position reports to###
+Assistant Director, Information Management
 
 ###Location###
-White Plains, NY
+New York Medical College, Valhalla, NY
 
 ###Starts On###
-Jan. 18, 2016, 8 a.m.
+Feb. 1, 2016
 
 ##Job Requirements##
 
-###Experience###
-3 to 5 years experience working in higher education library settings.
-
-###Skills###
-* General knowledge of the principles and methods of modern academic library services including automated systems and electronic/digital resources
-* Strong written and verbal expression
-* Solid commitment to customer service
-* Good reference interview techniques including effective listening skills
-
-###Computer Skills###
-Knowledge of KOHA Integrated Library System (ILS), online databases, and the Internet
+###Qualifications###
+* Enthusiasm and knowledge related to scholarly communications issues and trends.
+* Ability to work in a team environment and build working relationships with campus colleagues.
+* Excellent interpersonal and communication skills and ability to work well with a diverse population of faculty, students, and academic colleagues.
+* Ability to initiate and manage projects effectively, with attention to detail.
+* Ability to deliver in-person and online reference services.
+* Strong technical skills and ability to test and apply technologies to library projects.
+* Desire and ability to continuously improve skills and knowledge level, including seeking AHIP accreditation.
 
 ###Education Required###
-MLS or equivalent from an ALA accredited College
-
-###Company Information###
-
-The College of Westchester
-325 Central Avenue
-White Plains NY 10606
-United States
+Masters degree in Library Science from an ALA-accredited school.
 
 ###Contact Information###
-
-Phone: None
-Fax:
-wrosenberg@cw.edu
-www.cw.edu
+Alicia Parrish  
+Employment Manager  
+New York Medical College  
+40 Sunshine Cottage Road  
+Administration Building  
+Valhalla, NY 10595  
+P-914-594-4564  
+F-914-594-4309  
+[Alicia_parrish@nymc.edu](mailto:Alicia_parrish@nymc.edu) 
