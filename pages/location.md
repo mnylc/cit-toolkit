@@ -52,33 +52,27 @@ Go to Google Maps for Driving Directions.
 ## Parking
 We recommend parking in one of the nearby garages. The following parking garages are all near METRO (call garages for prices):
 
-Amber Parking Garage
-101 E. 13th Street and 4th Avenue
-(212) 674-9706
-
-Champion Parking Garage
-220 East 9th Street (between 2nd and 3rd Avenue)
-(212) 979-5708
-
-Chelnik, METRO Parking Garage
-741 Broadway (near 8th Street)
-(212) 475-9838
-
-GMC Parking Garage
-21 East 12th Street (between University Place and 5th Avenue)
-(or use entrance on University Place between 12th and 13th Streets)
-(212) 924-1604
-
-Key Parking Garage
-115 E. 9th Street, #34 (between 3rd and 4th Avenue)
-(212) 473-9643
-
-30-40-60 Parking Garage
-40 E. 9th Street (between Broadway and Washington Square Park)
-(212) 674-7291
-
-University 10th Parking Garage
-60 E. 10th Street and Broadway
-(212) 979-5380
+* Amber Parking Garage  
+101 E. 13th Street and 4th Avenue   
+(212) 674-9706  
+* Champion Parking Garage   
+220 East 9th Street (between 2nd and 3rd Avenue)   
+(212) 979-5708  
+* Chelnik, METRO Parking Garage  
+741 Broadway (near 8th Street)  
+(212) 475-9838  
+* GMC Parking Garage  
+21 East 12th Street (between University Place and 5th Avenue)  
+(or use entrance on University Place between 12th and 13th Streets)  
+(212) 924-1604  
+* Key Parking Garage  
+115 E. 9th Street, #34 (between 3rd and 4th Avenue)  
+(212) 473-9643  
+* 30-40-60 Parking Garage  
+40 E. 9th Street (between Broadway and Washington Square Park)  
+(212) 674-7291  
+* University 10th Parking Garage  
+60 E. 10th Street and Broadway  
+(212) 979-5380  
 
 For additional information, please call METRO at (212) 228-2320, ext.110.
