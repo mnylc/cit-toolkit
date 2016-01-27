@@ -3,10 +3,6 @@ title: Learning
 permalink: /learning/
 ---
 
-## Webinar Archives
-
-We keep digital copies of all of our past webinars. Register to our site to access to access our trove of webinars.
-
 ## Library Juice Academy
 
 Library Juice Academy offers a range of online professional development workshops for librarians and other library staff, focusing on practical topics to build new skills. Use the code METRO during registration to receive a 20% discount on any LJA courses and webinars.

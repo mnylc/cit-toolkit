@@ -1,3 +1,8 @@
+p {
+font-size: 1.6rem;
+	color:#505050 ;
+}
+
 h1,
 h2,
 h3,
@@ -13,10 +18,22 @@ h1 {
 
 h2 {
 	font-size: 3rem;
+	margin-top: 4rem;
+}
+
+h2#library-juice-academy,
+h2#lyndacom,
+h2#special-interest-groups
+ {
+	font-size: 2rem;
+	margin-top: 2rem;
+	color:#505050 ;
 }
 
 h3 {
 	font-size: 2rem;
+	margin-top: 3rem;
+	color:#505050 ;
 }
 
 h4 {
