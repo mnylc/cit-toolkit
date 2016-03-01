@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "University Archivist - New York University"
-date:   2016-01-25
+date:   2016-03-01
 ---
 Library facilities at New York University serve the school's 40,000 students and faculty and contain more than 5 million volumes. New York University Libraries is a member of the Association of Research Libraries, the HathiTrust, the Research Libraries Group Partnership of OCLC, and the Digital Library Federation, as well as regional resource sharing consortia. The Libraries also serves as the administrative headquarters of the Reseawrch Library Association of South Manhattan, a consortium that includes New School and Cooper Union. The NY School of Interior Design, New York Historical Society, and the Brooklyn Historical Society also participate in use of the ILS. For the NYU Libraries Mission and the Strategic Plan go to [https://library.nyu.edu/strategicplan/](https://library.nyu.edu/strategicplan/).
 
