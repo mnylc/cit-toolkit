@@ -1,3 +1,7 @@
 _site
 .sass-cache
 .DS_Store
+*~
+/.byebug_history
+/_data/.byebug_history
+/_posts/jobs/.byebug_history

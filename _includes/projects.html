@@ -2,7 +2,7 @@
 {% for project in site.data.projects %}
     <div class="col-md-4 col-sm-6 portfolio-item">
         <div class="portfolio-caption">
-        	<a href="{{ project.url | prepend: site.baseurl }}"><h2>{{ project.title }}</h2></a>
+        	<a href="{{ project.url }}"><h2>{{ project.title }}</h2></a>
             <p class="text-muted">{{ project.description }}</p>
         </div>
     </div>
