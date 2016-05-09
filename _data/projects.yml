@@ -5,7 +5,7 @@
   url: 'http://dcmny.org/'
   description: 'Collection hosting service featuring digital collections and exhibits from participating libraries, archives, museums and historical societies.'
 - title: 'Empire State Digital Network'
-  url: '/esdn'
+  url: '/projects/esdn'
   description: 'Maximizing access to New York state cultural history through metadata aggregation and refinement'
 - title: 'National Digital Stewardship Residency'
   url: 'http://ndsr.nycdigital.org/'

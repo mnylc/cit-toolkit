@@ -2,9 +2,20 @@
 {% for project in site.data.projects %}
     <div class="col-md-4 col-sm-6 portfolio-item">
         <div class="portfolio-caption">
-        	<a href="{{ project.url }}"><h2>{{ project.title }}</h2></a>
+          {% comment %}
+            We want to prepend the internal links with the baseurl but <!DOCTYPE html>
+            nothing with links that point to pages off this site. Perform a quick check
+            to see if the link has a protocol in it and act accordingly.
+            {% endcomment %}
+            {% assign split = project.url | split: '://' | size %}
+            {% if split == 2 %}
+            {% assign url = project.url %}
+            {% else if %}
+            {% assign url = project.url | prepend: site.baseurl %}
+            {% endif %}
+            <a href="{{ url }}"><h2>{{ project.title }}</h2></a>
             <p class="text-muted">{{ project.description }}</p>
         </div>
     </div>
-{% endfor %}
+    {% endfor %}
 </div>
