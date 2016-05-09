@@ -9,15 +9,14 @@ For nearly 50 years, METRO’s state-of-the-art training, services, and networki
 
 Join over 250 libraries, archives, and museums in New York City and Westchester county as a member of METRO. Get access to grant programs, resource sharing, vendor discounts, and registration discounts on professional development for your institution's employees.
 
-###Benefits###
+### Benefits
 
 * Digital Services
 * Grants
-* College and university libraries are eligible for Coordinated Collection Development Aid.
-* Members of our Hospital Library Service Program have access to Collection Development Grants, Technology Grants, and Medical Information Services Program grants.
+* College and university libraries are eligible for Coordinated Collection Development Aid
+* Hospital libraries have access to Collection Development Grants, Technology Grants, and Medical Information Services Program grants
 * Resource Sharing
 * Vendor Discounts
-* Annual Conference
 * Professional Development
 * Special Interest Groups
 * Meeting Spaces
@@ -25,7 +24,7 @@ Join over 250 libraries, archives, and museums in New York City and Westchester 
 * Job Bank
 * Discussion Lists
 
-###Membership Fees###
+### Membership Fees
 
 In accordance with Article II Section 9 of the Metro Bylaws “Dues for each category ofmembership shall be set by majority vote of the members based on recommendations of the Board of Trustees.” Until further action by the Board, the following annual dues schedule will be in effect. All dues assume non-profit status of member. For-profit membership rates are available upon request. 
 
@@ -40,7 +39,7 @@ In accordance with Article II Section 9 of the Metro Bylaws “Dues for each cat
 |  Between $1,000,000 and $2,000,000 |  $475            | 
 |   Over $2,000,000                  |  $3,802          | 
 
-###Eligibility###
+### Eligibility
 
 For purposes of membership in METRO, a library is defined as an entity that provides reference and research services and has a separate and independent budget. Libraries include, but are not limited to, public libraries, public elementary school or secondary school libraries, academic libraries, health sciences/medical libraries, research libraries, and private libraries, provided they are eligible to be considered libraries within the state in which they are organized. METRO does not certify or evaluate individual libraries except against our own membership criteria.
 
@@ -50,37 +49,23 @@ For purposes of membership in METRO, a library is defined as an entity that prov
 |  How to Apply?   |  Complete the online application and arrange a site visit by a METRO staff representative.               |                     |                     |   Submit a letter explaining your organization’s mission and provide recent annual report or similar document.  |
 
 
-[Learn more and join or renew]()
-
+[Join METRO](http://goo.gl/forms/4b8xV8yFPi)
 
 ## MyMetro Individual Membership
 
 Join more than 300 individual librarians, archivists, and information professionals as a myMETRO Member. Benefits include scholarships to conferences of your choosing, access to Lynda.com, our exclusive career services packages, and much more.
 
-###Benefits of myMETRO Membership###
+### Benefits of myMETRO Membership
 
-Build your community through
-
-* Members-only socials
-* Our annual myMETRO holiday party
-* Access to our members-only monthly newsletters
-
-Take advantage of our premier professional development opportunities
-
-* Scholarships to conferences, summits, and other professional events 
+* Scholarships to conferences, summits, and other professional events
 * Special rates to all METRO workshops
-* Access to METRO's archive of past webcasts
+* Access to METRO’s archive of past webcasts
 * Free seats at premier online learning platform Lynda.com
-* 20% Discount for Library Juice Academy courses
-* Eligiblity to participate in the annual myMETRO Researchers project 
-
-Expand your access to library collections and library-related information
-
-* Access to library referral cards 
+* Eligibility to participate in the annual myMETRO Researchers project
+* Access to library referral cards
 * Discounts on professional publications like Library Journal and Library Hotline
-* Members-only rates on selected METRO Vendor Partner products and services
 
-###Membership Fees###
+### Membership Fees
 
 Annual Fees for myMETRO Membership are
 
@@ -92,5 +77,3 @@ You can also consider renewing with the following discounts
 * $500 for lifetime membership
 * $250 for a 3-year professional membership
 * $125 for a 3-year student membership
-
-[Learn more and join or renew]()
