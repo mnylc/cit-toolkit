@@ -22,7 +22,7 @@ As Community Engagement Manager, Davis works to extend METRO's presence into the
 A graduate of Pratt Institute's School of Information and Library Science, Davis also holds two degrees in music performance. Prior to joining METRO, she worked for five years in the library at Boosey & Hawkes, a premiere classical music publishing company. An active member of SLA, Davis is a recipient of SLA’s Rising Star Award and is honored to have been included in Library Journal’s Movers & Shakers Class of 2012.
 
 ## Kyle Brown
-** General Manager **
+**General Manager**
 
 Kyle manages METRO’s member programs and services. In addition, he manages METRO's office facility, assisting the Executive Director in ensuring the METRO office is run effectively and efficiently.
 
@@ -31,7 +31,7 @@ Before joining METRO in 2014, Kyle was Office Manager at Jeanne Collins & Associ
 Kyle received a B.A. in communication, with a focus on radio and TV, from William Paterson University in New Jersey.
 
 ## Caroline Catchpole
-** Digitization Specialist **
+**Digitization Specialist**
 
 Caroline was originally hired by METRO to facilitate mobile digitization for Culture in Transit, a project funded by the John S. and James L. Knight Foundation. Now Caroline provides on-going digitization services to cultural heritage institutions throughout the Metropolitan New York area. She is responsible for digital capture, metadata creation and/or training, as well as tracking and assessment, project outreach and communication.
 
@@ -40,7 +40,7 @@ Caroline has worked in the archives and library sector for 10 years with a speci
 Caroline obtained a Postgraduate Diploma in Archives and Records Management from University College London and a B.A. in History from the University of Essex.
 
 ## Laura Forshay
-** Strategic Evaluation and Data Impact Manager **
+**Strategic Evaluation and Data Impact Manager**
 
 Laura works closely with METRO leadership and program managers to identify, collect, and analyze relevant performance data in support of program evaluation and improvement.
 
