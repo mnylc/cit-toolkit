@@ -22,29 +22,29 @@ As Community Engagement Manager, Davis works to extend METRO's presence into the
 A graduate of Pratt Institute's School of Information and Library Science, Davis also holds two degrees in music performance. Prior to joining METRO, she worked for five years in the library at Boosey & Hawkes, a premiere classical music publishing company. An active member of SLA, Davis is a recipient of SLA’s Rising Star Award and is honored to have been included in Library Journal’s Movers & Shakers Class of 2012.
 
 ## Kyle Brown
-**Office Manager / Executive Assistant**
+** General Manager **
 
-Kyle manages the office facility and all of the administrative activities for the METRO office. In addition, he assists the Executive Director in ensuring the METRO office is run effectively and efficiently.
+Kyle manages METRO’s member programs and services. In addition, he manages METRO's office facility, assisting the Executive Director in ensuring the METRO office is run effectively and efficiently.
 
 Before joining METRO in 2014, Kyle was Office Manager at Jeanne Collins & Associates, a public relations firm that developed campaigns for arts and cultural institutions. Prior to office management, Kyle worked in the music industry for Nielsen Entertainment.
 
 Kyle received a B.A. in communication, with a focus on radio and TV, from William Paterson University in New Jersey.
 
 ## Caroline Catchpole
-**Mobile Digitization Specialist**
+** Digitization Specialist **
 
-Caroline is the METRO Mobile Digitization Specialist for Culture in Transit, a project funded by the John S. and James L. Knight Foundation. Caroline will be providing on-site digitization services to cultural heritage institutions throughout the Metropolitan New York area. She will be responsible for digital capture, metadata creation and/or training, as well as tracking and assessment, project outreach and communication.
+Caroline was originally hired by METRO to facilitate mobile digitization for Culture in Transit, a project funded by the John S. and James L. Knight Foundation. Now Caroline provides on-going digitization services to cultural heritage institutions throughout the Metropolitan New York area. She is responsible for digital capture, metadata creation and/or training, as well as tracking and assessment, project outreach and communication.
 
 Caroline has worked in the archives and library sector for 10 years with a special focus on the digitization of cultural heritage material and increasing access to archives since 2009. Most recently she served as Archivist for the Wallace Correspondence Project at the Natural History Museum in London. This project, funded by the Andrew Mellon Foundation, sought to digitize the correspondence and assorted manuscripts of nineteenth century naturalist, Alfred Russel Wallace and place the digitized content online.
 
 Caroline obtained a Postgraduate Diploma in Archives and Records Management from University College London and a B.A. in History from the University of Essex.
 
 ## Laura Forshay
-**Professional Development Manager**
+** Strategic Evaluation and Data Impact Manager **
 
-Laura organizes many aspects of the Professional Development events and workshops held at METRO.  In addition to answering registration requests and concerns, she is a key point of contact for our instructors. She strives to ensure that Professional Development at METRO is an enriching and positive experience for all.
+Laura works closely with METRO leadership and program managers to identify, collect, and analyze relevant performance data in support of program evaluation and improvement.
 
-Laura joined METRO in February 2010 after receiving her B.A. in History from Tufts University. She is currently pursuing a Master of Public Administration degree in Non-profit Management at New York University's Robert F. Wagner Graduate School of Public Service.
+Laura joined METRO in February 2010 after receiving her B.A. in History from Tufts University. She also holds a Master of Public Administration degree in Non-profit Management from New York University's Robert F. Wagner Graduate School of Public Service.
 
 ## Anne Karle-Zenith
 **Digital Services Manager**
@@ -56,9 +56,11 @@ Before joining METRO in 2012, she worked for six years at the University of Mich
 ## John Mignault
 **Technology Specialist, Empire State Digital Network**
 
-John is the Technology Specialist for the Empire State Digital Network (ESDN), a statewide service hub for the Digital Public Library of America (DPLA). ESDN is being administered by METRO in collaboration with eight allied regional library councils collectively working as NY 3Rs Association, Inc.
+John is the Technology Specialist for the Empire State Digital Network (ESDN), a statewide service hub for the Digital Public Library of America (DPLA). 
 
-John has worked with digitization programs and library systems since 2006. Most recently, he was the Systems Librarian for the New York Botanical Garden's LuEsther T. Mertz Library, where he oversaw and managed the Library's digitization program and acted as the IT liaison for the Library. He has also been involved in the Biodiversity Heritage Library from its early days, serving on BHL's Technical Advisory Group and representing BHL at hackathons and conferences. John worked in corporate development for a number of years for such companies as Oxygen Media, The New York Times, and MLB.com. John received his MLS from Simmons College in 1994.
+John has worked with digitization programs and library systems since 2006. Most recently, he was the Systems Librarian for the New York Botanical Garden's LuEsther T. Mertz Library, where he oversaw and managed the Library's digitization program and acted as the IT liaison for the Library. He has also been involved in the Biodiversity Heritage Library from its early days, serving on BHL's Technical Advisory Group and representing BHL at hackathons and conferences. 
+
+John worked in corporate development for a number of years for such companies as Oxygen Media, The New York Times, and MLB.com. John received his MLS from Simmons College in 1994.
 
 ## Shelly Mohammed
 **Controller**
@@ -66,18 +68,6 @@ John has worked with digitization programs and library systems since 2006. Most 
 Shelly facilitates the accounting, finance, and human resources functions at METRO. She manages membership dues and workshop fees as well.
 
 Prior to joining METRO, for the past six years, Shelly was an Audit Senior who specialized in non-profit organizations at O’Connor Davies, LLP, a mid-sized accounting and consulting firm based in the New York tri-state area. Shelly obtained a B.S in Accounting from St. Francis College.
-
-## Joan A. Napolitano
-**Hospital Library Services Program Manager**
-
-Joan oversees all aspects of the Hospital library Services Program from managing services, budget planning, working with vendors and holding the HLSP annual meeting. She also coordinates the administration of HLSP grants, including Collection Development Grants, Technology Grants and Medical Information Services Program (MISP) Grants. Previously, Joan was the library director for the Catholic Medical Centers of Brooklyn and Queens. She received her B.A. at the College of New Rochelle and earned her MSLS from Long Island University. Joan is also a longstanding member of the AHIP MLA.
-
-## Tom Nielsen
-**Member Services Manager**
-
-Tom Nielsen joined METRO in 2006 as Member Services Manager. In this capacity he manages a wide range of member programs and services and provides information about membership benefits to prospective members. He also regularly visits and meets with METRO members on site to make sure that METRO services are meeting their needs effectively. Tom will also contribute to important efforts to expand METRO’s membership base including essential research to develop new membership categories and more targeted programs and services.
-
-Tom earned a B.A in English from the University of Minnesota and an M.L.S. from the University of Maryland, College Park. Prior to joining METRO, Tom worked for eight years as a solo librarian at Hazen and Sawyer, PC. In this position he gained firsthand experience in library management and collection development.
 
 ## Margo Padilla
 **Strategic Programs Manager**
@@ -104,13 +94,15 @@ Prior to joining METRO, Madjalia was an Assistant Controller at MOF Microcredit,
 ## Chris Stanton
 **Metadata Specialist, Empire State Digital Network**
 
-Chris facilitates the harvesting and ingestion of metadata records from libraries, archives and cultural heritage institutions throughout New York State into the Empire State Digital Network (ESDN) repository for contribution to the Digital Public Library of America.
+Chris facilitates the harvesting and ingestion of metadata records from libraries, archives and cultural heritage institutions throughout New York State into the Empire State Digital Network (ESDN) repository for contribution to the Digital Public Library of America (DPLA).
+
+Chris also works on METRO's hosted digital collection service, Digital Culture of Metropolitan New York (dcmny.org), where he is primarily responsible for metadata creation and facilitating the ingest of partner content into the repository.
 
 Prior to joining METRO in 2014, Chris worked for four years as a Collection Description Librarian at the National Library of New Zealand (NLNZ). While in New Zealand, he was involved in the successful implementation of RDA at the National Library and was also a member of the libraries’ BibFrame Working Group. Prior to joining the NLNZ, he worked for two years at the OCLC Office of Research where he was responsible for supporting the F.A.S.T. (Faceted Application of Subject Terminology) project. Chris holds an M.L.I.S. from Kent State University and a B.A. in History from Miami University.
 
 ## Kerri Willette
 **Deputy Director**
 
-Kerri manages and coordinates activities of the Empire State Digital Network (ESDN), a statewide service hub for the Digital Public Library of America (DPLA). ESDN is being administered by METRO in collaboration with eight allied regional library councils collectively working as NY 3Rs Association, Inc.
+Kerri partners closely with everyone on staff to grow and enhance METRO's organizational infrastructure. In addition to her administrative role at METRO, Kerri coordinates activities of the Empire State Digital Network (ESDN), a statewide service hub for the Digital Public Library of America (DPLA). 
 
-Kerri has worked with digital collections and content in academic, museum, and consortial settings since 2001. Most recently, she was Emerging Technologies Librarian and the University of Wisconsin-Parkside. Her career has included project planning, metadata creation, and digital project work at various institutions in Chicago including DePaul University Libraries, The School of the Art Institute of Chicago, and Columbia College Chicago Library. Kerri received her MLS from the University of Illinois Graduate School of Library and Information Science LEEP program in 2005.
+Kerri has worked with digital collections and content in academic, museum, and consortial settings since 2001. Her career has included project planning, metadata creation, and digital project work at various institutions in the midwest including DePaul University Libraries, The School of the Art Institute of Chicago, Columbia College Chicago Library, and the University of Wisconsin-Parkside. Kerri received her MLS from the University of Illinois Graduate School of Library and Information Science LEEP program in 2005.
