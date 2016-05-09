@@ -3,7 +3,7 @@ title: Services
 permalink: /services/
 ---
 
-##Digital Services
+##Digital Services##
 
 In three steps, METRO helps member organizations bring forgotten historical artifacts from their basements to international audiences.  
 
@@ -21,21 +21,21 @@ METRO offers a collection hosting service for METRO member institutions to make 
 
 More often than not and frequently by accident, institutions describe their digital collections with quirky, unique metadata that make their content hard to find on the web. Through a unique partnership with the NY3Rs Association, the Empire State Digital Network collects metadata from non-profit cultural heritage organizations throughout the state of New York, including libraries, archives, historical societies, and shares that data with the Digital Public Library of America.  Our expert team refines and normalizes metadata, exposes it to the DPLA for ingestion, and ultimately drives more traffic to digital collections across New York State.
 
-##Resource Sharing
+##Resource Sharing##
 
 METRO has developed and maintains unsurpassed services to facilitate resource sharing among our member libraries. Our resource sharing services open the world of knowledge to patrons of our member libraries by providing access to collections around New York City and Westchester County.
 
-###Delivery Service
+###Delivery Service###
 
 METRO maintains a same-day delivery service among our member libraries. Delivery service ensures that our members can count on efficient access to items from collections throughout METRO's service area. 
 Read more about METRO's Delivery Service.
 
-###Referral Cards
+###Referral Cards###
 
 METRO's Referral Card system expands patron access to collections and resources throughout New York City and Westchester County. We offer two levels of Referral Card service: yellow cards allow patrons to access that one item that will complete their research, while blue cards provide full access to library collections beyond their home institution.
 Read more about our referral cards.
 
-##Vendor Discounts
+##Vendor Discounts##
 
 METRO offers member discounts on many useful services from library vendors.  For more details on how to take advantage of any of the great offers below, contacts us at info at metro dot org.
 
@@ -66,12 +66,12 @@ METRO offers member discounts on many useful services from library vendors.  For
 
 
 
-##Coordinated Collection Development Aid
+##Coordinated Collection Development Aid##
 
 New York State recognizes the contributions academic libraries make to state and regional resource sharing. The Coordinated Collection Development Aid (CCDA) program provides annual grants to academic libraries at public and not-for-profit colleges, universities, and community colleges. Since 1981, academic libraries in the METRO region have received more than $8 million in coordinated collection development aid from this program.
 Read more about Coordinated Collection Development Aid
 
-##Hospital Library Services Program
+##Hospital Library Services Program##
 
 The METRO Hospital Library Services Program (HLSP) supports the work of more than 65 hospital and medical center libraries in New York City and Westchester County. We seek to develop, enhance, and improve the delivery of health care information between member libraries and health care professionals. We use outreach and targeted support to make sure that local hospital and medical center libraries apply for any grants for which they are eligible. 
 Read more about the Hospital Library Services Program
