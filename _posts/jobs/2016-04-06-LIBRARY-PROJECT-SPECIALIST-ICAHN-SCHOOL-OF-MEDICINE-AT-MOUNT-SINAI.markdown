@@ -52,12 +52,6 @@ Education Required
 
 
 
-### Compensation###
-
-
-
-
-### Location###
 
 
 
@@ -74,9 +68,6 @@ Please visit [http://libguides.mssm.edu/opportunities#s-lg-box-9963898.](http://
 ### Company Information###
 
  Levy Library, Icahn School of Medicine at Mount Sinai | 1 Gustave L. Levy Place | New York, NY | 10029 | United States
-
-
-### Contact Information###
 
 
 

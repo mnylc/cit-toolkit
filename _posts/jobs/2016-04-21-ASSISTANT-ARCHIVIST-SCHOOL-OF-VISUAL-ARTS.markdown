@@ -75,17 +75,9 @@ Find out what it’s like to work at SVA.  Visit www.sva.edu/workingatsva
 * Ability, and willingness, to routinely lift containers weighing up to 40 lbs. and climb ladders. 
 
 
-### Compensation###
 
 
 
-
-### Location###
-
-
-
-
-### URL###
 
 
 
@@ -97,12 +89,6 @@ No walk-ins or phone calls please.
 The School of Visual Arts is an equal opportunity employer.
 
 
-### Company Information###
-
-
-
-
-### Contact Information###
 
 
 

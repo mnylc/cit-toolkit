@@ -77,8 +77,6 @@ $46,000 to $48,000
 Uniondale, NY
 
 
-### URL###
-
 
 
 ### To Apply###
@@ -91,9 +89,6 @@ Cover letter should describe how your experience and abilities are specifically 
 ### Company Information###
 
  Nassau Library System | 900 Jerusalem Avenue | Uniondale, New York | 11553 | United States
-
-
-### Contact Information###
 
 
 

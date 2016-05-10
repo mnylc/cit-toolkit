@@ -39,12 +39,6 @@ The successful candidate will have:
 • Excellent teamwork, project management, and conflict resolution skills
 
 
-### Compensation###
-
-
-
-
-### Location###
 
 
 
@@ -61,9 +55,6 @@ Potential candidates should email a cover letter, resume, names of three (3) ref
 ### Company Information###
 
  The New York Society Library | 53 East 79th Street | New York, NY | 10075 | United States
-
-
-### Contact Information###
 
 
 

@@ -62,9 +62,6 @@ Education Required
 * ALA-accredited Master’s degree in Library and Information Studies required
 
 
-### Compensation###
-
-
 
 
 ### Location###
@@ -82,12 +79,6 @@ Please visit
 [https://jobs-nypl.icims.com/jobs/9049/librarian---senior-librarian-%28russian-language-cataloger%29/job.](https://jobs-nypl.icims.com/jobs/9049/librarian---senior-librarian-%28russian-language-cataloger%29/job.)
 
 
-### Company Information###
-
-
-
-
-### Contact Information###
 
 
 

@@ -65,17 +65,9 @@ The ideal candidate will have:
 
 
 
-### Compensation###
 
 
 
-
-### Location###
-
-
-
-
-### URL###
 
 
 
@@ -86,12 +78,6 @@ To apply, please send a pdf copy of your resume and cover letter along with any 
 The deadline for submitting applications is May 1st, 2016.
 
 
-### Company Information###
-
-
-
-
-### Contact Information###
 
 
 

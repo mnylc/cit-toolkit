@@ -49,17 +49,9 @@ This position requires the ability to travel to member locations throughout the 
 * Excellent communication skills.
 
 
-### Compensation###
 
 
 
-
-### Location###
-
-
-
-
-### URL###
 
 
 
@@ -70,12 +62,6 @@ To apply, please send a pdf copy of your resume and cover letter along with any 
 The deadline for submitting applications is May 6th, 2016. 
 
 
-### Company Information###
-
-
-
-
-### Contact Information###
 
 
 

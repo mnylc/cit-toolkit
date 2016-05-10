@@ -40,9 +40,6 @@ Preferred qualifications
 • Awareness of data storage and data sharing options for biomedical researchers.
 
 
-### Compensation###
-
-
 
 
 ### Location###
@@ -59,12 +56,6 @@ New York, NY
 Please visit [http://careers.nyumc.org/jobs/descriptions/project-coordinator-new-york-new-york-job-6287475](http://careers.nyumc.org/jobs/descriptions/project-coordinator-new-york-new-york-job-6287475)
 
 
-### Company Information###
-
-
-
-
-### Contact Information###
 
 
 

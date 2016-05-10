@@ -38,9 +38,6 @@ Queens Library is a national and international leader in the delivery of public 
 Queens Library is the proud recipient of the following awards: 2009 Library Journal, Library of the Year, 2014 ALA/Information Today, Library of the Future, 2013 ULC Top Innovators, 2013 American-Architectâ€™s Building of the Year (Queens Library at Glen Oaks).
 
 
-### Responsibilities###
-
-
 
 
 ### Qualifications###
@@ -60,17 +57,9 @@ Queens Library is the proud recipient of the following awards: 2009 Library Jour
 
 
 
-### Compensation###
 
 
 
-
-### Location###
-
-
-
-
-### URL###
 
 
 
@@ -81,12 +70,6 @@ Send your resume and cover letter to qlcareers@queenslibrary.org and reference â
 The Queens Library is an Equal Opportunity Employer
 
 
-### Company Information###
-
-
-
-
-### Contact Information###
 
 
 

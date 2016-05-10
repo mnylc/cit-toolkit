@@ -54,12 +54,7 @@ Preferred Qualifications
 Internships are unpaid and are intended to fulfill course credit requirements for internships and practicums. BHS staff ID grants free entrance to museums around New York City.
 
 
-### Location###
 
-
-
-
-### URL###
 
 
 
@@ -68,12 +63,6 @@ Internships are unpaid and are intended to fulfill course credit requirements fo
 Please email a cover letter and resume to library@brooklynhistory.org with a subject line of Oral History Internship [your last name]. Applications will be reviewed immediately. No phone calls please.
 
 
-### Company Information###
-
-
-
-
-### Contact Information###
 
 
 

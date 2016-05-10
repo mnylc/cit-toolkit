@@ -31,9 +31,6 @@ Location: United Nations - New York, USA
 Starts On: April 25, 2016
 
 
-### Responsibilities###
-
-
 
 
 ### Qualifications###
@@ -55,12 +52,6 @@ Education Required
 M.A. in Library Science, Digital Archiving, Information Management, or Related Field.
 
 
-### Compensation###
-
-
-
-
-### Location###
 
 
 
@@ -82,9 +73,6 @@ Once the PHP is created/updated, please print the PDF form and email to silva@un
 ### Company Information###
 
 United Nations - Multimedia Resources Unit, UN DPI | New York, NY | 10017 | United States
-
-
-### Contact Information###
 
 
 

@@ -54,9 +54,6 @@ Required Qualifications: Master's Degree in Library Science from an ALA accredit
 Preferred Qualifications: Additional advanced degree. Experience in a research university library performing collection development and management. Experience in coordination or management of integrated library system functions, including experience with Ex Libris' Aleph system. Demonstrated ability to work with library and University constituencies, including library and academic faculty. Demonstrated experience and technical expertise in working with digital repositories and collection tools. Strong service orientation. 
 
 
-### Compensation###
-
-
 
 
 ### Location###
@@ -93,12 +90,6 @@ For a full position description, or to apply online, visit: www.stonybrook.edu/j
 Apply Here: [http://www.Click2apply.net/qrx4m436h9](http://www.Click2apply.net/qrx4m436h9)
 
 
-### Company Information###
-
-
-
-
-### Contact Information###
 
 
 

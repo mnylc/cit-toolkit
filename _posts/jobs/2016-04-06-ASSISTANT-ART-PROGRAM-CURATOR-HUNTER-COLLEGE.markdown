@@ -55,9 +55,6 @@ Hunter College, located in the heart of Manhattan, is the largest college in the
 
 
 
-### Compensation###
-
-
 
 
 ### Location###
@@ -77,9 +74,6 @@ Forward cover letter, resume and contact information for 2 professional referenc
 ### Company Information###
 
 Center for Puerto Rican Studies, Hunter College, CUNY | 695 Park Ave. | Rm. E1429 | New York, NY | 10065 | United States
-
-
-### Contact Information###
 
 
 

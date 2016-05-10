@@ -67,9 +67,6 @@ Education Required
 
 
 
-### Compensation###
-
-
 
 
 ### Location###
@@ -87,12 +84,6 @@ Please visit
 [https://jobs-nypl.icims.com/jobs/9048/librarian---senior-librarian-%28music-cataloger%29/job.](https://jobs-nypl.icims.com/jobs/9048/librarian---senior-librarian-%28music-cataloger%29/job.)
 
 
-### Company Information###
-
-
-
-
-### Contact Information###
 
 
 

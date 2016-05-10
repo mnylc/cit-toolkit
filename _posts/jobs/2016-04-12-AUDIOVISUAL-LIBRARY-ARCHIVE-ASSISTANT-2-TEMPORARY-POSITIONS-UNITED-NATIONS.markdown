@@ -31,9 +31,6 @@ Location: United Nations, NY, USA
 Starts On: April 25, 2016
 
 
-### Responsibilities###
-
-
 
 
 ### Qualifications###
@@ -54,12 +51,6 @@ Education Required
 High School Diploma required.
 
 
-### Compensation###
-
-
-
-
-### Location###
 
 
 
@@ -81,9 +72,6 @@ Once the PHP is created/updated, please print the PDF form and email to silva@un
 ### Company Information###
 
 United Nations - Multimedia Resources Unit, UN Department of Public Information | New York, NY | 10017 | United States
-
-
-### Contact Information###
 
 
 

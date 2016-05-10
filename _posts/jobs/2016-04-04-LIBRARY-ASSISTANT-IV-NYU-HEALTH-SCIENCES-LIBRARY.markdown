@@ -39,9 +39,6 @@ Preferred qualifications
 • Experience using health sciences related resources, such as PubMed; and citation-management applications such as EndNote, RefWorks, and Mendeley
 
 
-### Compensation###
-
-
 
 
 ### Location###
@@ -59,12 +56,6 @@ Please visit
 [https://hsl.med.nyu.edu/content/library-assistant-iv.](https://hsl.med.nyu.edu/content/library-assistant-iv.)
 
 
-### Company Information###
-
-
-
-
-### Contact Information###
 
 
 

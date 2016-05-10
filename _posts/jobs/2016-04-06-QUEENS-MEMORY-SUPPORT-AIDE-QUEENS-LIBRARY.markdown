@@ -15,9 +15,6 @@ Position Reports To: Digital Archives Manager
 Location: Queens Central Library, Jamaica, NY
 
 
-### Responsibilities###
-
-
 
 
 ### Qualifications###
@@ -46,9 +43,6 @@ Education Required
 $35,468 to $37,942
 
 
-### Location###
-
-
 
 
 ### URL###
@@ -60,12 +54,6 @@ $35,468 to $37,942
 Please send your resume and cover letter to employment@queenslibrary.org and reference “Queens Memory Support Aide – EXTERNAL” in the subject line. 
 
 
-### Company Information###
-
-
-
-
-### Contact Information###
 
 
 

@@ -10,9 +10,6 @@ Bramson ORT College is a growing, 2 yr. college with campuses in Forest Hills, Q
 Start Date: May 31, 2016
 
 
-### Responsibilities###
-
-
 
 
 ### Qualifications###
@@ -38,17 +35,9 @@ Preferred Qualifications:
 * Commitment to professional development
 
 
-### Compensation###
 
 
 
-
-### Location###
-
-
-
-
-### URL###
 
 
 
@@ -57,12 +46,6 @@ Preferred Qualifications:
 Please send cover letter and resume to Shelly Santos, Library Director at ssantos@bramsonort.edu.
 
 
-### Company Information###
-
-
-
-
-### Contact Information###
 
 
 

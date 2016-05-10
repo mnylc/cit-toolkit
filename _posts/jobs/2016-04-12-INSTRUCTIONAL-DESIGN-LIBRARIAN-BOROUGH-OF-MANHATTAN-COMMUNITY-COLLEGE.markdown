@@ -25,9 +25,6 @@ Instructor:
 Supports a college library through providing in-depth consultation with students and faculty and collaboration for the ongoing improvement of instructional programs and practices.
 
 
-### Responsibilities###
-
-
 
 
 ### Qualifications###
@@ -46,9 +43,6 @@ Preferred Qualifications include a minimum two years' work experience in academi
 ### Compensation###
 
 CUNY offers faculty a competitive compensation and benefits package covering health insurance, pension and retirement benefits, paid parental leave, and savings programs. We also provide mentoring and support for research, scholarship, and publication as part of our commitment to ongoing faculty professional development.  Instructor: $39,399-$65,267 Asst Professor - $42,873 - $74,133 Assoc Professor - $55,602 - $88,418 Professor - $68,803 - $106,071
-
-
-### Location###
 
 
 
@@ -86,12 +80,6 @@ Full/Part Time: Full-Time
 Regular/Temporary: Regular
 
 
-### Company Information###
-
-
-
-
-### Contact Information###
 
 
 

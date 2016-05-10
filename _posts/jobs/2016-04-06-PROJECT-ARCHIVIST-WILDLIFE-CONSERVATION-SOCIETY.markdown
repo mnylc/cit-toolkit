@@ -66,12 +66,7 @@ Preferred Qualifications
 The Project Archivist will be paid $41,600.     WCS offers extensive benefits including 12 holidays, 15 vacation days, and 10 sick days on an annual basis, as well as life insurance, health/dental/vision coverage, and a retirement savings plan.
 
 
-### Location###
 
-
-
-
-### URL###
 
 
 
@@ -83,9 +78,6 @@ To apply, please visit [http://www.wcs.org/about-us/careers](http://www.wcs.org/
 ### Company Information###
 
 Wildlife Conservation Society | 2300 Southern Blvd. | Bronx, New York | 10460 | United States
-
-
-### Contact Information###
 
 
 

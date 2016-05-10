@@ -63,12 +63,6 @@ Preferred Qualifications:
 * Experience with preservation
 
 
-### Compensation###
-
-
-
-
-### Location###
 
 
 
@@ -86,12 +80,6 @@ As one of the world's leading research universities, Columbia University in the 
 Columbia University is an Equal Opportunity/Affirmative Action Employer and strongly encourages individuals of all backgrounds and cultures to consider this position.
 
 
-### Company Information###
-
-
-
-
-### Contact Information###
 
 
 
