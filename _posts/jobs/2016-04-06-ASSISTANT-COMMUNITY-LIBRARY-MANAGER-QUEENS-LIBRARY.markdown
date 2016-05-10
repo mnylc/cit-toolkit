@@ -61,8 +61,11 @@ Requirements:
 Excellent salary and a comprehensive benefits package that includes generous vacation/sick pay, medical, dental, vision, life insurance, defined benefit pension, 403B, deferred compensation, and more. Relocation incentives available. Opportunities to further your education and professional credentials are plentiful.
 
 
+###Location###
 
 
+
+###URL###
 
 
 ###To Apply###
@@ -71,6 +74,10 @@ Email your cover letter and resume to qlcareers@queenslibrary.org and reference 
 Queens Library is an equal opportunity employer.
 
 
+###Company Information###
 
+
+
+###Contact Information###
 
 

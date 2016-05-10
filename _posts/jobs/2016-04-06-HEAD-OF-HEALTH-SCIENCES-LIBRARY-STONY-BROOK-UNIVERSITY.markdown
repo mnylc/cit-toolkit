@@ -31,6 +31,8 @@ Master's degree in Library Science from an accredited program. Five years of pro
 Preferred Qualifications: Demonstrated service to the profession. Advanced degree in related discipline. 
 
 
+###Compensation###
+
 
 
 ###Location###
@@ -63,6 +65,10 @@ Additional Categories:
 For a full position description, or to apply online, visit: www.stonybrook.edu/jobs/ (Ref. # F-9586-16-03-F). 
 
 
+###Company Information###
 
+
+
+###Contact Information###
 
 

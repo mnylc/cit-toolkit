@@ -1,211 +1,10 @@
 ---
 pagination:
-  object_count: 12
+  object_count: 9
   page_number: 1
   page_size: 50
   page_count: 1
 events:
-- name:
-    text: 'Bibliographic Instruction SIG Meeting: Building Collaborations for Library
-      Instruction'
-    html: 'Bibliographic Instruction SIG Meeting: Building Collaborations for Library
-      Instruction'
-  description:
-    text: "Our Bibliographic Instruction SIG wants to hear from you! Share your successes
-      and tactics in partnering your library instruction program across departments,
-      across institutions, or even beyond academia. Whether it was through -- \n\n\noutreach
-      and training for classroom faculty \n\n\npartnerships with centers for excellence
-      in teaching \n\n\nwriting centers and other academic support services \n\n\nexternal
-      collaborations with public libraries, community agencies, and non-profit groups
-      \ \n\n\n-- tell us what worked and why.  \nWe envision a few quick presentations,
-      and small and whole-group discussion. We’re asking everyone to please use this
-      form to submit a thought or two to fuel the discussions, and/or to volunteer
-      to highlight a specific tactic or strategy in a 5-10 minute lightning talk.
-      \nSee you on April 14th! "
-    html: |-
-      <P><SPAN>Our Bibliographic Instruction SIG wants to hear from you! Share your successes and tactics in partnering your library instruction program across departments, across institutions, or even beyond academia. Whether it was through --</SPAN></P>
-      <UL>
-      <LI>
-      <P><SPAN>outreach and training for classroom faculty</SPAN></P>
-      </LI>
-      <LI>
-      <P><SPAN>partnerships with centers for excellence in teaching</SPAN></P>
-      </LI>
-      <LI>
-      <P><SPAN>writing centers and other academic support services</SPAN></P>
-      </LI>
-      <LI>
-      <P><SPAN>external collaborations with public libraries, community agencies, and non-profit groups</SPAN><SPAN><BR CLASS="kix-line-break"></SPAN></P>
-      </LI>
-      </UL>
-      <P><SPAN>-- tell us what worked and why.</SPAN><SPAN><BR CLASS="kix-line-break"></SPAN></P>
-      <P><SPAN>We envision a few quick presentations, and small and whole-group discussion. We’re asking everyone to please use </SPAN><A TARGET="_blank" HREF="https://junior2349.wufoo.com/forms/building-collaborations-for-library-instruction/" REL="nofollow"><SPAN>this form</SPAN></A><SPAN> to submit a thought or two to fuel the discussions, and/or to volunteer to highlight a specific tactic or strategy in a 5-10 minute lightning talk.</SPAN></P>
-      <P><SPAN>See you on April 14th!</SPAN></P>
-  id: '22544853263'
-  url: http://www.eventbrite.com/e/bibliographic-instruction-sig-meeting-building-collaborations-for-library-instruction-tickets-22544853263?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2016-04-14T10:00:00'
-    utc: '2016-04-14T14:00:00Z'
-  end:
-    timezone: America/New_York
-    local: '2016-04-14T12:00:00'
-    utc: '2016-04-14T16:00:00Z'
-  created: '2016-03-03T19:05:41Z'
-  changed: '2016-03-03T19:45:22Z'
-  capacity: 50
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 600
-  hide_start_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  logo_id: '19210910'
-  organizer_id: '8929654067'
-  venue_id: '12227452'
-  category_id: '199'
-  subcategory_id: 
-  format_id: '10'
-  resource_uri: https://www.eventbriteapi.com/v3/events/22544853263/
-  logo:
-    id: '19210910'
-    url: https://img.evbuc.com/https%3A%2F%2Fimg.evbuc.com%2Fhttp%253A%252F%252Fcdn.evbuc.com%252Fimages%252F19210910%252F160412581493%252F1%252Foriginal.jpg%3Frect%3D0%252C3526%252C8048%252C4024%26s%3Dd42bb31496dae53d2960f502577a1d31?h=200&w=450&s=adacbd732d78e445a50b254d290be7bb
-    aspect_ratio: '2'
-    edge_color: 
-    edge_color_set: true
-- name:
-    text: 'Happy Hour: ARLIS/NA New York Chapter & METRO Present a Spring Celebration'
-    html: 'Happy Hour: ARLIS/NA New York Chapter &amp; METRO Present a Spring Celebration'
-  description:
-    text: "Join ARLIS / NY and METRO for our first joint cocktail hour!  \nThe festivities
-      take place at The Winslow on 14th street on Monday, April 25, 2016. Let's raise
-      a glass to warmer weather, good friends, and a love of art information! "
-    html: |-
-      <P><SPAN>Join ARLIS / NY and METRO for our first joint cocktail hour! </SPAN></P>
-      <P><SPAN>The festivities take place at The Winslow on 14th street on Monday, April 25, 2016. Let's raise a glass to warmer weather, good friends, and a love of art information!</SPAN></P>
-  id: '23938706315'
-  url: http://www.eventbrite.com/e/happy-hour-arlisna-new-york-chapter-metro-present-a-spring-celebration-tickets-23938706315?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2016-04-25T18:00:00'
-    utc: '2016-04-25T22:00:00Z'
-  end:
-    timezone: America/New_York
-    local: '2016-04-25T20:00:00'
-    utc: '2016-04-26T00:00:00Z'
-  created: '2016-03-22T20:36:08Z'
-  changed: '2016-03-22T21:02:33Z'
-  capacity: 100
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 600
-  hide_start_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  logo_id: '19708895'
-  organizer_id: '8929654067'
-  venue_id: '14233346'
-  category_id: 
-  subcategory_id: 
-  format_id: '11'
-  resource_uri: https://www.eventbriteapi.com/v3/events/23938706315/
-  logo:
-    id: '19708895'
-    url: https://img.evbuc.com/https%3A%2F%2Fimg.evbuc.com%2Fhttp%253A%252F%252Fcdn.evbuc.com%252Fimages%252F19708895%252F160412581493%252F1%252Foriginal.jpg%3Frect%3D0%252C1971%252C8048%252C4024%26s%3D2f44b669a845d8f28133ccb851253e5e?h=200&w=450&s=658dc09618424407499358bb19294fd4
-    aspect_ratio: '2'
-    edge_color: 
-    edge_color_set: true
-- name:
-    text: Social Justice for Library Workers
-    html: Social Justice for Library Workers
-  description:
-    text: "Libraries can be places that foster social justice, but what about the
-      workers ourselves? We are pleased to have Robert Farrell (Chair, PSC CUNY Library
-      Faculty Committee) and John Hyslop (President, DC 37, Local 1321 Queens Library
-      Guild) join us at the Social Justice SIG's spring 2016 meeting as we discuss
-      topics related to our jobs and our workplaces, including: \n\n\nThe state of
-      labor organizing in libraries (for example, CUNY's Professional Staff Congress
-      and DC 37 in the public libraries) \n\n\nThe fight for state and city funding
-      and how it affects public and academic libraries \n\n\nWorker cooperatives -
-      a possible model for librarians’ workplaces that aren’t unionized? \n\n\nWhat
-      justice-minded management in libraries looks like \n\n\nRacial justice in librarianship
-      to maintain safe and fair working conditions for all \n\n\nBring your ideas
-      and visions of social justice at work! \nThis event is sponsored by METRO’s Social
-      Justice SIG. All are welcome. "
-    html: |-
-      <P><SPAN>Libraries can be places that foster social justice, but what about the workers ourselves? We are pleased to have </SPAN><SPAN>Robert Farrell</SPAN><SPAN> (Chair, PSC CUNY Library Faculty Committee) and </SPAN><SPAN>John Hyslop</SPAN><SPAN> (President, DC 37, Local 1321 Queens Library Guild) join us at the Social Justice SIG's spring 2016 meeting as we discuss topics related to our jobs and our workplaces, including:</SPAN></P>
-      <UL>
-      <LI>
-      <P><SPAN>The state of labor organizing in libraries (for example, CUNY's Professional Staff Congress and DC 37 in the public libraries)</SPAN></P>
-      </LI>
-      <LI>
-      <P><SPAN>The fight for state and city funding and how it affects public and academic libraries</SPAN></P>
-      </LI>
-      <LI>
-      <P><SPAN>Worker cooperatives - a possible model for librarians’ workplaces that aren’t unionized?</SPAN></P>
-      </LI>
-      <LI>
-      <P><SPAN>What justice-minded management in libraries looks like</SPAN></P>
-      </LI>
-      <LI>
-      <P><SPAN>Racial justice in librarianship to maintain safe and fair working conditions for all</SPAN></P>
-      </LI>
-      </UL>
-      <P><SPAN>Bring your ideas and visions of social justice at work!</SPAN></P>
-      <P><STRONG>This event is sponsored by METRO’s <A TARGET="_blank" HREF="https://sites.google.com/a/metro.org/sjsig/home" REL="nofollow">Social Justice SIG</A>. All are welcome.</STRONG></P>
-  id: '22657223365'
-  url: http://www.eventbrite.com/e/social-justice-for-library-workers-tickets-22657223365?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2016-05-09T13:00:00'
-    utc: '2016-05-09T17:00:00Z'
-  end:
-    timezone: America/New_York
-    local: '2016-05-09T15:00:00'
-    utc: '2016-05-09T19:00:00Z'
-  created: '2016-03-07T16:10:42Z'
-  changed: '2016-03-08T17:17:29Z'
-  capacity: 50
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 600
-  hide_start_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  logo_id: '19293021'
-  organizer_id: '8929654067'
-  venue_id: '12227452'
-  category_id: '199'
-  subcategory_id: 
-  format_id: '10'
-  resource_uri: https://www.eventbriteapi.com/v3/events/22657223365/
-  logo:
-    id: '19293021'
-    url: https://img.evbuc.com/https%3A%2F%2Fimg.evbuc.com%2Fhttp%253A%252F%252Fcdn.evbuc.com%252Fimages%252F19293021%252F160412581493%252F1%252Foriginal.jpg%3Frect%3D0%252C3544%252C8048%252C4024%26s%3D305603a8f216ea661a43226255934dc4?h=200&w=450&s=ee500aad440b6e4bf6fdd4c1d8b1862a
-    aspect_ratio: '2'
-    edge_color: 
-    edge_color_set: true
 - name:
     text: 'Reference SIG Meeting: Reference Tools for Reference Work - An Overview
       of Resources'
@@ -233,7 +32,7 @@ events:
     local: '2016-05-10T12:00:00'
     utc: '2016-05-10T16:00:00Z'
   created: '2016-03-25T19:35:16Z'
-  changed: '2016-03-25T19:37:20Z'
+  changed: '2016-05-05T20:44:43Z'
   capacity: 50
   status: live
   currency: USD
@@ -262,42 +61,43 @@ events:
     edge_color: 
     edge_color_set: true
 - name:
-    text: 'OPEN SIG Meeting: Open Textbooks & Publishing Agreements'
-    html: 'OPEN SIG Meeting: Open Textbooks &amp; Publishing Agreements'
+    text: 'Outreach and Advocacy SIG Meeting: Faculty Outreach Strategies - Success
+      Stories and Uphill Battles'
+    html: 'Outreach and Advocacy SIG Meeting: Faculty Outreach Strategies - Success
+      Stories and Uphill Battles'
   description:
-    text: "The next OPEN-SIG will focus on Open Textbooks and Publishing Agreements.
-      \nThe 2014 Babson survey (and SIG-member experiences) have shown that although
-      Open Textbooks are a significant way to immediately lower the cost of student
-      tuition, faculty are (1) largely unaware that Open texts exist, or (2) are hesitant
-      to adopt open-texts because they cannot easily find the quality texts they need.
-      The 2014 and 2015 Babson surveys (and member experiences) have also shown that,
-      of those faculty who are aware of benefits to OA publishing, they are hesitant
-      to negotiate/alter publishing contracts because they are unfamiliar with how
-      to do so. \nThe Open Textbook session will review the various group-suggested
-      Open Text resources and act as a brainstorming session to come up with a plan
-      to facilitate finding E-text resources for your institutions, and to become
-      familiar with the Open textbook processes in order to coach faculty through
-      the adaptation or creation of a new textbook. \nThe Publishing Agreements session
-      will be led by SIG-Member and NYU Scholarly Communications Librarian, April
-      Hathcock (JD, LLM, MLIS), to help facilitate faculty awareness about reserving
-      author rights in publishing agreements.  "
+    text: "Join us on Thursday May 26, 2016 for a lively discussion on Faculty Outreach
+      Strategies - Success Stories and Uphill Battles.  \nWe know that faculty can
+      be our advocates when we provide library services to students. Faculty can help
+      relay valuable information to their students about the library. We stride to
+      develop positive working relationships with them so that we can help promote
+      the library and librarians as vehicles for promoting student success in College.
+      \ How do we get buy-in from faculty and what methods can we employ to reach
+      out to them? How can we partner with faculty in promoting Information Literacy
+      classes, better develop our subject collections, and promote all our library
+      services and resources?  We hope to have a lively discussion on best practices,
+      and we hope to discuss different outreach strategies used to communicate our
+      value to faculty. We invite you to join in on the discussion and to bring your
+      successful (and not so successful) outreach methods to the table. We want to
+      hear from you! \nOrganized by Mark Aaron Polger and Carl Andrews, co-conveners
+      of METRO's Outreach and Advocacy Special Interest Group. \n  "
     html: |-
-      <P>The next OPEN-SIG will focus on Open Textbooks and Publishing Agreements.</P>
-      <P>The 2014 Babson survey (and SIG-member experiences) have shown that although Open Textbooks are a significant way to immediately lower the cost of student tuition, faculty are (1) largely unaware that Open texts exist, or (2) are hesitant to adopt open-texts because they cannot easily find the quality texts they need. The 2014 and 2015 Babson surveys (and member experiences) have also shown that, of those faculty who are aware of benefits to OA publishing, they are hesitant to negotiate/alter publishing contracts because they are unfamiliar with how to do so.</P>
-      <P>The Open Textbook session will review the various group-suggested Open Text resources and act as a brainstorming session to come up with a plan to facilitate finding E-text resources for your institutions, and to become familiar with the Open textbook processes in order to coach faculty through the adaptation or creation of a new textbook.</P>
-      <P>The Publishing Agreements session will be led by SIG-Member and NYU Scholarly Communications Librarian, April Hathcock (<SPAN>JD, LLM, MLIS)</SPAN>, to help facilitate faculty awareness about reserving author rights in publishing agreements.<BR></P>
-  id: '24258756594'
-  url: http://www.eventbrite.com/e/open-sig-meeting-open-textbooks-publishing-agreements-tickets-24258756594?aff=ebapi
+      <P><SPAN>Join us on Thursday May 26, 2016 for a lively discussion on Faculty Outreach Strategies - Success Stories and Uphill Battles. </SPAN></P>
+      <P><SPAN>We know that faculty can be our advocates when we provide library services to students. Faculty can help relay valuable information to their students about the library. We stride to develop positive working relationships with them so that we can help promote the library and librarians as vehicles for promoting student success in College.</SPAN><SPAN><BR CLASS="kix-line-break"></SPAN><SPAN><BR CLASS="kix-line-break"></SPAN><SPAN>How do we get buy-in from faculty and what methods can we employ to reach out to them? How can we partner with faculty in promoting Information Literacy classes, better develop our subject collections, and promote all our library services and resources?  We hope to have a lively discussion on best practices, and we hope to discuss different outreach strategies used to communicate our value to faculty. We invite you to join in on the discussion and to bring your successful (and not so successful) outreach methods to the table. We want to hear from you!</SPAN></P>
+      <P><EM><SPAN>Organized by Mark Aaron Polger and Carl Andrews, co-conveners of <A TARGET="_blank" HREF="https://sites.google.com/a/metro.org/oasig/" REL="nofollow">METRO's Outreach and Advocacy Special Interest Group</A>.</SPAN></EM></P>
+      <P><SPAN><BR></SPAN></P>
+  id: '24604934020'
+  url: http://www.eventbrite.com/e/outreach-and-advocacy-sig-meeting-faculty-outreach-strategies-success-stories-and-uphill-battles-tickets-24604934020?aff=ebapi
   start:
     timezone: America/New_York
-    local: '2016-04-21T16:00:00'
-    utc: '2016-04-21T20:00:00Z'
+    local: '2016-05-26T12:00:00'
+    utc: '2016-05-26T16:00:00Z'
   end:
     timezone: America/New_York
-    local: '2016-04-21T18:00:00'
-    utc: '2016-04-21T22:00:00Z'
-  created: '2016-03-29T14:32:11Z'
-  changed: '2016-03-29T14:50:26Z'
+    local: '2016-05-26T14:00:00'
+    utc: '2016-05-26T18:00:00Z'
+  created: '2016-04-12T20:36:18Z'
+  changed: '2016-04-12T20:45:38Z'
   capacity: 50
   status: live
   currency: USD
@@ -312,135 +112,16 @@ events:
   is_series: false
   is_series_parent: false
   is_reserved_seating: false
-  logo_id: '19858400'
+  logo_id: '20261854'
   organizer_id: '8929654067'
   venue_id: '12227452'
   category_id: '199'
   subcategory_id: 
   format_id: '10'
-  resource_uri: https://www.eventbriteapi.com/v3/events/24258756594/
+  resource_uri: https://www.eventbriteapi.com/v3/events/24604934020/
   logo:
-    id: '19858400'
-    url: https://img.evbuc.com/https%3A%2F%2Fimg.evbuc.com%2Fhttp%253A%252F%252Fcdn.evbuc.com%252Fimages%252F19858400%252F160412581493%252F1%252Foriginal.jpg%3Frect%3D0%252C3544%252C8048%252C4024%26s%3De51f0732e3bf810362a0f3ea99e336ca?h=200&w=450&s=6c19cec46fe03c74be25f742acac003d
-    aspect_ratio: '2'
-    edge_color: 
-    edge_color_set: true
-- name:
-    text: STM SIG Meeting
-    html: STM SIG Meeting
-  description:
-    text: "Join us for our April STM SIG meeting. This event will showcase projects
-      underway at libraries across NYC: \nSurvey of institutions that offer plant
-      information services to the public Esther Jackson, New York Botanical Garden
-      \nFaculty Use of Author Identifiers and Researcher Networking Tools Clara Tran
-      and Jennifer Lyon, Stony Brook University \nShare #GreyLit: Using Social Media
-      to Communicate Grey Literature Danielle Aloia and Robin Naughton, New York Academy
-      of Medicine \nReference Mode Preferences: A Survey of Students at Hunter College
-      and Queensborough Community College John Carey and Ajatshatru Pathak \nWearable
-      Technology: If the Tech Fits, Wear It Robin Wright, Lehman College and Latrina
-      Keith, Albert Einstein College of Medicine \nAn outreach project funded by an
-      NN/LM MAR grant to teach medication safety to K-2 students Shelly Warwick, Touro
-      College \nRSVP today. We look forward to seeing you there!  "
-    html: |-
-      <P>Join us for our April STM SIG meeting. This event will showcase projects underway at libraries across NYC:</P>
-      <P><SPAN><SPAN><STRONG>Survey of institutions that offer plant information services to the public</STRONG><BR></SPAN></SPAN>Esther Jackson, New York Botanical Garden</P>
-      <P><STRONG>Faculty Use of Author Identifiers and Researcher Networking Tools</STRONG><BR>Clara Tran and Jennifer Lyon, Stony Brook University</P>
-      <P><STRONG>Share #GreyLit: Using Social Media to Communicate Grey Literature</STRONG><BR>Danielle Aloia and Robin Naughton, New York Academy of Medicine</P>
-      <P><STRONG>Reference Mode Preferences: A Survey of Students at Hunter College and Queensborough Community College</STRONG><BR>John Carey and Ajatshatru Pathak</P>
-      <P><STRONG>Wearable Technology: If the Tech Fits, Wear It</STRONG><BR>Robin Wright, Lehman College and Latrina Keith, Albert Einstein College of Medicine</P>
-      <P><SPAN><STRONG>An outreach project funded by an NN/LM MAR grant to teach medication safety to K-2 students</STRONG><BR></SPAN><SPAN>Shelly Warwick, Touro College</SPAN></P>
-      <P>RSVP today. We look forward to seeing you there!<BR></P>
-  id: '22696154810'
-  url: http://www.eventbrite.com/e/stm-sig-meeting-tickets-22696154810?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2016-04-27T13:30:00'
-    utc: '2016-04-27T17:30:00Z'
-  end:
-    timezone: America/New_York
-    local: '2016-04-27T15:30:00'
-    utc: '2016-04-27T19:30:00Z'
-  created: '2016-03-08T15:33:37Z'
-  changed: '2016-03-10T18:41:34Z'
-  capacity: 50
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 600
-  hide_start_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  logo_id: '19327331'
-  organizer_id: '8929654067'
-  venue_id: '12227452'
-  category_id: '199'
-  subcategory_id: 
-  format_id: '10'
-  resource_uri: https://www.eventbriteapi.com/v3/events/22696154810/
-  logo:
-    id: '19327331'
-    url: https://img.evbuc.com/https%3A%2F%2Fimg.evbuc.com%2Fhttp%253A%252F%252Fcdn.evbuc.com%252Fimages%252F19327331%252F160412581493%252F1%252Foriginal.jpg%3Frect%3D0%252C3544%252C8048%252C4024%26s%3D63c0e862f5ac9734ef0f6537b839caaf?h=200&w=450&s=713921ca99ed080825eecba009ae76bb
-    aspect_ratio: '2'
-    edge_color: 
-    edge_color_set: true
-- name:
-    text: 'UX SIG Meeting: Hands-On User Testing Session at NYU Libraries User Experience
-      Department'
-    html: 'UX SIG Meeting: Hands-On User Testing Session at NYU Libraries User Experience
-      Department'
-  description:
-    text: 'Join METRO''s UX SIG and the NYU Libraries User Experience department in
-      a hands on user testing session. We''ll meet in the Bobst Library lobby at 10am.
-      Learn how we create scenarios and tasks, facilitate testing, as well as how
-      we synthesize our observations for improved user experiences. Attendees should
-      bring laptops if they have them. '
-    html: "<P><SPAN>Join METRO's UX SIG and the NYU Libraries User Experience department
-      in a hands on user testing session. We'll meet in the Bobst Library lobby at
-      10am. Learn how we create scenarios and tasks, facilitate testing, as well as
-      how we synthesize our observations for improved user experiences. Attendees
-      should bring laptops if they have them.</SPAN></P>"
-  id: '24345108876'
-  url: http://www.eventbrite.com/e/ux-sig-meeting-hands-on-user-testing-session-at-nyu-libraries-user-experience-department-tickets-24345108876?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2016-05-11T10:00:00'
-    utc: '2016-05-11T14:00:00Z'
-  end:
-    timezone: America/New_York
-    local: '2016-05-11T12:30:00'
-    utc: '2016-05-11T16:30:00Z'
-  created: '2016-04-01T14:13:05Z'
-  changed: '2016-04-01T14:16:49Z'
-  capacity: 50
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 600
-  hide_start_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  logo_id: '19958221'
-  organizer_id: '8929654067'
-  venue_id: '14473294'
-  category_id: '199'
-  subcategory_id: 
-  format_id: '10'
-  resource_uri: https://www.eventbriteapi.com/v3/events/24345108876/
-  logo:
-    id: '19958221'
-    url: https://img.evbuc.com/https%3A%2F%2Fimg.evbuc.com%2Fhttp%253A%252F%252Fcdn.evbuc.com%252Fimages%252F19958221%252F160412581493%252F1%252Foriginal.jpg%3Frect%3D0%252C3544%252C8048%252C4024%26s%3Db434577081c11426348d7683679311d7?h=200&w=450&s=04a7032fb5b14bb5fa9d0b2a3fe82573
+    id: '20261854'
+    url: https://img.evbuc.com/https%3A%2F%2Fimg.evbuc.com%2Fhttp%253A%252F%252Fcdn.evbuc.com%252Fimages%252F20261854%252F160412581493%252F1%252Foriginal.jpg%3Frect%3D0%252C3544%252C8048%252C4024%26s%3D7308553843c38efc20365c6958f4ecdc?h=200&w=450&s=af7735d9dfd17f993a23c5d8930435ec
     aspect_ratio: '2'
     edge_color: 
     edge_color_set: true
@@ -497,7 +178,7 @@ events:
     local: '2016-06-07T13:00:00'
     utc: '2016-06-07T17:00:00Z'
   created: '2016-04-01T14:27:22Z'
-  changed: '2016-04-11T19:25:30Z'
+  changed: '2016-05-09T21:29:17Z'
   capacity: 60
   status: live
   currency: USD
@@ -522,6 +203,130 @@ events:
   logo:
     id: '19958653'
     url: https://img.evbuc.com/https%3A%2F%2Fimg.evbuc.com%2Fhttp%253A%252F%252Fcdn.evbuc.com%252Fimages%252F19958653%252F160412581493%252F1%252Foriginal.jpg%3Frect%3D0%252C1971%252C8048%252C4024%26s%3Da1d15588774081b9c79844d0260e3c96?h=200&w=450&s=a5d42ee855b8c7e2463af14ca006e0ea
+    aspect_ratio: '2'
+    edge_color: 
+    edge_color_set: true
+- name:
+    text: 'Economics and Business Librarians SIG Meeting: Digital Projects in Business
+      and Economics'
+    html: 'Economics and Business Librarians SIG Meeting: Digital Projects in Business
+      and Economics'
+  description:
+    text: "Please join the METRO Economics and Business Librarians Special Interest
+      Group on June 8 at 10 A.M. at METRO Headquarters. \nThe topic is \"Digital Projects
+      in Business and Economics.\" Jeremiah Trinidad-Christensen, Interim Head, Watson
+      Library, Columbia University will speak about Columbia Historical Corporate
+      Reports: Digitized Annual Reports from Watson's Library Collection. \nWilla
+      Armstrong, Digital Projects Librarian New York Public Library, and Paul Beaudoin,
+      Applications Developer in NYPL Labs, will speak about digitizing records of
+      the Emigrant Savings Bank for NYPL's Emigrant City transcription project. \nDon't
+      miss this opportunity to learn more about these digital projects.  "
+    html: |-
+      <P><SPAN>Please join the METRO Economics and Business Librarians Special Interest Group on June 8 at 10 A.M. at METRO Headquarters.</SPAN></P>
+      <P><SPAN>The topic is "Digital Projects in Business and Economics." Jeremiah Trinidad-Christensen, Interim Head, Watson Library, Columbia University will speak about Columbia Historical Corporate Reports: Digitized Annual Reports from Watson's Library Collection.</SPAN></P>
+      <P><SPAN><SPAN>Willa Armstrong, Digital Projects Librarian New York Public Library, and Paul Beaudoin, Applications Developer in NYPL Labs, will speak about digitizing records of the Emigrant Savings Bank for NYPL's Emigrant City transcription project.</SPAN></SPAN></P>
+      <P><SPAN><SPAN>Don't miss this opportunity to learn more about these digital projects.</SPAN></SPAN><BR></P>
+  id: '24413173459'
+  url: http://www.eventbrite.com/e/economics-and-business-librarians-sig-meeting-digital-projects-in-business-and-economics-tickets-24413173459?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2016-06-08T10:00:00'
+    utc: '2016-06-08T14:00:00Z'
+  end:
+    timezone: America/New_York
+    local: '2016-06-08T12:00:00'
+    utc: '2016-06-08T16:00:00Z'
+  created: '2016-04-04T21:46:36Z'
+  changed: '2016-04-13T20:06:38Z'
+  capacity: 50
+  status: live
+  currency: USD
+  listed: true
+  shareable: true
+  online_event: false
+  tx_time_limit: 600
+  hide_start_date: false
+  locale: en_US
+  is_locked: false
+  privacy_setting: unlocked
+  is_series: false
+  is_series_parent: false
+  is_reserved_seating: false
+  logo_id: '20030637'
+  organizer_id: '8929654067'
+  venue_id: '12227452'
+  category_id: '199'
+  subcategory_id: 
+  format_id: '10'
+  resource_uri: https://www.eventbriteapi.com/v3/events/24413173459/
+  logo:
+    id: '20030637'
+    url: https://img.evbuc.com/https%3A%2F%2Fimg.evbuc.com%2Fhttp%253A%252F%252Fcdn.evbuc.com%252Fimages%252F20030637%252F160412581493%252F1%252Foriginal.jpg%3Frect%3D0%252C3544%252C8048%252C4024%26s%3D13b54497106fa9df6748ca989a233586?h=200&w=450&s=ce7489483b99a29c4cdd8a50bb88f3e5
+    aspect_ratio: '2'
+    edge_color: 
+    edge_color_set: true
+- name:
+    text: Science and Medical Librarian SIG's STELLA Unconference Satellite Meeting
+      at NYU
+    html: Science and Medical Librarian SIG&#39;s STELLA Unconference Satellite Meeting
+      at NYU
+  description:
+    text: "METRO's Science and Medical Librarians SIG invites you to join a STELLA
+      Unconference satellite meeting at NYU. STELLA is an acronym for Science, Technology
+      & Engineering Library Leaders in Action. \n A remote meeting will be held in
+      the NYU Bobst Library Room 619.  Here is the schedule: \n\n12:15-1:15pm    
+      Planning Session\n1:15-2:30pm       Breakout Session 1\n2:30-2:45pm       Break\n2:45-4:00pm      
+      Breakout Session 2\n4:00-5:00pm       60 minute wrap-up and report back from
+      sessions\n\nThe main event will be held at the University of North Carolina;
+      we’ll be communicating with them through Skype. \n  "
+    html: |-
+      <P><SPAN>METRO's <SPAN>Science and Medical Librarians SIG invites you to join a </SPAN>STELLA Unconference satellite meeting at NYU. <SPAN>STELLA is an acronym for Science, Technology &amp; Engineering Library Leaders in Action.</SPAN></SPAN></P>
+      <P><SPAN> A remote meeting will be held in the NYU Bobst Library Room 619.  Here is the schedule:</SPAN></P>
+      <UL>
+      <LI><SPAN CLASS="aBn"><SPAN CLASS="aQJ">12:15-1:15pm</SPAN></SPAN><SPAN>     Planning Session</SPAN></LI>
+      <LI><SPAN CLASS="aBn"><SPAN CLASS="aQJ">1:15-2:30pm</SPAN></SPAN><SPAN>       Breakout Session 1</SPAN></LI>
+      <LI><SPAN CLASS="aBn"><SPAN CLASS="aQJ">2:30-2:45pm</SPAN></SPAN><SPAN>       Break</SPAN></LI>
+      <LI><SPAN CLASS="aBn"><SPAN CLASS="aQJ">2:45-4:00pm</SPAN></SPAN><SPAN>       Breakout Session 2</SPAN></LI>
+      <LI><SPAN CLASS="aBn"><SPAN CLASS="aQJ">4:00-5:00pm</SPAN></SPAN><SPAN>       60 minute wrap-up and report back from sessions</SPAN></LI>
+      </UL>
+      <P CLASS="MsoNormal"><SPAN>The main event will be held at the University of North Carolina; we’ll be communicating with them through Skype.</SPAN></P>
+      <P><SPAN> </SPAN></P>
+  id: '24565424847'
+  url: http://www.eventbrite.com/e/science-and-medical-librarian-sigs-stella-unconference-satellite-meeting-at-nyu-tickets-24565424847?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2016-05-20T12:15:00'
+    utc: '2016-05-20T16:15:00Z'
+  end:
+    timezone: America/New_York
+    local: '2016-05-20T17:00:00'
+    utc: '2016-05-20T21:00:00Z'
+  created: '2016-04-11T15:09:20Z'
+  changed: '2016-04-12T19:55:56Z'
+  capacity: 50
+  status: live
+  currency: USD
+  listed: true
+  shareable: true
+  online_event: false
+  tx_time_limit: 600
+  hide_start_date: false
+  locale: en_US
+  is_locked: false
+  privacy_setting: unlocked
+  is_series: false
+  is_series_parent: false
+  is_reserved_seating: false
+  logo_id: '20212245'
+  organizer_id: '8929654067'
+  venue_id: '14651612'
+  category_id: '199'
+  subcategory_id: 
+  format_id: '10'
+  resource_uri: https://www.eventbriteapi.com/v3/events/24565424847/
+  logo:
+    id: '20212245'
+    url: https://img.evbuc.com/https%3A%2F%2Fimg.evbuc.com%2Fhttp%253A%252F%252Fcdn.evbuc.com%252Fimages%252F20212245%252F160412581493%252F1%252Foriginal.jpg%3Frect%3D0%252C3544%252C8048%252C4024%26s%3D93b600dab52ec5f59c1f5702fa3685e1?h=200&w=450&s=295dd9175d09e74e4a754dd24f8ee82e
     aspect_ratio: '2'
     edge_color: 
     edge_color_set: true
@@ -613,7 +418,7 @@ events:
     local: '2016-06-02T17:00:00'
     utc: '2016-06-02T21:00:00Z'
   created: '2016-03-15T16:47:23Z'
-  changed: '2016-04-07T18:55:01Z'
+  changed: '2016-05-06T13:57:51Z'
   capacity: 60
   status: live
   currency: USD
@@ -642,97 +447,72 @@ events:
     edge_color: "#00456a"
     edge_color_set: true
 - name:
-    text: High School to College Transition SIG Meeting
-    html: High School to College Transition SIG Meeting
+    text: Strategic Planning DIY
+    html: Strategic Planning DIY
   description:
-    text: "We invite you to the spring meeting of the High School to College Transition
-      SIG on Monday, April 18, 4:30-6:00pm, at METRO. \nThis will be an informal brainstorming
-      and discussion session to plan future meetings of our SIG. Please bring a colleague!
-      \nWe are looking forward to seeing familiar and new faces and having a lively
-      discussion. \n  "
+    text: "Good libraries thrive when they are guided by a strong vision and a realizable
+      strategy for achieving it. \nStrategic Planning DIY is an interactive workshop
+      for library directors, assistant directors, and senior staff. Our facilitators
+      will share what makes a strategic planning process effective. They will introduce
+      participants to planning tools that are scalable – tools that consultants use
+      in facilitating the development of a comprehensive strategic plan and that also
+      might be employed by staff and volunteers for strategic planning when the resources
+      aren’t available to secure outside counsel. \nThis workshop will pay particular
+      attention to planning that addresses some of the most challenging issues facing
+      libraries today: financial sustainability, leadership development and succession
+      planning, and programming. Topics will include forming a committee, conducting
+      research, crafting a vision, setting goals, prioritizing objectives, and measuring
+      success. \nOutcomes include: \n\nUnderstanding how a good strategic planning
+      process works\nUnderstanding why and how a strategic planning process is useful
+      to a library of any kind\nKnowledge of specific tools that libraries can use
+      for the DIY strategic planning process\n\nRegistration for this event is $75
+      for METRO, myMETRO, and ESLN members and $150 for non-members. The workshop
+      includes a catered lunch. \n  \nAbout our instructors: \nAdam R. Gaynor is a
+      founding partner in Plan A Advisors, the management consulting firm for nonprofits
+      nationally where he advises institutions, organizations, agencies and philanthropies
+      on their strategic direction. Mr. Gaynor formed Plan A with Evan Kingsley in
+      2013. He was previously Executive Director of The Curriculum Initiative, a national
+      program for over 240 prominent independent schools. Mr. Gaynor earned a BA in
+      Women’s Studies from Bates College, an MS in Social Work from Columbia University,
+      and an MA in Jewish Studies from the Jewish Theological Seminary. He is completing
+      a Ph.D. in Education and Jewish Studies at NYU. \nEvan M. Kingsley is a founding
+      partner in Plan A Advisors, the management consulting firm for non-profits nationally
+      where he advises institutions, organizations, agencies and philanthropies on
+      their strategic direction. After three decades experience as a consultant and
+      in executive positions in major New York institutions, Mr. Kingsley formed Plan
+      A Advisors with Adam Gaynor in 2013. He has served as executive director of
+      the American Jewish Historical Society and a deputy director of the International
+      Center of Photography and of Brooklyn Public Library. Mr. Kingsley earned a
+      BA in Art History from Columbia University, an MA in American Civilization from
+      NYU, and an MBA from Baruch College. "
     html: |-
-      <P>We invite you to the spring meeting of the High School to College Transition SIG on Monday, April 18, 4:30-6:00pm, at METRO.</P>
-      <P>This will be an informal brainstorming and discussion session to plan future meetings of our SIG. Please bring a colleague!</P>
-      <P>We are looking forward to seeing familiar and new faces and having a lively discussion.</P>
-      <P><BR></P>
-  id: '24268875861'
-  url: http://www.eventbrite.com/e/high-school-to-college-transition-sig-meeting-tickets-24268875861?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2016-04-18T16:30:00'
-    utc: '2016-04-18T20:30:00Z'
-  end:
-    timezone: America/New_York
-    local: '2016-04-18T18:00:00'
-    utc: '2016-04-18T22:00:00Z'
-  created: '2016-03-29T19:49:58Z'
-  changed: '2016-03-29T19:53:55Z'
-  capacity: 50
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 600
-  hide_start_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  logo_id: '19870647'
-  organizer_id: '8929654067'
-  venue_id: '12227452'
-  category_id: '199'
-  subcategory_id: 
-  format_id: '10'
-  resource_uri: https://www.eventbriteapi.com/v3/events/24268875861/
-  logo:
-    id: '19870647'
-    url: https://img.evbuc.com/https%3A%2F%2Fimg.evbuc.com%2Fhttp%253A%252F%252Fcdn.evbuc.com%252Fimages%252F19870647%252F160412581493%252F1%252Foriginal.jpg%3Frect%3D0%252C3544%252C8048%252C4024%26s%3Da27dded8bd5041cef915ae8e8866d332?h=200&w=450&s=f0da62917ee329a8275f0a191a8fbbd7
-    aspect_ratio: '2'
-    edge_color: 
-    edge_color_set: true
-- name:
-    text: Science and Medical Librarians SIG's STELLA Unconference Satellite Meeting
-      at NYU
-    html: Science and Medical Librarians SIG&#39;s STELLA Unconference Satellite Meeting
-      at NYU
-  description:
-    text: "METRO's Science and Medical Librarians SIG invites you to join a STELLA
-      Unconference satellite meeting at NYU. STELLA is an acronym for Science, Technology
-      & Engineering Library Leaders in Action. \n A remote meeting will be held in
-      the NYU Bobst Library Room 619.  Here is the schedule: \n\n12:15-1:15pm    
-      Planning Session\n1:15-2:30pm       Breakout Session 1\n2:30-2:45pm       Break\n2:45-4:00pm      
-      Breakout Session 2\n4:00-5:00pm       60 minute wrap-up and report back from
-      sessions\n\nThe main event will be held at the University of North Carolina;
-      we’ll be communicating with them through Skype. \n  "
-    html: |-
-      <P><SPAN>METRO's <SPAN>Science and Medical Librarians SIG invites you to join a </SPAN>STELLA Unconference satellite meeting at NYU. <SPAN>STELLA is an acronym for Science, Technology &amp; Engineering Library Leaders in Action.</SPAN></SPAN></P>
-      <P><SPAN> A remote meeting will be held in the NYU Bobst Library Room 619.  Here is the schedule:</SPAN></P>
+      <P>Good libraries thrive when they are guided by a strong vision and a realizable strategy for achieving it.</P>
+      <P>Strategic Planning DIY is an interactive workshop for library directors, assistant directors, and senior staff. Our facilitators will share what makes a strategic planning process effective. They will introduce participants to planning tools that are scalable – tools that consultants use in facilitating the development of a comprehensive strategic plan and that also might be employed by staff and volunteers for strategic planning when the resources aren’t available to secure outside counsel.</P>
+      <P>This workshop will pay particular attention to planning that addresses some of the most challenging issues facing libraries today: financial sustainability, leadership development and succession planning, and programming. Topics will include forming a committee, conducting research, crafting a vision, setting goals, prioritizing objectives, and measuring success.</P>
+      <P>Outcomes include:</P>
       <UL>
-      <LI><SPAN CLASS="aBn"><SPAN CLASS="aQJ">12:15-1:15pm</SPAN></SPAN><SPAN>     Planning Session</SPAN></LI>
-      <LI><SPAN CLASS="aBn"><SPAN CLASS="aQJ">1:15-2:30pm</SPAN></SPAN><SPAN>       Breakout Session 1</SPAN></LI>
-      <LI><SPAN CLASS="aBn"><SPAN CLASS="aQJ">2:30-2:45pm</SPAN></SPAN><SPAN>       Break</SPAN></LI>
-      <LI><SPAN CLASS="aBn"><SPAN CLASS="aQJ">2:45-4:00pm</SPAN></SPAN><SPAN>       Breakout Session 2</SPAN></LI>
-      <LI><SPAN CLASS="aBn"><SPAN CLASS="aQJ">4:00-5:00pm</SPAN></SPAN><SPAN>       60 minute wrap-up and report back from sessions</SPAN></LI>
+      <LI>Understanding how a good strategic planning process works</LI>
+      <LI>Understanding why and how a strategic planning process is useful to a library of any kind</LI>
+      <LI>Knowledge of specific tools that libraries can use for the DIY strategic planning process</LI>
       </UL>
-      <P CLASS="MsoNormal"><SPAN>The main event will be held at the University of North Carolina; we’ll be communicating with them through Skype.</SPAN></P>
-      <P><SPAN> </SPAN></P>
-  id: '24565424847'
-  url: http://www.eventbrite.com/e/science-and-medical-librarians-sigs-stella-unconference-satellite-meeting-at-nyu-tickets-24565424847?aff=ebapi
+      <P>Registration for this event is $75 for METRO, myMETRO, and ESLN members and $150 for non-members. The workshop includes a catered lunch.</P>
+      <P><BR></P>
+      <P><EM>About our instructors:</EM></P>
+      <P><STRONG>Adam R. Gaynor</STRONG> is a founding partner in Plan A Advisors, the management consulting firm for nonprofits nationally where he advises institutions, organizations, agencies and philanthropies on their strategic direction. Mr. Gaynor formed Plan A with Evan Kingsley in 2013. He was previously Executive Director of The Curriculum Initiative, a national program for over 240 prominent independent schools. Mr. Gaynor earned a BA in Women’s Studies from Bates College, an MS in Social Work from Columbia University, and an MA in Jewish Studies from the Jewish Theological Seminary. He is completing a Ph.D. in Education and Jewish Studies at NYU.</P>
+      <P><STRONG>Evan M. Kingsley</STRONG> is a founding partner in Plan A Advisors, the management consulting firm for non-profits nationally where he advises institutions, organizations, agencies and philanthropies on their strategic direction. After three decades experience as a consultant and in executive positions in major New York institutions, Mr. Kingsley formed Plan A Advisors with Adam Gaynor in 2013. He has served as executive director of the American Jewish Historical Society and a deputy director of the International Center of Photography and of Brooklyn Public Library. Mr. Kingsley earned a BA in Art History from Columbia University, an MA in American Civilization from NYU, and an MBA from Baruch College.</P>
+  id: '24817562999'
+  url: http://www.eventbrite.com/e/strategic-planning-diy-tickets-24817562999?aff=ebapi
   start:
     timezone: America/New_York
-    local: '2016-05-20T12:15:00'
-    utc: '2016-05-20T16:15:00Z'
+    local: '2016-06-09T10:00:00'
+    utc: '2016-06-09T14:00:00Z'
   end:
     timezone: America/New_York
-    local: '2016-05-20T17:00:00'
-    utc: '2016-05-20T21:00:00Z'
-  created: '2016-04-11T15:09:20Z'
-  changed: '2016-04-11T15:14:01Z'
-  capacity: 50
+    local: '2016-06-09T14:00:00'
+    utc: '2016-06-09T18:00:00Z'
+  created: '2016-04-20T18:44:37Z'
+  changed: '2016-05-06T20:31:49Z'
+  capacity: 35
   status: live
   currency: USD
   listed: true
@@ -746,50 +526,117 @@ events:
   is_series: false
   is_series_parent: false
   is_reserved_seating: false
-  logo_id: '20212245'
+  logo_id: '20479344'
   organizer_id: '8929654067'
-  venue_id: '14651612'
+  venue_id: '12278285'
   category_id: '199'
   subcategory_id: 
-  format_id: '10'
-  resource_uri: https://www.eventbriteapi.com/v3/events/24565424847/
+  format_id: '9'
+  resource_uri: https://www.eventbriteapi.com/v3/events/24817562999/
   logo:
-    id: '20212245'
-    url: https://img.evbuc.com/https%3A%2F%2Fimg.evbuc.com%2Fhttp%253A%252F%252Fcdn.evbuc.com%252Fimages%252F20212245%252F160412581493%252F1%252Foriginal.jpg%3Frect%3D0%252C3544%252C8048%252C4024%26s%3D93b600dab52ec5f59c1f5702fa3685e1?h=200&w=450&s=295dd9175d09e74e4a754dd24f8ee82e
+    id: '20479344'
+    url: https://img.evbuc.com/https%3A%2F%2Fimg.evbuc.com%2Fhttp%253A%252F%252Fcdn.evbuc.com%252Fimages%252F20479344%252F160412581493%252F1%252Foriginal.jpg%3Frect%3D0%252C1971%252C8048%252C4024%26s%3D161b23fa29ff424b3e568b5653e097b9?h=200&w=450&s=676e6897ddbde638aaae50cd80cab16c
     aspect_ratio: '2'
     edge_color: 
     edge_color_set: true
 - name:
-    text: 'Economics and Business Librarians SIG Meeting: Digital Projects in Business
-      and Economics'
-    html: 'Economics and Business Librarians SIG Meeting: Digital Projects in Business
-      and Economics'
+    text: Lunchtime Book Group! Women, Race and Class by Angela Y. Davis
+    html: Lunchtime Book Group! Women, Race and Class by Angela Y. Davis
   description:
-    text: "Please join the METRO Economics and Business Librarians Special Interest
-      Group on June 8 at 10 A.M. at METRO Headquarters. \nThe topic is \"Digital Projects
-      in Business and Economics.\" Jeremiah Trinidad-Christensen, Interim Head, Watson
-      Library, Columbia University will speak about Columbia Historical Corporate
-      Reports: Digitized Annual Reports from Watson's Library Collection and Willa
-      Armstrong, Digital Projects Librarian New York Public Library, will speak about
-      digitizing records of the Emigrant Savings Bank for NYPL's Emigrant City transcription
-      project. \nDon't miss this opportunity to learn more about these digital projects.
-      \ "
+    text: "Join us at METRO for a super special lunch time book group featuring \"Women,
+      Race and Class\" by Angela Y. Davis. A mainstay in feminist scholarship, Davis's
+      book offers a deep and insightful view of early feminism and its relationship
+      with racial equity issues starting back in the late 19th century. It's a must
+      read for anyone who hopes to have a strong contextual and intersectional understanding
+      of our society's current power structures as they apply to women and men of
+      all nationalities and backgrounds.  Bring your brown bag lunch to METRO on May
+      23, 2016 (we'll get started right at 12:30 to maximize our time together). There
+      are plenty of restaurants nearby if you're not the lunch-from-home sort. METRO
+      will have coffee and cookies available as well.  Registration is capped at 20.
+      If you're unable to make it, please cancel your registration by signing in to
+      Eventbrite or email us at events@metro.org. \nThis meeting will be led by Davis
+      Erin Anderson and April Hathcock. "
     html: |-
-      <P><SPAN>Please join the METRO Economics and Business Librarians Special Interest Group on June 8 at 10 A.M. at METRO Headquarters.</SPAN></P>
-      <P><SPAN>The topic is "Digital Projects in Business and Economics." Jeremiah Trinidad-Christensen, Interim Head, Watson Library, Columbia University will speak about Columbia Historical Corporate Reports: Digitized Annual Reports from Watson's Library Collection and Willa Armstrong, Digital Projects Librarian New York Public Library, will speak about digitizing records of the Emigrant Savings Bank for NYPL's Emigrant City transcription project.</SPAN></P>
-      <P><SPAN><SPAN>Don't miss this opportunity to learn more about these digital projects.</SPAN></SPAN><BR></P>
-  id: '24413173459'
-  url: http://www.eventbrite.com/e/economics-and-business-librarians-sig-meeting-digital-projects-in-business-and-economics-tickets-24413173459?aff=ebapi
+      <P>Join us at METRO for a super special lunch time book group featuring "<A TARGET="_blank" HREF="http://www.penguinrandomhouse.com/books/37354/women-race-and-class-by-angela-y-davis/9780394713519/" REL="nofollow">Women, Race and Class</A>" by Angela Y. Davis. A mainstay in feminist scholarship, Davis's book offers a deep and insightful view of early feminism and its relationship with racial equity issues starting back in the late 19th century. It's a must read for anyone who hopes to have a strong contextual and intersectional understanding of our society's current power structures as they apply to women and men of all nationalities and backgrounds.<BR CLASS="kix-line-break"><BR CLASS="kix-line-break">Bring your brown bag lunch to METRO on May 23, 2016 (we'll get started right at 12:30 to maximize our time together). There are plenty of restaurants nearby if you're not the lunch-from-home sort. METRO will have coffee and cookies available as well.<BR CLASS="kix-line-break"><BR CLASS="kix-line-break">Registration is capped at 20. If you're unable to make it, please cancel your registration by signing in to Eventbrite or email us at events@metro.org.</P>
+      <P>This meeting will be led by Davis Erin Anderson and April Hathcock.</P>
+  id: '24604329211'
+  url: http://www.eventbrite.com/e/lunchtime-book-group-women-race-and-class-by-angela-y-davis-tickets-24604329211?aff=ebapi
   start:
     timezone: America/New_York
-    local: '2016-06-08T10:00:00'
-    utc: '2016-06-08T14:00:00Z'
+    local: '2016-05-23T12:30:00'
+    utc: '2016-05-23T16:30:00Z'
   end:
     timezone: America/New_York
-    local: '2016-06-08T12:00:00'
-    utc: '2016-06-08T16:00:00Z'
-  created: '2016-04-04T21:46:36Z'
-  changed: '2016-04-04T22:36:09Z'
+    local: '2016-05-23T14:00:00'
+    utc: '2016-05-23T18:00:00Z'
+  created: '2016-04-12T20:17:55Z'
+  changed: '2016-05-03T18:25:01Z'
+  capacity: 25
+  status: live
+  currency: USD
+  listed: true
+  shareable: true
+  online_event: false
+  tx_time_limit: 600
+  hide_start_date: false
+  locale: en_US
+  is_locked: false
+  privacy_setting: unlocked
+  is_series: false
+  is_series_parent: false
+  is_reserved_seating: false
+  logo_id: '20261208'
+  organizer_id: '8929654067'
+  venue_id: '12278285'
+  category_id: '199'
+  subcategory_id: 
+  format_id: '9'
+  resource_uri: https://www.eventbriteapi.com/v3/events/24604329211/
+  logo:
+    id: '20261208'
+    url: https://img.evbuc.com/https%3A%2F%2Fimg.evbuc.com%2Fhttp%253A%252F%252Fcdn.evbuc.com%252Fimages%252F20261208%252F160412581493%252F1%252Foriginal.jpg%3Frect%3D0%252C1971%252C8048%252C4024%26s%3Da6ef72288c2a2747807ba7cc3a851624?h=200&w=450&s=14e127c8ba1bab90958f32afe99a3981
+    aspect_ratio: '2'
+    edge_color: 
+    edge_color_set: true
+- name:
+    text: 'myMETRO SIG Meeting: What Skills Will Get You a Job, or, How Trends in
+      Libraries Will Affect Employment and Professional Development'
+    html: 'myMETRO SIG Meeting: What Skills Will Get You a Job, or, How Trends in
+      Libraries Will Affect Employment and Professional Development'
+  description:
+    text: "Our next myMETRO SIG will be held on Thursday May 26th from 4:30 to 6:30
+      pm at METRO. \n\"What Skills Will Get You a Job, or, How Trends in Libraries
+      Will Affect Employment and Professional Development.\" \nThe panel format will
+      be Q &A regarding trends in librarianship, in which our panelists will be asked
+      questions related to their professional perspective on trends in Libraries and
+      how the trends impact professional development / skills needed for employment
+      opportunities for both entry level and mid-career professionals. \nWe are fortunate
+      to have panelists from the worlds of public and academic librarianship: Lisa
+      Rosenblum and 2017 ALA President Jim Neal. Lisa is Chief Librarian of Brooklyn
+      Public Library. She was formerly Director of Library and Community Services
+      at City of Sunnyvale, Ca. Jim served as the Vice President for Information Services
+      and University Librarian at Columbia University during 2001-2014, Jim is newly
+      elected President of ALA. \nA reception (with wine) will follow the discussion.
+      \nThis meeting is open to all. "
+    html: |-
+      <P>Our next myMETRO SIG will be held on Thursday May 26th from 4:30 to 6:30 pm at METRO.</P>
+      <P>"What Skills Will Get You a Job, or, How Trends in Libraries Will Affect Employment and Professional Development."</P>
+      <P>The panel format will be Q &A regarding trends in librarianship, in which our panelists will be asked questions related to their professional perspective on trends in Libraries and how the trends impact professional development / skills needed for employment opportunities for both entry level and mid-career professionals.</P>
+      <P>We are fortunate to have panelists from the worlds of public and academic librarianship: Lisa Rosenblum and 2017 ALA President Jim Neal. Lisa is Chief Librarian of Brooklyn Public Library. She was formerly Director of Library and Community Services at City of Sunnyvale, Ca. Jim served as the Vice President for Information Services and University Librarian at Columbia University during 2001-2014, Jim is newly elected President of ALA.</P>
+      <P>A reception (with wine) will follow the discussion.</P>
+      <P>This meeting is open to all.</P>
+  id: '25323559448'
+  url: http://www.eventbrite.com/e/mymetro-sig-meeting-what-skills-will-get-you-a-job-or-how-trends-in-libraries-will-affect-tickets-25323559448?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2016-05-26T16:30:00'
+    utc: '2016-05-26T20:30:00Z'
+  end:
+    timezone: America/New_York
+    local: '2016-05-26T18:30:00'
+    utc: '2016-05-26T22:30:00Z'
+  created: '2016-05-09T16:52:11Z'
+  changed: '2016-05-09T17:09:25Z'
   capacity: 50
   status: live
   currency: USD
@@ -804,16 +651,16 @@ events:
   is_series: false
   is_series_parent: false
   is_reserved_seating: false
-  logo_id: '20030637'
+  logo_id: '20951245'
   organizer_id: '8929654067'
   venue_id: '12227452'
   category_id: '199'
   subcategory_id: 
   format_id: '10'
-  resource_uri: https://www.eventbriteapi.com/v3/events/24413173459/
+  resource_uri: https://www.eventbriteapi.com/v3/events/25323559448/
   logo:
-    id: '20030637'
-    url: https://img.evbuc.com/https%3A%2F%2Fimg.evbuc.com%2Fhttp%253A%252F%252Fcdn.evbuc.com%252Fimages%252F20030637%252F160412581493%252F1%252Foriginal.jpg%3Frect%3D0%252C3544%252C8048%252C4024%26s%3D13b54497106fa9df6748ca989a233586?h=200&w=450&s=ce7489483b99a29c4cdd8a50bb88f3e5
+    id: '20951245'
+    url: https://img.evbuc.com/https%3A%2F%2Fimg.evbuc.com%2Fhttp%253A%252F%252Fcdn.evbuc.com%252Fimages%252F20951245%252F160412581493%252F1%252Foriginal.jpg%3Frect%3D0%252C3544%252C8048%252C4024%26s%3D1aee9320cc18fd344d39d91fe58f7eff?h=200&w=450&s=7e3be32c69690199950f3bc5c56bf2f8
     aspect_ratio: '2'
     edge_color: 
     edge_color_set: true

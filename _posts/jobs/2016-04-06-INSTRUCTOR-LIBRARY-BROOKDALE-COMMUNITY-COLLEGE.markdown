@@ -11,13 +11,19 @@ The successful candidate will design, teach, and assess information literacy cur
 
 
 
+###Responsibilities###
+
 
 
 ###Qualifications###
 Master's Degree in Library/Information Science or related field is required 
 
 
+###Compensation###
 
+
+
+###Location###
 
 
 
@@ -31,5 +37,7 @@ Please visit [http://jobs.brookdalecc.edu](http://jobs.brookdalecc.edu) and sear
 ###Company Information###
 Brookdale Community College | 765 Newman Springs Road | Lincroft, NJ | 07738 | United States
 
+
+###Contact Information###
 
 

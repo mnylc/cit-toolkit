@@ -60,7 +60,7 @@ John is the Technology Specialist for the Empire State Digital Network (ESDN), a
 
 John has worked with digitization programs and library systems since 2006. Most recently, he was the Systems Librarian for the New York Botanical Garden's LuEsther T. Mertz Library, where he oversaw and managed the Library's digitization program and acted as the IT liaison for the Library. He has also been involved in the Biodiversity Heritage Library from its early days, serving on BHL's Technical Advisory Group and representing BHL at hackathons and conferences. 
 
-John worked in corporate development for a number of years for such companies as Oxygen Media, The New York Times, and MLB.com. John received his MLS from Simmons College in 1994.
+John worked in corporate development for a number of years for such companies as Oxygen Media, The New York Times, and MLB.com. John received his MLS from Simmons College in 1994, and a B.A. in Comparative Literature from Brown University in 1980.
 
 ## Shelly Mohammed
 **Controller**

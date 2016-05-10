@@ -1,13 +1,11 @@
 #!/usr/bin/env ruby
 # coding: utf-8
 require 'csv'
-# require 'byebug'
 
 CSV.foreach(ARGV[0], encoding: 'UTF-8') do |row|
   next if row[0] == 'Timestamp'
 
   # build fields.
-  # byebug
   row.map! do |x|
     if x =~ %r{https*:\/\/[^\s]+}
       x.gsub!(%r{(https*:\/\/[^\s]+)}, '[\\1](\\1)')
@@ -16,8 +14,8 @@ CSV.foreach(ARGV[0], encoding: 'UTF-8') do |row|
     end
   end
   datebits = row[0].split(' ')[0].split('/')
-  datestr = datebits[2] + ' ' + datebits[0].rjust(2, '0')
-  datestr += ' ' + datebits[1].rjust(2, '0')
+  datestr = datebits[0] + ' ' + datebits[1].rjust(2, '0')
+  datestr += ' ' + datebits[2].rjust(2, '0')
   frontmatter_datestr = datestr.tr(' ', '-')
   title = row[1]
   institution = row[2]
@@ -66,7 +64,7 @@ date:   #{frontmatter_datestr}
 HERE
 
   jfname = datestr + ' ' + title.upcase + ' ' + institution.upcase
-  jfname.tr!(' ().,&\'', '-')
+  jfname.tr!('/ ().,&\'', '-')
   jfname.gsub!('--', '-')
   jfname += '.markdown'
 

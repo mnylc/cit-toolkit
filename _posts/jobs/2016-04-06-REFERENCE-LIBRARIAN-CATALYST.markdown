@@ -67,6 +67,8 @@ Education Required
 * This position requires that the candidate have an MLIS/MLS from an ALA-accredited institution or an international equivalent, and one to three years of experience with basic library processes and procedures.
 
 
+###Compensation###
+
 
 
 ###Location###
@@ -80,6 +82,10 @@ New York, NY
 Please email your resume, cover letter, and salary history to jobs@catalyst.org with “Reference Librarian” in the subject line. The location of this position is flexible—please indicate whether the NYC office or the city of your home office would be the preferred location.
 
 
+###Company Information###
 
+
+
+###Contact Information###
 
 

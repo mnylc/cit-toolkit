@@ -12,6 +12,8 @@ The Center for Puerto Rican Studies is a research institute dedicated to the stu
 Hunter College, located in the heart of Manhattan, is the largest college in the City University of New York (CUNY). Founded in 1870, it is also one of the oldest public colleges in the country.
 
 
+###Responsibilities###
+
 
 
 ###Qualifications###
@@ -43,6 +45,8 @@ Hunter College, located in the heart of Manhattan, is the largest college in the
 
 
 
+###Compensation###
+
 
 
 ###Location###
@@ -59,5 +63,7 @@ Forward cover letter, resume and contact information for 2 professional referenc
 ###Company Information###
 Center for Puerto Rican Studies, Hunter College, CUNY | 695 Park Ave. | Rm. E1429 | New York, NY | 10065 | United States
 
+
+###Contact Information###
 
 

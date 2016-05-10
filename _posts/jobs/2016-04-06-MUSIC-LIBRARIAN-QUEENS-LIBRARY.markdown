@@ -38,10 +38,15 @@ Queens Library is the proud recipient of the following awards: 2009 Library Jour
 
 
 
+###Compensation###
 
 
 
+###Location###
 
+
+
+###URL###
 
 
 ###To Apply###
@@ -50,6 +55,10 @@ Send your resume and cover letter to qlcareers@queenslibrary.org and reference â
 The Queens Library is an Equal Opportunity Employer
 
 
+###Company Information###
 
+
+
+###Contact Information###
 
 

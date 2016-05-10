@@ -61,7 +61,11 @@ Preferred Qualifications:
 * IT experience in an academic library (or related IT in higher education)
 
 
+###Compensation###
 
+
+
+###Location###
 
 
 
@@ -72,6 +76,10 @@ Preferred Qualifications:
 Please visit [https://jobs.columbia.edu/applicants/Central?quickFind=154216.](https://jobs.columbia.edu/applicants/Central?quickFind=154216.)
 
 
+###Company Information###
 
+
+
+###Contact Information###
 
 

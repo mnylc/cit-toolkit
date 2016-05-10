@@ -31,16 +31,25 @@ Proficiency in Word and Excel required. Familiarity with database procedures is 
 All opportunities are unpaid, but may be taken for course credit. Candidates will be supervised by professional archival staff and will have the opportunity to attend staff meetings and workshops. An expected schedule is 12-20 hours per week. Options are available in the NY office located in midtown Manhattan and in our offsite facility in Long Island City.
 
 
+###Compensation###
 
 
 
+###Location###
 
+
+
+###URL###
 
 
 ###To Apply###
 Applications are accepted on a rolling basis. To apply, please send a cover letter and resume to rebecca.weintraub@jdc.org.
 
 
+###Company Information###
 
+
+
+###Contact Information###
 
 

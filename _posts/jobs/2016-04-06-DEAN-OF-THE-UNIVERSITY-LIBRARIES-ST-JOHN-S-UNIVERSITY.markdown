@@ -16,6 +16,8 @@ The Dean reports to the Provost and will collaborate with the Academic Deans, an
 This position fosters an environment that facilitates the advancement of research, teaching, and scholarly activities with an understanding of traditional and innovative methods of information dissemination, digital learning, and emerging technologies.  It also works closely with Institutional Advancement to develop community engagement, external partnerships, and alumni activities to vitalize Friends of the Library and other fundraising initiatives. The Dean represents the University Library at regional, national, and international events.
 
 
+###Responsibilities###
+
 
 
 ###Qualifications###
@@ -34,12 +36,15 @@ Candidates will also have capacity for developing and sustaining effective relat
 Excellent communication, interpersonal, and technical skills and the ability to anticipate and adapt to priorities and changing needs are essential. 
 
 
+###Compensation###
+
 
 
 ###Location###
 Queens, New York
 
 
+###URL###
 
 
 ###To Apply###
@@ -57,5 +62,7 @@ St. John’s University is an Equal Opportunity Employer and encourages applicat
 ###Company Information###
 St. John's University | 8000 Utopia Parkway | Jamaica, New York | 11439 | United States
 
+
+###Contact Information###
 
 

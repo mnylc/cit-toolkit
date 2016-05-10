@@ -58,8 +58,11 @@ Other Responsibilities:
 Commensurate with experience.
 
 
+###Location###
 
 
+
+###URL###
 
 
 ###To Apply###
@@ -68,6 +71,10 @@ Please visit [http://www.sfc.edu/jobs.](http://www.sfc.edu/jobs.)
 St. Francis College is an equal opportunity employer.
 
 
+###Company Information###
 
+
+
+###Contact Information###
 
 

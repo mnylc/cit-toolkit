@@ -4,6 +4,8 @@ title:  "Summer Paid Graduate Internship Program - NYPD"
 date:   2016-04-11
 ---
 
+###Description###
+
 
 
 ###Responsibilities###
@@ -32,12 +34,17 @@ $595.00/week
 New York, NY
 
 
+###URL###
 
 
 ###To Apply###
 Email cover letter and resume to empsec@nypd.org (In the subject line indicate “NYPD 2016 summer Internship Program, Posting #SGI-011).
 
 
+###Company Information###
 
+
+
+###Contact Information###
 
 
