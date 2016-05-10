@@ -52,7 +52,6 @@ METRO offers member discounts on many useful services from library vendors.  For
 |  EBSCO Publishing                            |                          | 
 |  Foundation Directory Online                 |  10% discount            | 
 |  Gaylord                                     |  up to 20% discount      | 
-|  Library Juice Academy                       |  20% discount            | 
 |  PacerMonitor                                |  25% discount and more   | 
 |  Plunkett Research Online                    |  up to 20% discount      | 
 |  Portico                                     |  5% discount             | 
