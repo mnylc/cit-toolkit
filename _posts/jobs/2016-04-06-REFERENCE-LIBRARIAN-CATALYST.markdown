@@ -4,7 +4,8 @@ title:  "Reference Librarian - Catalyst"
 date:   2016-04-06
 ---
 
-###Description###
+### Description###
+
 Catalyst is looking for a second full-time reference librarian to join our fast-paced Information Center (IC).
 
 Your responsibility as a member of the IC team is to support Catalyst’s mission by providing reference to questions from our 800 supporter organizations, the media, scholars, and the public on a variety of diversity and inclusion topics.
@@ -12,7 +13,8 @@ Your responsibility as a member of the IC team is to support Catalyst’s missio
 This librarian may also handle copyright and record retention, conduct secondary research, and create clear, concise, and impactful knowledge products in Catalyst’s areas of focus including STEM, men, Millennials in the workplace, LGBT, inclusive leadership, and people of color, among others.
 
 
-###Responsibilities###
+### Responsibilities###
+
 ESSENTIAL FUNCTIONS
 
 Reference:
@@ -39,7 +41,8 @@ Working Conditions
 
 
 
-###Qualifications###
+### Qualifications###
+
 Skills:
 
 * Powerful research and reference abilities.
@@ -67,25 +70,31 @@ Education Required
 * This position requires that the candidate have an MLIS/MLS from an ALA-accredited institution or an international equivalent, and one to three years of experience with basic library processes and procedures.
 
 
-###Compensation###
+### Compensation###
 
 
 
-###Location###
+
+### Location###
+
 New York, NY
 
 
-###URL###
+### URL###
+
 [http://www.catalyst.org/reference-librarian-associate-level](http://www.catalyst.org/reference-librarian-associate-level)
 
-###To Apply###
+### To Apply###
+
 Please email your resume, cover letter, and salary history to jobs@catalyst.org with “Reference Librarian” in the subject line. The location of this position is flexible—please indicate whether the NYC office or the city of your home office would be the preferred location.
 
 
-###Company Information###
+### Company Information###
 
 
 
-###Contact Information###
+
+### Contact Information###
+
 
 

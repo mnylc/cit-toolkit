@@ -4,7 +4,8 @@ title:  "Assistant Archivist - School of Visual Arts"
 date:   2016-04-21
 ---
 
-###Description###
+### Description###
+
 JOB TITLE: Assistant Archivist 
 DEPARTMENT: SVA  Library 
 REPORTS TO: Archivist
@@ -16,7 +17,8 @@ School of Visual Arts (SVA) in New York City is an established leader and innova
 Find out what it’s like to work at SVA.  Visit www.sva.edu/workingatsva  
 
 
-###Responsibilities###
+### Responsibilities###
+
 * Arrange, describe and otherwise process archival collections using CollectiveAccess, according to local and professional standards.
 
 * Help to oversee the technical aspects of the CollectiveAccess project, coordinate with developers.
@@ -46,7 +48,8 @@ Find out what it’s like to work at SVA.  Visit www.sva.edu/workingatsva
 * Collaborate on special projects as needed 
 
 
-###Qualifications###
+### Qualifications###
+
 * MLS or other advanced degree with a concentration in Archives management required
 
 * At least two years professional Archives experience.
@@ -72,28 +75,34 @@ Find out what it’s like to work at SVA.  Visit www.sva.edu/workingatsva
 * Ability, and willingness, to routinely lift containers weighing up to 40 lbs. and climb ladders. 
 
 
-###Compensation###
+### Compensation###
 
 
 
-###Location###
+
+### Location###
 
 
 
-###URL###
+
+### URL###
 
 
-###To Apply###
+
+### To Apply###
+
 To apply for this position, please send a cover letter and resume to working@sva.edu.
 
 No walk-ins or phone calls please. 
 The School of Visual Arts is an equal opportunity employer.
 
 
-###Company Information###
+### Company Information###
 
 
 
-###Contact Information###
+
+### Contact Information###
+
 
 

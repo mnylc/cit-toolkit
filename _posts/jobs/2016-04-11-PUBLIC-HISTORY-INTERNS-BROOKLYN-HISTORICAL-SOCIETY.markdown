@@ -4,7 +4,8 @@ title:  "Public History Interns - Brooklyn Historical Society"
 date:   2016-04-11
 ---
 
-###Description###
+### Description###
+
 Oral History Internship
 Brooklyn Historical Society (BHS) is seeking 2 Oral History Interns for late 2016 who will assist the Oral History Project Archivist with the processing of BHS’s oral history collections as part of Voices of Generations: Investigating Brooklyn’s Cultural Identity, a project to digitize, process, catalogue, and make available online ten oral history collections. 
 
@@ -18,7 +19,8 @@ Brooklyn Historical Society’s Voices of Generations: Investigating Brooklyn’
 The chief goals of the project are to digitize and process the collections, catalogue them through item-level descriptions as well as collection-level finding aids, and post as many as possible online using the Oral History Metadata Synchronizer (OHMS)—an innovative online application that makes the content of interviews searchable, and therefore more accessible. A final goal of the project is to use each collection as the basis for increased community and public engagement through outreach, social media, online publishing, and programming.
 
 
-###Responsibilities###
+### Responsibilities###
+
 • Conduct background research on subjects related to collections.
 • Assist with rights-assessment: review release forms, research and contact narrators to update permissions.
 • Audit audio recordings, reformat, review and proofread transcripts, and create index logs of at least two interviews per week.
@@ -27,7 +29,8 @@ The chief goals of the project are to digitize and process the collections, cata
 • Assist with completion of finding aids.
 
 
-###Qualifications###
+### Qualifications###
+
 Requirements
 • Availability of 1-2 days a week (9:00am – 5:00pm) including an hour for lunch.
 • Coursework towards the completion of a Masters in Oral History, Public History, or Archival Management.
@@ -44,25 +47,31 @@ Preferred Qualifications
 • Conversational fluency in Spanish or Cantonese is a plus.
 
 
-###Compensation###
+### Compensation###
+
 Internships are unpaid and are intended to fulfill course credit requirements for internships and practicums. BHS staff ID grants free entrance to museums around New York City.
 
 
-###Location###
+### Location###
 
 
 
-###URL###
+
+### URL###
 
 
-###To Apply###
+
+### To Apply###
+
 Please email a cover letter and resume to library@brooklynhistory.org with a subject line of Oral History Internship [your last name]. Applications will be reviewed immediately. No phone calls please.
 
 
-###Company Information###
+### Company Information###
 
 
 
-###Contact Information###
+
+### Contact Information###
+
 
 

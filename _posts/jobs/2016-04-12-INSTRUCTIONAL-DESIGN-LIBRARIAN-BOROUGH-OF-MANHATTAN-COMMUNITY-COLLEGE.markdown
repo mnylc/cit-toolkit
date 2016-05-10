@@ -4,7 +4,8 @@ title:  "Instructional Design Librarian - Borough of Manhattan Community College
 date:   2016-04-12
 ---
 
-###Description###
+### Description###
+
 Performs teaching, research and guidance duties in area(s) of expertise. Shares responsibility for committee and department assignments including administrative, supervisory, and other functions.
 
 The Borough of Manhattan Community College (BMCC) is an integral part of the City University of New York (CUNY) with the largest college enrollment in the CUNY system of over 25,000 students. It is strategically located in downtown Manhattan in close proximity to the artistic communities of Tribeca and SoHo, the dynamic downtown financial district, and the center of New York City government at City Hall.
@@ -24,11 +25,13 @@ Instructor:
 Supports a college library through providing in-depth consultation with students and faculty and collaboration for the ongoing improvement of instructional programs and practices.
 
 
-###Responsibilities###
+### Responsibilities###
 
 
 
-###Qualifications###
+
+### Qualifications###
+
 For Assistant, Associate, or Full Professor: Ph.D. degree in area(s) of experience or equivalent. Also required are the ability to teach successfully, demonstrated scholarship or achievement, and ability to cooperate with others for the good of the institution.
 
 For Instructor: Master's degree in area(s) of expertise, and/or active progress toward a Doctorate, or equivalent. Also required are the ability to teach successfully, interest in productive scholarship or achievement, and ability to cooperate with others for the good of the institution.
@@ -40,18 +43,22 @@ For appointment as Assistant, Associate, or Full Professor, a second graduate de
 Preferred Qualifications include a minimum two years' work experience in academic library; background in education or educational technology; experience in the systematic design of instruction for online, blended/hybrid and/or traditional courses; enthusiasm for library instruction in an academic setting; as well as experience designing, developing, and delivering training programs and workshops on teaching methods and technology utilization in the classroom, and experience using computer-based technology in educational environments. The ideal candidate will have a record of demonstrated experience providing reference and instruction to undergraduate students; excellent interpersonal skills; strong written and verbal communication skills; and a demonstrated ability to work effectively with students, faculty, staff, and colleagues in a multicultural environment.
 
 
-###Compensation###
+### Compensation###
+
 CUNY offers faculty a competitive compensation and benefits package covering health insurance, pension and retirement benefits, paid parental leave, and savings programs. We also provide mentoring and support for research, scholarship, and publication as part of our commitment to ongoing faculty professional development.  Instructor: $39,399-$65,267 Asst Professor - $42,873 - $74,133 Assoc Professor - $55,602 - $88,418 Professor - $68,803 - $106,071
 
 
-###Location###
+### Location###
 
 
 
-###URL###
+
+### URL###
+
 [http://www.bmcc.cuny.edu/jobs/detail.jsp?jid=6238](http://www.bmcc.cuny.edu/jobs/detail.jsp?jid=6238)
 
-###To Apply###
+### To Apply###
+
 From our job posting system, select "Apply Now", create or log in to a user account, and provide the requested information. If you are viewing this posting from outside our system, access the employment page on our web site and search for this vacancy using the Job ID or Title.
 
 Candidates should provide a CV/resume and statement of scholarly interests.
@@ -79,10 +86,12 @@ Full/Part Time: Full-Time
 Regular/Temporary: Regular
 
 
-###Company Information###
+### Company Information###
 
 
 
-###Contact Information###
+
+### Contact Information###
+
 
 

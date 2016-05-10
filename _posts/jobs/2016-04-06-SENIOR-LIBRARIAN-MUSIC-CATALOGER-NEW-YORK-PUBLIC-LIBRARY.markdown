@@ -4,11 +4,13 @@ title:  "Senior Librarian (Music Cataloger) - New York Public Library"
 date:   2016-04-06
 ---
 
-###Description###
+### Description###
+
 The Senior Librarian will create and update cataloging records for materials in all formats in the areas of music, performing arts and other subjects as needed by the BookOps partners. The Librarian will catalog according to national standards for bibliographic description, classification, name and subject analysis and contribute authority records to national cooperative cataloging programs.
 
 
-###Responsibilities###
+### Responsibilities###
+
 Reporting to a Supervising Librarian or Librarian III, the Senior Librarian:
 
 * Performs original and copy cataloging of music and performing arts materials in print and non-print, including scores, books, sound and video recordings and electronic resources
@@ -33,7 +35,8 @@ Reporting to a Supervising Librarian or Librarian III, the Senior Librarian:
 
 
 
-###Qualifications###
+### Qualifications###
+
 Skills
 
 * Strong knowledge of music history, theory, notation and a wide variety of genres required
@@ -64,26 +67,32 @@ Education Required
 
 
 
-###Compensation###
+### Compensation###
 
 
 
-###Location###
+
+### Location###
+
 Long Island City, Queens
 
 
-###URL###
+### URL###
+
  [https://jobs-nypl.icims.com/jobs/9048/librarian---senior-librarian-%28music-cataloger%29/job](https://jobs-nypl.icims.com/jobs/9048/librarian---senior-librarian-%28music-cataloger%29/job)
 
-###To Apply###
+### To Apply###
+
 Please visit 
 [https://jobs-nypl.icims.com/jobs/9048/librarian---senior-librarian-%28music-cataloger%29/job.](https://jobs-nypl.icims.com/jobs/9048/librarian---senior-librarian-%28music-cataloger%29/job.)
 
 
-###Company Information###
+### Company Information###
 
 
 
-###Contact Information###
+
+### Contact Information###
+
 
 

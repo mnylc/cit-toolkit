@@ -4,16 +4,19 @@ title:  "Information Literacy Instructors - Bramson ORT College"
 date:   2016-04-07
 ---
 
-###Description###
+### Description###
+
 Bramson ORT College is a growing, 2 yr. college with campuses in Forest Hills, Queens and Bensonhurst, Brooklyn. We are recruiting Adjunct Information Instructors for the Summer term and beyond to teach a required 2 credit Information Literacy course.  It is a 15 week long course. Classes are held during the day, evenings, and Sunday in both our Queens & Brooklyn locations.
 Start Date: May 31, 2016
 
 
-###Responsibilities###
+### Responsibilities###
 
 
 
-###Qualifications###
+
+### Qualifications###
+
 Requirements:
 
 * MLS degree
@@ -35,25 +38,31 @@ Preferred Qualifications:
 * Commitment to professional development
 
 
-###Compensation###
+### Compensation###
 
 
 
-###Location###
+
+### Location###
 
 
 
-###URL###
+
+### URL###
 
 
-###To Apply###
+
+### To Apply###
+
 Please send cover letter and resume to Shelly Santos, Library Director at ssantos@bramsonort.edu.
 
 
-###Company Information###
+### Company Information###
 
 
 
-###Contact Information###
+
+### Contact Information###
+
 
 

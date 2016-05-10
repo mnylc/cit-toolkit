@@ -4,7 +4,8 @@ title:  "Queens Memory Support Aide - Queens Library"
 date:   2016-04-06
 ---
 
-###Description###
+### Description###
+
 Queens Memory Support Aide is responsible for facilitating the flow of materials donated via the Queens Memory program from initial accession through final processing and public access. Will also be responsible for donor outreach, event promotion and planning, digital asset creation, metadata capture, and communications with staff, volunteers and interns contributing to the processing of materials.  Is responsible for tasks relating to the circulating and reference materials that pass through Metadata Services for preparation and cataloging. 
 
 
@@ -14,11 +15,13 @@ Position Reports To: Digital Archives Manager
 Location: Queens Central Library, Jamaica, NY
 
 
-###Responsibilities###
+### Responsibilities###
 
 
 
-###Qualifications###
+
+### Qualifications###
+
 Experience
 • Experience in a library setting preferred.
 • Experience working in a technical capacity and in planning and conducting public cultural programs preferred.
@@ -38,25 +41,31 @@ Education Required
 
 
 
-###Compensation###
+### Compensation###
+
 $35,468 to $37,942
 
 
-###Location###
+### Location###
 
 
 
-###URL###
+
+### URL###
+
 [http://www.queenslibrary.org/services/job-information/careers](http://www.queenslibrary.org/services/job-information/careers)
 
-###To Apply###
+### To Apply###
+
 Please send your resume and cover letter to employment@queenslibrary.org and reference “Queens Memory Support Aide – EXTERNAL” in the subject line. 
 
 
-###Company Information###
+### Company Information###
 
 
 
-###Contact Information###
+
+### Contact Information###
+
 
 

@@ -4,7 +4,8 @@ title:  "Professional Development Administrative Assistant - Metropolitan New Yo
 date:   2016-04-06
 ---
 
-###Description###
+### Description###
+
 Located in New York City, the Metropolitan New York Library Council (METRO) is the largest of nine library councils in the state of New York, with METRO serving all of New York City and Westchester County. METRO offers a wide variety of classes, lectures, events, and other professional development activities for information professionals.
 
 METRO aims to serve as a laboratory and experimental space for our growing membership, combining new developments in librarianship with emerging technologies drawn from parallel fields.
@@ -14,7 +15,8 @@ Reporting to the General Manager, the Professional Development Administrative As
 The Professional Development Administrative Assistant will be required to work some evening hours and should have the ability to schedule around the METRO event calendar as needed. The position will be 15-20 hrs/wk and will pay $20/hour. The assistant is invited and encouraged to attend METRO’s workshops and events, all of which offer exciting opportunities to meet people and network with library professionals throughout the metropolitan New York area. METRO is a fun and collaborative workplace full of energy and enthusiasm.
 
 
-###Responsibilities###
+### Responsibilities###
+
 If you fill this position, you will be asked to:
 
 * Work in close collaboration with the Education and Outreach Manager to coordinate logistics and workflows around workshops, special interest group meetings, and other events at METRO.
@@ -41,7 +43,8 @@ If you fill this position, you will be asked to:
 
 
 
-###Qualifications###
+### Qualifications###
+
 The ideal candidate will have:
 
 * A Bachelor’s degree.
@@ -62,27 +65,33 @@ The ideal candidate will have:
 
 
 
-###Compensation###
+### Compensation###
 
 
 
-###Location###
+
+### Location###
 
 
 
-###URL###
+
+### URL###
 
 
-###To Apply###
+
+### To Apply###
+
 To apply, please send a pdf copy of your resume and cover letter along with any other material you would like considered part of your application to info@metro.org. Final candidates will be required to provide names and contact information for three professional references.
 
 The deadline for submitting applications is May 1st, 2016.
 
 
-###Company Information###
+### Company Information###
 
 
 
-###Contact Information###
+
+### Contact Information###
+
 
 

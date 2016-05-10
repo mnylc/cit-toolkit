@@ -4,11 +4,13 @@ title:  "Administrative Assistant, Youth Services - Nassau Library System"
 date:   2016-04-06
 ---
 
-###Description###
+### Description###
+
 We are seeking a high-performing, energetic, flexible, organized self-starter who can support and facilitate the efficient operation of the Youth Services Office.
 
 
-###Responsibilities###
+### Responsibilities###
+
 Responsibilities Include:
 
 * Assist the Manager of Youth Services in the administration of the Youth Services office.
@@ -26,7 +28,8 @@ Responsibilities Include:
 * Respond to questions and requests for assistance from member librarians and staff.
 
 
-###Qualifications###
+### Qualifications###
+
 Experience
 
 * At least 2 years of experience either in an office environment and/or a public library.
@@ -64,27 +67,33 @@ Education Required
 * Associate’s degree or higher preferred
 
 
-###Compensation###
+### Compensation###
+
 $46,000 to $48,000
 
 
-###Location###
+### Location###
+
 Uniondale, NY
 
 
-###URL###
+### URL###
 
 
-###To Apply###
+
+### To Apply###
+
 Send resume and cover letter to Renee McGrath, Manager of Youth Services, Nassau Library System, via e-mail (renee@nassaulibrary.org) or snail mail to 900 Jerusalem Avenue, Uniondale, NY 11553.
 
 Cover letter should describe how your experience and abilities are specifically related to the requirements and responsibilities of this position.
 
 
-###Company Information###
+### Company Information###
+
  Nassau Library System | 900 Jerusalem Avenue | Uniondale, New York | 11553 | United States
 
 
-###Contact Information###
+### Contact Information###
+
 
 

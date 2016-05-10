@@ -4,7 +4,8 @@ title:  "Central Library Assistant Manager, Programming & Outreach - Queens Libr
 date:   2016-04-06
 ---
 
-###Description###
+### Description###
+
 The Central Library Assistant Manager is a member of a cross functional Central Library Management team dedicated to providing customer service across the entire Central Library while assisting the Queens Library Programming/Outreach Manager in employing goals and work plans to manage the daily operations and delivery of Central Library programs & outreach.
 
 * Assists with the direct and indirect supervision, performance management, motivation, development, coaching, and training of all Central Library Librarians, (Customer Service, and other staff). Assists in the management of the Central Library. Recognizes and encourages excellence in staff performance. Addresses employee challenges. Collaborates with Central Library Associate / Assistant Director on staff training and performance management. (Librarians are direct reports to Central Library Assistant Managers and Central Library clerical staff are indirect reports to the Central Library Assistant Manager).
@@ -37,11 +38,13 @@ Queens Library is a national and international leader in the delivery of public 
 Queens Library is the proud recipient of the following awards: 2009 Library Journal, Library of the Year, 2014 ALA/Information Today, Library of the Future, 2013 ULC Top Innovators, 2013 American-Architect’s Building of the Year (Queens Library at Glen Oaks).
 
 
-###Responsibilities###
+### Responsibilities###
 
 
 
-###Qualifications###
+
+### Qualifications###
+
 
 * ALA accredited MLS/MLIS degree required.
 
@@ -57,27 +60,33 @@ Queens Library is the proud recipient of the following awards: 2009 Library Jour
 
 
 
-###Compensation###
+### Compensation###
 
 
 
-###Location###
+
+### Location###
 
 
 
-###URL###
+
+### URL###
 
 
-###To Apply###
+
+### To Apply###
+
 Send your resume and cover letter to qlcareers@queenslibrary.org and reference “CEL Assistant Manager, Programs & Services - EXTERNAL” in the subject line. Resumes will only be accepted by email. 
 
 The Queens Library is an Equal Opportunity Employer
 
 
-###Company Information###
+### Company Information###
 
 
 
-###Contact Information###
+
+### Contact Information###
+
 
 

@@ -4,7 +4,8 @@ title:  "Data Specialist - Queens Library"
 date:   2016-04-04
 ---
 
-###Description###
+### Description###
+
 The Data Specialist is responsible for database maintenance, batch processes and trouble-shooting activities. Duties include performing record overlays, batch record edits and assisting team to maintain database accuracy. Serve on the team resolving technical issues with the library’s ILS, DAMS and metadata vendors. 
 
 * Maintain a running list of enhancements and bug fixes for these systems.
@@ -24,11 +25,13 @@ Queens Library is a national and international leader in the delivery of public 
 Queens Library is the proud recipient of the following awards: 2009 Library Journal, Library of the Year, 2014 ALA/Information Today, Library of the Future, 2013 ULC Top Innovators, 2013 American-Architect’s Building of the Year (Queens Library at Glen Oaks).
 
 
-###Responsibilities###
+### Responsibilities###
 
 
 
-###Qualifications###
+
+### Qualifications###
+
 Experience
 Experience with cataloging and database management preferred.
 
@@ -43,25 +46,31 @@ Education Required
 ALA accredited MLS/MLIS degree and eligibility for a New York State Public Librarian’s Certificate required.
 
 
-###Compensation###
+### Compensation###
 
 
 
-###Location###
+
+### Location###
+
 Jamaica, NY
 
 
-###URL###
+### URL###
+
  [http://bit.ly/225Nn5x](http://bit.ly/225Nn5x)
 
-###To Apply###
+### To Apply###
+
 Please email your resume and cover letter to: employment@queenslibrary.org and reference “Data Specialist” in the subject line. Resumes will only be accepted by email.
 
 
-###Company Information###
+### Company Information###
 
 
 
-###Contact Information###
+
+### Contact Information###
+
 
 

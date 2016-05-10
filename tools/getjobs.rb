@@ -44,23 +44,23 @@ title:  "#{title} - #{institution}"
 date:   #{frontmatter_datestr}
 ---
 
-#{"###Description###\n" + description + "\n" unless description.nil?}
+#{"### Description###\n\n" + description + "\n" unless description.nil?}
 
-#{"###Responsibilities###\n" + resps + "\n" unless resps.nil?}
+#{"### Responsibilities###\n\n" + resps + "\n" unless resps.nil?}
 
-#{"###Qualifications###\n" + qualifications + "\n" unless qualifications.nil?}
+#{"### Qualifications###\n\n" + qualifications + "\n" unless qualifications.nil?}
 
-#{"###Compensation###\n" + compensation + "\n" unless compensation.nil?}
+#{"### Compensation###\n\n" + compensation + "\n" unless compensation.nil?}
 
-#{"###Location###\n" + location + "\n" unless location.nil?}
+#{"### Location###\n\n" + location + "\n" unless location.nil?}
 
-#{"###URL###\n" + url unless url.nil?}
+#{"### URL###\n\n" + url unless url.nil?}
 
-#{"###To Apply###\n" + to_apply + "\n" unless to_apply.nil?}
+#{"### To Apply###\n\n" + to_apply + "\n" unless to_apply.nil?}
 
-#{"###Company Information###\n" + company_info + "\n" unless company_info.nil?}
+#{"### Company Information###\n\n" + company_info + "\n" unless company_info.nil?}
 
-#{"###Contact Information###\n" + contact_info + "\n" unless contact_info.nil?}
+#{"### Contact Information###\n\n" + contact_info + "\n" unless contact_info.nil?}
 HERE
 
   jfname = datestr + ' ' + title.upcase + ' ' + institution.upcase

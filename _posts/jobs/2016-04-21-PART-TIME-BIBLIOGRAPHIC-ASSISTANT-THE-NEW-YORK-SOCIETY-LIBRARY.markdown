@@ -4,7 +4,8 @@ title:  "Part-Time Bibliographic Assistant - The New York Society Library"
 date:   2016-04-21
 ---
 
-###Description###
+### Description###
+
 The Library is seeking a Part-Time Bibliographic Assistant.  The position reports to the Head of Cataloging and Special Collections. The successful candidate will have some library experience (preferred).
 
 Responsibilities include:
@@ -42,33 +43,41 @@ Physical/Environmental Requirements:
 The New York Society Library is an historic membership library founded in 1754. The Library today is open to all for reading, reference, and selected events, with circulation and other services by subscription. The beautiful landmarked building dates from 1917 and includes reading rooms, spaces for study, book stacks, and the Assunta, Ignazio, Ada and Romano Peluso Exhibition Gallery. The Library has approximately 300,000 volumes and hosts a variety of special events, reading groups, and workshops, as well as the New York City Book Awards.
 
 
-###Responsibilities###
+### Responsibilities###
 
 
 
-###Qualifications###
+
+### Qualifications###
 
 
 
-###Compensation###
+
+### Compensation###
 
 
 
-###Location###
+
+### Location###
 
 
 
-###URL###
+
+### URL###
+
  [http://nysoclib.org/about/part-time-bibliographic-assistant-0](http://nysoclib.org/about/part-time-bibliographic-assistant-0)
 
-###To Apply###
+### To Apply###
+
 The New York Society Library is an Equal Opportunity Employer. Potential candidates should email a cover letter, resume and names of three (3) references with contact information to Cheryl Warfield, Controller, at cwarfield@nysoclib.org with “PT Bib Assistant” in the subject line to be considered. Visit our website at www.nysoclib.org.  The position will remain open until filled. 
 
 
-###Company Information###
+### Company Information###
+
 The New York Society Library | 53 East 79th Street | New York, NY | 10075 | United States
 
 
-###Contact Information###
+### Contact Information###
+
 
 

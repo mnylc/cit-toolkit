@@ -4,13 +4,15 @@ title:  "HBO Manager - HBO Archives"
 date:   2016-04-06
 ---
 
-###Description###
+### Description###
+
 The HBO Archives Manager works in partnership with other managers to plan and implement projects in support of HBO Archives initiatives. This position will also carry out research and provide fulfillment of archive material to external clients, production partners, and HBO original productions.
  
 This candidate must have a proven understanding of digitization & encoding workflows and archive sales.
 
 
-###Responsibilities###
+### Responsibilities###
+
 * Plans and implements large-scale archive projects, in sync with HBO and TW data initiatives
 
 * Fulfills approved stock footage, Sports footage, and other archive footage requests
@@ -27,7 +29,8 @@ This candidate must have a proven understanding of digitization & encoding workf
 
 
 
-###Qualifications###
+### Qualifications###
+
 Experience
 
 * 3-5 years of experience in a media archives or broadcast environment
@@ -54,27 +57,33 @@ Education Required
 
 
 
-###Compensation###
+### Compensation###
 
 
 
-###Location###
+
+### Location###
 
 
 
-###URL###
+
+### URL###
+
 [http://bit.ly/1q4iuRt](http://bit.ly/1q4iuRt)
 
-###To Apply###
+### To Apply###
+
 Please visit [https://careers.timewarner.com/tgwebhost/jobdetails.aspx?partnerid=391&siteid=36&jobid=751664.](https://careers.timewarner.com/tgwebhost/jobdetails.aspx?partnerid=391&siteid=36&jobid=751664.)
 
 Apply at Time Warner Careers
 
 
-###Company Information###
+### Company Information###
+
  HBO | 1100 Ave of Americas | New York, NY | 10036 | United States
 
 
-###Contact Information###
+### Contact Information###
+
 
 
