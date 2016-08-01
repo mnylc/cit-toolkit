@@ -1,9 +1,9 @@
 # Site settings
-title: METRO.org
+title: Culture in Transit
 email: info@metro.org
-description: METRO is a lab where New York's libraries and archives come together to learn, innovate, and collaborate on digital initiatives.
-baseurl: "/metro.org"
-url: "http://metro.org"
+description: Digitizing and democratizing Metropolitan New York\'s Cultural Heritage
+baseurl: "/cit-toolkit"
+url: "http://metro.org/cit-toolkit"
 
 footer:
   address:

@@ -1,0 +1,5 @@
+---
+title: Equipment
+permalink: /equipment/
+---
+

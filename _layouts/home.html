@@ -10,39 +10,39 @@
     <header>
       <div class="container">
         <div class="intro-text">
-          <div class="intro-heading">Metro</div>
-          <div class="intro-lead-in">A lab where New York's libraries and archives come together to learn, share ideas, and collaborate on digital initiatives.</div>
-          <a href="#projects" class="page-scroll btn btn-xl">Tell Me More</a>
+            <div class="intro-heading">CULTURE IN TRANSIT</div>
+            <div class="intro-lead-in">Digitizing and democratizing Metropolitan New York's Cultural Heritage.</div>
+            <a href="#projects" class="page-scroll btn btn-xl">Tell Me More</a>
         </div>
       </div>
     </header>
 
     <section>
-      <div class="container">
+	<div class="container">
 
-<!--
+	    <!--
 
-        <div class="row">
-          {% for circle in site.data.circles %}
-            <div class="col-md-4">
-              <a href="{{ circle.url | prepend: site.baseurl }}">
-                <div class="text-center">
-                  <span class="fa-stack fa-4x">
-                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                    <i class="fa fa-{{ circle.icon }} fa-stack-1x fa-inverse"></i>
-                  </span>
-                </div>
-                <h4 class="circle-heading text-center">{{ circle.title }}</h4>
-                <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-              </a>
-            </div>
-          {% endfor %}
-        </div>
--->
+		 <div class="row">
+		 {% for circle in site.data.circles %}
+		 <div class="col-md-4">
+		 <a href="{{ circle.url | prepend: site.baseurl }}">
+                 <div class="text-center">
+                 <span class="fa-stack fa-4x">
+                 <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                 <i class="fa fa-{{ circle.icon }} fa-stack-1x fa-inverse"></i>
+                 </span>
+                 </div>
+                 <h4 class="circle-heading text-center">{{ circle.title }}</h4>
+                 <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+		 </a>
+		 </div>
+		 {% endfor %}
+		 </div>
+	       -->
 
-        {% include projects.html %}
+            {% include projects.html %}
 
-      </div>
+	</div>
     </section>
 
 
