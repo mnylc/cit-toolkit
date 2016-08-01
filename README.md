@@ -1,6 +1,6 @@
 # Culture in Transit Toolkit Website
 
-The website for the Culture in Transit project of the Metropolitan New York Library Council ([metro.org](http://metro.org)). It is a simple Jekyll site based on the [Agency theme](https://github.com/y7kim/agency-jekyll-theme).-5sD7xb-8CWehV-Q2DYz-7VjR63-4LnLHt-ojfY6J-niQivN-49km7A-49gi14-cp5fzy).
+The website for the Culture in Transit project of the Metropolitan New York Library Council ([metro.org](http://metro.org)). It is a simple Jekyll site based on the [Agency theme](https://github.com/y7kim/agency-jekyll-theme).
 
 ## Installation
 
