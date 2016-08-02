@@ -59,6 +59,18 @@
     <script src="{{ "/assets/js/jquery.easing.min.js" | prepend: site.baseurl }}"></script>
     <script src="{{ "/assets/js/classie.js" | prepend: site.baseurl }}"></script>
     <script src="{{ "/assets/js/cbpAnimatedHeader.js" | prepend: site.baseurl }}"></script>
-
+    <script>
+     $(document).ready(function(){
+	 $.get('{{ "/assets/img/bgimgs.txt" | prepend: site.baseurl }}', function(data) {
+	     var lines = data.split('\n');
+	     var line = lines[Math.floor(Math.random()*lines.length)];
+	     var img_path = "{{ "/assets/img/" | prepend: site.baseurl }}" + line;
+	     var newimgsrc = img_path;
+	     var newimg = $('header');
+	     //replace the image
+	     $('header').css("background-image", "url("+newimgsrc+")");
+	 });
+     });
+    </script>
   </body>
 </html>
