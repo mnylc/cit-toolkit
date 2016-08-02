@@ -66,9 +66,8 @@
 	     var line = lines[Math.floor(Math.random()*lines.length)];
 	     var img_path = "{{ "/assets/img/" | prepend: site.baseurl }}" + line;
 	     var newimgsrc = img_path;
-	     var newimg = $('header');
 	     //replace the image
-	     $('header').css("background-image", "url("+newimgsrc+")");
+	     $('header').css("background-image", "url(" + newimgsrc + ")");
 	 });
      });
     </script>
