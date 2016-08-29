@@ -4,7 +4,7 @@ permalink: /community/
 ---
 
 <a name="top"></a>
-
+<br/>
 Introduction. Take me to [Introduction.](#Introduction.)
 <br/>
 Section One - Event Planning. Take me to [Event Planning.](#Event Planning.)
@@ -17,6 +17,7 @@ Section Four - Educational Resources. Take me to [Educational Resources.](#Educa
 <br/>
 Section Five - Assessment. Take me to [Assessment.](#EAssessment.)
 <br/>
+
 # <a name="Introduction"></a>Introduction
 At community scanning events, we bring our mobile digitization kit to library branches and invite residents to bring in photos, documents and memorabilia. We scan the materials, which are returned to the donors with a flash drive of digital copies. The digital files are then included in the digital archives of our respective repositories, as well as  ingested into the Digital Public Library of America. Our role in this process includes: selecting locations, scheduling events, doing outreach and collaborating with partners, facilitating the events, and doing the post-event cataloging and ingest of materials into our digital repositories.
 
@@ -26,6 +27,7 @@ The content in the Community Section of this toolkit was authored by Sarah Quick
 <br/>
 
 Back to [top](#top)
+
 # <a name="Section One - Event Planning"></a>Section One - Event Planning
 The planning for a community scanning event should begin 3-4 months in advance of the anticipated event date. Timing considerations include: internal deadlines for promotional materials, needs of any community partners, and availability of staff and equipment. Please see our event planning checklist for more details.
 
@@ -90,6 +92,7 @@ Including space for three chairs, at a minimum we need an estimated 60 square fe
 <br/>
 
 Back to [top](#top)
+
 # <a name="Section Two - Outreach"></a>Section Two - Outreach
 ## Media and Phone Banking Outreach
 Many people hear about community scanning events from local community groups or branch librarians. We also get walk-ins, people who just happen to visit the library on the day of event and choose to participate after learning more. In the weeks leading up to the event we attempt to attract additional participation through:
@@ -151,6 +154,7 @@ A division of the Brooklyn Public Library’s Outreach Services department, this
 <br/>
 
 Back to [top](#top)
+
 # <a name="Section Three - Event Overview"></a>Section Three - Event Overview
 
 ## Staffing
@@ -257,6 +261,7 @@ For copyright reasons, we can’t include newspaper clippings, books, magazine a
 
 <br/>
 Back to [top](#top)
+
 # <a name="Section Four - Educational Resources"></a>Section Four - Educational Resources
 
 ## Community History Activities
@@ -290,6 +295,7 @@ This small handout explains what is on the thumb drive given to donors, and what
 <br/>
 
 Back to [top](#top)
+
 # <a name="Section Five - Assessment"></a>Section Five - Assessment
 For community scanning events, we conduct two primary forms of assessment, gathering separate input from participants and from the event leaders.
 
