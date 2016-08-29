@@ -17,6 +17,7 @@ Section Four - Educational Resources. Take me to [Educational Resources.](#Educa
 <br/>
 Section Five - Assessment. Take me to [Assessment.](#EAssessment.)
 <br/>
+<br/>
 
 # Introduction
 At community scanning events, we bring our mobile digitization kit to library branches and invite residents to bring in photos, documents and memorabilia. We scan the materials, which are returned to the donors with a flash drive of digital copies. The digital files are then included in the digital archives of our respective repositories, as well as  ingested into the Digital Public Library of America. Our role in this process includes: selecting locations, scheduling events, doing outreach and collaborating with partners, facilitating the events, and doing the post-event cataloging and ingest of materials into our digital repositories.
@@ -25,9 +26,11 @@ We hope this toolkit will serve as a valuable resource for individuals and organ
 
 The content in the Community Section of this toolkit was authored by Sarah Quick and Maggie Schreiner, Culture in Transit Mobile Digitization Specialists for Brooklyn Public Library and Queens Library, respectively.
 <br/>
+<br/>
 
 Back to [top](#top)
-
+<br/>
+<br/>
 
 # <a name="Section One - Event Planning"></a>Section One - Event Planning
 The planning for a community scanning event should begin 3-4 months in advance of the anticipated event date. Timing considerations include: internal deadlines for promotional materials, needs of any community partners, and availability of staff and equipment. Please see our event planning checklist for more details.
@@ -106,9 +109,11 @@ With this increase in interaction we might sacrifice the ability to customize ou
 
 Including space for three chairs, at a minimum we need an estimated 60 square feet of space to set up our mobile digitization kit, including space for two mobile digitization specialists and a participant to sit comfortably.
 <br/>
+<br/>
 
 Back to [top](#top)
-
+<br/>
+<br/>
 
 # <a name="Section Two - Outreach"></a>Section Two - Outreach
 
@@ -178,10 +183,11 @@ A collaboration of the Archives at Queens Library and Queens College Libraries�
 **Our Streets Our Stories:**
 A division of the Brooklyn Public Library’s Outreach Services department, this project is working to collect interviews from a diverse group of Brooklyn residents, creating a neighborhood-specific oral history archive.
 <br/>
-
+<br/>
 
 Back to [top](#top)
-
+<br/>
+<br/>
 
 # <a name="Section Three - Event Overview"></a>Section Three - Event Overview
 
@@ -248,14 +254,14 @@ For each event, we used consent forms specific to the project:
 Your consent form should be reviewed by your institution’s legal department before being implemented.
 
 The Brooklyn Public Library and Queens Library do not own copyright to any of the digital images collected at community scanning events. At the time of donation we ask participants to sign a consent form that assigns a Creative Commons Attribution-NonCommercial-ShareAlike license to the image:
-- **Attribution:**
-<br/>
+
+### Attribution
 You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-- **NonCommercial:**
-<br/>
+
+### NonCommercial
 You may not use the material for commercial purposes.
-- **ShareAlike:**
-<br/>
+
+### ShareAlike
 If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 We scan each consent form, and include it on the thumb drive provided to the participant.
@@ -274,21 +280,23 @@ We use a paper version of our metadata collection form to collect metadata about
 At every community scanning event we want participants to feel valued and to trust that their items will be handled with care and respect.
 
 Steps we take to build trust include:
-- **Availability:**
-<br/>
+### Availability
 We make ourselves available to participants at any time leading up to and after each event. It’s important for people to know that  they can always contact us with questions.
-- **Time:**
-<br/>
-Rushing through the donation process can feel cold and impersonal. We make sure to leave enough space for participants to take their time and feel comfortable sharing their items with us. If they want to share a story about a particular item, or need a few extra minutes to remember a name, it’s our responsibility to give them the space to do so.
-- **Options for Further Involvement:**
-<br/>
-Presenting an opportunity for participants to give an oral history interview or get involved with a community group is a great way for them to continue sharing their story and working with their community.
-- **Not Turning Anyone Away:**
-<br/>
-For copyright reasons, we can’t include newspaper clippings, books, magazine articles or certain images in our collection. However, it is good practice to provide community members with a digital copy of their items to take home, even if it can’t be used for Culture in Transit.
 
+### Time
+Rushing through the donation process can feel cold and impersonal. We make sure to leave enough space for participants to take their time and feel comfortable sharing their items with us. If they want to share a story about a particular item, or need a few extra minutes to remember a name, it’s our responsibility to give them the space to do so.
+
+### Options for Further Involvement
+Presenting an opportunity for participants to give an oral history interview or get involved with a community group is a great way for them to continue sharing their story and working with their community.
+
+### Not Turning Anyone Away
+For copyright reasons, we can’t include newspaper clippings, books, magazine articles or certain images in our collection. However, it is good practice to provide community members with a digital copy of their items to take home, even if it can’t be used for Culture in Transit.
 <br/>
+<br/>
+
 Back to [top](#top)
+<br/>
+<br/>
 
 # <a name="Section Four - Educational Resources"></a>Section Four - Educational Resources
 
@@ -339,6 +347,6 @@ Through this form we aim to assess our event planning, attendance and realizatio
 ### Community Partner Feedback Form
 This form is distributed to partner organizations who co-organize events or programing series. We use this form to understand the experiences, motivations, and needs of community partners.
 <br/>
-
+<br/>
 
 Back to [top](#top)
