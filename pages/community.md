@@ -41,6 +41,7 @@ The planning for a community scanning event should begin 3-4 months in advance o
 <br/>
 <br/>
 
+
 ### Site Selection and Visit
 When selecting a location for a community scanning event, consider the following:
 <br/>
