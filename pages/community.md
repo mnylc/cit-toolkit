@@ -306,11 +306,11 @@ A large map of the neighborhood, on which participants are invited to place a do
 
 ### Photograph Comparison
 Print outs of historic photos of a neighborhood, with the location captioned on the back of the image. Participants can use a laptop or tablet to find the corresponding location on Google Street View.
-<br/>
 
-**Additional Resources:**
-- Interactive outreach models.
-- Setting up outreach tablets.
+### Additional Resources
+Interactive outreach models.
+<br/>
+Setting up outreach tablets.
 
 ## Technology Education
 Participants with a varying levels of technological knowledge attend community scanning events. We provide two primary resources for understanding our technology:
@@ -321,9 +321,11 @@ This brochure is given to participants at Queens Library community scanning even
 ### What's On My Thumb Drive? Handout
 This small handout explains what is on the thumb drive given to donors, and what each type of file should be used for.
 <br/>
-
+<br/>
 
 Back to [top](#top)
+<br/>
+<br/>
 
 # <a name="Section Five - Assessment"></a>Section Five - Assessment
 For community scanning events, we conduct two primary forms of assessment, gathering separate input from participants and from the event leaders.
