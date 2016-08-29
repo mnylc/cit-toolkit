@@ -7,7 +7,7 @@ permalink: /community/
 <br/>
 Introduction. Take me to [Introduction.](#Introduction.)
 <br/>
-Section One - Event Planning. Take me to [Section One - Event Planning.](#Section One - Event Planning.)
+Section One - Event Planning. Take me to [Section One - Event Planning.](#Section One - Event Planning)
 <br/>
 Section Two - Outreach. Take me to [Outreach.](#Outreach.)
 <br/>
