@@ -370,7 +370,7 @@ For each event, we used consent forms specific to the project:
 Your consent form should be reviewed by your institution’s legal department before being implemented.
 <br/>
 <br/>
-The Brooklyn Public Library and Queens Library do not own copyright to any of the digital images collected at community scanning events. At the time of donation we ask participants to sign a consent form that assigns a Creative Commons Attribution-NonCommercial-ShareAlike license to the image:
+The Brooklyn Public Library and Queens Library do not own copyright to any of the digital images collected at community scanning events. At the time of donation we ask participants to sign a consent form that assigns a [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/2.0/) license to the image:
 <br/>
 <br/>
 **Attribution**
