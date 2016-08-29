@@ -77,22 +77,29 @@ Once a location is selected to host a community scanning event, a site visit is 
 **Outreach**
 <br/>
 - The site visit is a good time to collect contact information for any community leaders or groups that might be interested in the project.
+<br/>
 - Ask the librarian to begin identifying patrons that might be interested in participating.
+<br/>
 - Request a meeting with the library’s Friends Group, or the opportunity to speak at any relevant upcoming event(s).
+<br/>
 - Determine language needs of the branch’s local communities.
 <br/>
 <br/>
 **Promotional Materials**
 <br/>
 - Decide who will produce the promotional materials.
+<br/>
 - Will materials need to made available in multiple languages?
+<br/>
 - Is there a space in the library to hang or distribute materials?
 <br/>
 <br/>
 **SetUp Location**
 <br/>
 - Assess the library’s layout, determining the best location for the digitization kit on the day of the event.
+<br/>
 - Observe patron foot traffic.
+<br/>
 - Locate electrical outlets.
 <br/>
 <br/>
@@ -102,8 +109,11 @@ Once a location is selected to host a community scanning event, a site visit is 
 When selecting a space to set up for a community scanning event, the most important factor is visibility. We’ve found that positioning ourselves in a high traffic area of the library, such as the entrance or checkout kiosk often increases our rate of walk-in participation by allowing us to:
 <br/>
 - Engage with every patron as they enter or leave the library.
+<br/>
 - Attract curious patrons with interactive features displayed on our table.
+<br/>
 - Appear more approachable.
+<br/>
 - Make potential participants feel more comfortable by first observing the digitization and donation process.
 <br/>
 With this increase in interaction we might sacrifice the ability to customize our workspace, making do with very little square footage or access to electrical outlets. The bare minimum requirements to set up a mobile digitization kit is as follows:
@@ -112,20 +122,29 @@ With this increase in interaction we might sacrifice the ability to customize ou
 **Tables**
 <br/>
 - Three tables is ideal, two is often realistic:
+<br/>
     - One to hold the scanner and laptop, leaving a small space for the completion of paperwork.
+<br/>
     - One for the setup of interactive displays (tablets, pamphlets, etc.).
+<br/>
     - One to set up the copy-stand (can be moved to the floor if necessary).
+<br/>
 - Each should be no shorter than 5 feet in length.
+<br/>
 - If space is at an absolute minimum:
+<br/>
   - Two tables can be eliminated by moving the copy-stand to the floor (requires 4 x 4 feet of space) and choosing to not include the interactive materials.
+<br/>
   - The scanning table can be set up in an alternate space that is physically separate from the staff members interacting with participants. Staff can ferry participant materials back and forth from the scanning station.
 <br/>
 <br/>
 **Electrical Requirements**
 <br/>
 - Only one electrical outlet is required as long as the digitization kit includes an extension cord and power strip.
+<br/>
 - Duct tape may also be required to minimize the risk of patrons tripping on the cord.
-
+<br/>
+<br/>
 Including space for three chairs, at a minimum we need an estimated 60 square feet of space to set up our mobile digitization kit, including space for two mobile digitization specialists and a participant to sit comfortably.
 <br/>
 <br/>
@@ -251,14 +270,18 @@ A community scanning event requires at least two staff members, although three i
 **Consent, Metadata & Feedback Collection**
 <br/>
 - The consent form must be signed before any digitization or metadata collection can begin. Each staff member should be able to accurately summarize the consent form, including the copyright restrictions in plain, non-legal language.
+<br/>
 - Making sure each digitized item has a corresponding metadata sheet, filled out using information provided by the participant and the object itself.
+<br/>
 - When possible, feedback forms should be collected from participants.
+<br/>
 - Staff members in this role will be interacting directly with the public.
 <br/>
 <br/>
 **Digitization**
 <br/>
 - Using the scanner and copy-stand to quickly create archival quality digital images from a variety of items. This person is also responsible for making sure the file names adhere to their institution’s file naming conventions.
+<br/>
 - Staff members in this role will need training on equipment and procedures in advance of the event.
 <br/>
 <br/>
@@ -279,7 +302,9 @@ Donor --> CIT Staff - Intake --> CIT Staff - Scanning --> Donor
 <br/>
 <br/>
 For more detailed information please refer to the following documents:
+<br/>
 - Workflow, standards and procedures.
+<br/>
 - Workflow diagram.
 <br/>
 <br/>
@@ -292,18 +317,26 @@ We create both master and access files during events and copies of each are give
 **Master Files**
 <br/>
 - Document type: Reflective.
+<br/>
 - Bit depth: 24-bit.
+<br/>
 - Color space: Adobe RGB.
+<br/>
 - Resolution: 600ppi.
+<br/>
 - File type: TIFF.
 <br/>
 <br/>
 **Access Files (created through an automated Photoshop action.)**
 <br/>
 - Document type: Reflective.
+<br/>
 - Bit depth: 24-bit.
+<br/>
 - Color space: Adobe RGB.
+<br/>
 - Resolution: 300ppi.
+<br/>
 - File type: JPEG2000.
 <br/>
 <br/>
@@ -314,9 +347,13 @@ Each participant’s folder also contains a separate image of the color target, 
 
 ### File Name Conventions
 We developed a standardized file naming convention that adheres to existing institutional standards. Information to consider when creating your file naming convention includes:
+<br/>
 - Participant name.
+<br/>
 - Location or date of public digitization event.
+<br/>
 - Numerical numbering of each item digitized.
+<br/>
 - Information about structure of object (such as recto, verso).
 <br/>
 <br/>
@@ -324,11 +361,15 @@ We developed a standardized file naming convention that adheres to existing inst
 
 ### Copyright
 For each event, we used consent forms specific to the project:
+<br/>
 - Queens Memory Consent Form.
+<br/>
 - Brooklyn Public Library Consent Form.
-
+<br/>
+<br/>
 Your consent form should be reviewed by your institution’s legal department before being implemented.
-
+<br/>
+<br/>
 The Brooklyn Public Library and Queens Library do not own copyright to any of the digital images collected at community scanning events. At the time of donation we ask participants to sign a consent form that assigns a Creative Commons Attribution-NonCommercial-ShareAlike license to the image:
 <br/>
 <br/>
@@ -354,12 +395,19 @@ We scan each consent form, and include it on the thumb drive provided to the par
 
 ### Metadata
 We use a paper version of our metadata collection form to collect metadata about each item digitized. The information we attempt to collect includes:
+<br/>
 - Date the photograph was taken.
+<br/>
 - Location of the photograph.
+<br/>
 - Name of the photographer.
+<br/>
 - Names of people who appear in the photograph.
+<br/>
 - Event taking place in the photograph.
+<br/>
 - Measurements of photograph.
+<br/>
 - Additional contextual information.
 <br/>
 <br/>
@@ -367,7 +415,8 @@ We use a paper version of our metadata collection form to collect metadata about
 
 ### Participant Relations
 At every community scanning event we want participants to feel valued and to trust that their items will be handled with care and respect.
-
+<br/>
+<br/>
 Steps we take to build trust include:
 <br/>
 <br/>
