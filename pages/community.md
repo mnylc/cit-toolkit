@@ -59,6 +59,7 @@ Once a location is selected to host a community scanning event, a site visit is 
 <br/>
 
 **Date Selection**
+<br/>
 - Work with the librarian to choose a date for the scanning event that won’t conflict with other library programs. Alternatively, a date that coincides with a complimentary program might increase turnout.
 <br/>
 - Ask the librarian to suggest days and times when the library is usually busy.
@@ -71,17 +72,20 @@ Once a location is selected to host a community scanning event, a site visit is 
 <br/>
 
 **Outreach**
+<br/>
 - The site visit is a good time to collect contact information for any community leaders or groups that might be interested in the project.
 - Ask the librarian to begin identifying patrons that might be interested in participating.
 - Request a meeting with the library’s Friends Group, or the opportunity to speak at any relevant upcoming event(s).
 - Determine language needs of the branch’s local communities.
 
 **Promotional Materials**
+<br/>
 - Decide who will produce the promotional materials.
 - Will materials need to made available in multiple languages?
 - Is there a space in the library to hang or distribute materials?
 
 **SetUp Location**
+<br/>
 - Assess the library’s layout, determining the best location for the digitization kit on the day of the event.
 - Observe patron foot traffic.
 - Locate electrical outlets.
@@ -97,6 +101,7 @@ When selecting a space to set up for a community scanning event, the most import
 With this increase in interaction we might sacrifice the ability to customize our workspace, making do with very little square footage or access to electrical outlets. The bare minimum requirements to set up a mobile digitization kit is as follows:
 
 **Tables**
+<br/>
 - Three tables is ideal, two is often realistic:
     - One to hold the scanner and laptop, leaving a small space for the completion of paperwork.
     - One for the setup of interactive displays (tablets, pamphlets, etc.).
@@ -108,6 +113,7 @@ With this increase in interaction we might sacrifice the ability to customize ou
 <br/>
 
 **Electrical Requirements**
+<br/>
 - Only one electrical outlet is required as long as the digitization kit includes an extension cord and power strip.
 - Duct tape may also be required to minimize the risk of patrons tripping on the cord.
 
@@ -125,30 +131,39 @@ Back to [top](#top)
 ### Strategies
 
 **Media and Phone Banking Outreach**
+<br/>
 Many people hear about community scanning events from local community groups or branch librarians. We also get walk-ins, people who just happen to visit the library on the day of event and choose to participate after learning more. In the weeks leading up to the event we attempt to attract additional participation through:
 
 **Cold Calls and Emails**
+<br/>
 Contacting local senior centers, religious organizations and businesses in hopes that their members and customers might be interested. We ask that they support Culture in Transit by displaying or distributing our promotional materials at their location.
 
 **Social Media**
+<br/>
 Providing quality JPEGs of our flier to local business and organizations for them to share on their social media accounts.
 
 **Blogs**
+<br/>
 Community scanning events make great content for local and community blogs reporting on upcoming activities.
 
 **Newspapers**
+<br/>
 Placing an ad or suggesting an article in a local newspaper can be preferable to social media when attempting to reach a community’s senior population.
 
 **Leveraging Library Communities**
+<br/>
 In planning community scanning events we often find our best resources and advocates at the library. Individuals and groups worth reaching out to include:
 
 **Friends Groups**
+<br/>
 Community members who serve as volunteer advocates for their branch library. These groups may be involved with fundraising and program planning, with close ties to the community.
 
 **Staff Members**
+<br/>
 Librarians and assistants who have existing relationships with library patrons, and are helpful in identifying individuals that might be interested in the project. Staff members should also be encouraged to participate themselves, as they are often members of the communities they serve. People respond positively to an individualized and in-person invitation to a community history event, and branch staff are in the best position to extend invitations.
 
 **Programs**
+<br/>
 Patrons who have previously attended library programs, events and activities are likely to attend community scanning events as well. We try to identify related programs such as genealogy workshops, computer classes and older adult meet-ups to hand out fliers and speak for a few minutes about the project.
 
 ### Community Partnerships
@@ -171,10 +186,12 @@ We believe partnering with an educational organization is one of the best ways f
 <br/>
 
 **Consent Form and Introductory Letter:**
+<br/>
 The child’s legal guardian is responsible for signing the consent form. This means the form must be sent home, signed and returned to school before we arrive. We found it helpful to include an introductory letter that better explains the project and offers suggestions as what we can and cannot accept as donations.
 <br/>
 
 **Metadata Form:**
+<br/>
 We also send metadata forms home with the child to be filled out with their parent or guardian.  Although the child is legally capable of filling out our metadata forms, we receive more accurate information if their parent or guardian assists them. It’s our hope that this assistance will also  lead to a larger conversation within the family about their role in the history of the community.
 
 ### Linking with Oral History Projects
@@ -182,10 +199,12 @@ Many of our participants are eager to share not only their physical items, but t
 <br/>
 
 **Queens Memory:**
+<br/>
 A collaboration of the Archives at Queens Library and Queens College Libraries’ Department of Special Collections and Archives. The Queens Memory Project combines historical and contemporary photography with oral history interviews of current residents.
 <br/>
 
 **Our Streets Our Stories:**
+<br/>
 A division of the Brooklyn Public Library’s Outreach Services department, this project is working to collect interviews from a diverse group of Brooklyn residents, creating a neighborhood-specific oral history archive.
 <br/>
 <br/>
@@ -202,16 +221,19 @@ A community scanning event requires at least two staff members, although three i
 <br/>
 
 **Consent, Metadata & Feedback Collection**
+<br/>
 - The consent form must be signed before any digitization or metadata collection can begin. Each staff member should be able to accurately summarize the consent form, including the copyright restrictions in plain, non-legal language.
 - Making sure each digitized item has a corresponding metadata sheet, filled out using information provided by the participant and the object itself.
 - When possible, feedback forms should be collected from participants.
 - Staff members in this role will be interacting directly with the public.
 
 **Digitization**
+<br/>
 - Using the scanner and copy-stand to quickly create archival quality digital images from a variety of items. This person is also responsible for making sure the file names adhere to their institution’s file naming conventions.
 - Staff members in this role will need training on equipment and procedures in advance of the event.
 
 **Interactive Activity Supervision**
+<br/>
 - It’s helpful to assign a staff member to guide visitors through activities such as photographs, maps, audio and slideshows.
 
 Please see our full breakdown of staffing responsibilities for more information.
@@ -229,6 +251,7 @@ For more detailed information please refer to the following documents:
 We create both master and access files during events and copies of each are given to participants on a flash drive.
 
 **Master Files**
+<br/>
 - Document type: Reflective.
 - Bit depth: 24-bit.
 - Color space: Adobe RGB.
@@ -236,6 +259,7 @@ We create both master and access files during events and copies of each are give
 - File type: TIFF.
 
 **Access Files (created through an automated Photoshop action.)**
+<br/>
 - Document type: Reflective.
 - Bit depth: 24-bit.
 - Color space: Adobe RGB.
@@ -262,12 +286,15 @@ Your consent form should be reviewed by your institution’s legal department be
 The Brooklyn Public Library and Queens Library do not own copyright to any of the digital images collected at community scanning events. At the time of donation we ask participants to sign a consent form that assigns a Creative Commons Attribution-NonCommercial-ShareAlike license to the image:
 
 **Attribution**
+<br/>
 You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
 **NonCommercial**
+<br/>
 You may not use the material for commercial purposes.
 
 **ShareAlike**
+<br/>
 If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 We scan each consent form, and include it on the thumb drive provided to the participant.
@@ -288,15 +315,19 @@ At every community scanning event we want participants to feel valued and to tru
 Steps we take to build trust include:
 
 **Availability**
+<br/>
 We make ourselves available to participants at any time leading up to and after each event. It’s important for people to know that  they can always contact us with questions.
 
 **Time**
+<br/>
 Rushing through the donation process can feel cold and impersonal. We make sure to leave enough space for participants to take their time and feel comfortable sharing their items with us. If they want to share a story about a particular item, or need a few extra minutes to remember a name, it’s our responsibility to give them the space to do so.
 
 **Options for Further Involvement**
+<br/>
 Presenting an opportunity for participants to give an oral history interview or get involved with a community group is a great way for them to continue sharing their story and working with their community.
 
 **Not Turning Anyone Away**
+<br/>
 For copyright reasons, we can’t include newspaper clippings, books, magazine articles or certain images in our collection. However, it is good practice to provide community members with a digital copy of their items to take home, even if it can’t be used for Culture in Transit.
 <br/>
 <br/>
@@ -312,18 +343,23 @@ Back to [top](#top)
 We include interactive public and community history activities to expose event attendees to local history materials and to provide engagement for people while they wait for their material to be scanned. Suggested activities include:
 
 **Photograph Slideshow**
+<br/>
 Digital slideshow of historic photographs and documents from the neighborhood, drawn from institutional archives and material collected at previous scanning events.
 
 **Oral History Listening Station**
+<br/>
 Clips of oral history interviews from the neighborhood.
 
 **Community History Mapping Station**
+<br/>
 A large map of the neighborhood, on which participants are invited to place a dot sticker with their first name where they live, as well as writing brief memories of the neighborhood on a Post-It-Note which can also be stuck to the map.
 
 **Photograph Comparison**
+<br/>
 Print outs of historic photos of a neighborhood, with the location captioned on the back of the image. Participants can use a laptop or tablet to find the corresponding location on Google Street View.
 
 **Additional Resources**
+<br/>
 Interactive outreach models.
 <br/>
 Setting up outreach tablets.
@@ -332,9 +368,11 @@ Setting up outreach tablets.
 Participants with a varying levels of technological knowledge attend community scanning events. We provide two primary resources for understanding our technology:
 
 **Preserving Your Digital Memories Brochure**
+<br/>
 This brochure is given to participants at Queens Library community scanning events. The pamphlet discusses why digital files require special care, provides a step-by-step guide to maintaining your personal digital archive, and provides tips for digitizing your own photographs or documents.
 
 **What's On My Thumb Drive? Handout**
+<br/>
 This small handout explains what is on the thumb drive given to donors, and what each type of file should be used for.
 <br/>
 <br/>
