@@ -51,7 +51,7 @@ When selecting a location for a community scanning event, consider the following
 Once a location is selected to host a community scanning event, a site visit is necessary to assess the space and meet the staff. On the day of the event, we’re occupying a portion of their library for several hours, so it’s important the branch staff knows what to expect and what their role will be. Topics that should be covered with the librarian during this initial visit include:
 <br/>
 
-#### Date Selection
+### Date Selection
 - Work with the librarian to choose a date for the scanning event that won’t conflict with other library programs. Alternatively, a date that coincides with a complimentary program might increase turnout.
 <br/>
 - Ask the librarian to suggest days and times when the library is usually busy.
@@ -63,18 +63,18 @@ Once a location is selected to host a community scanning event, a site visit is 
 - Be sure to avoid religious and school holidays.
 <br/>
 
-#### Outreach
+### Outreach
 - The site visit is a good time to collect contact information for any community leaders or groups that might be interested in the project.
 - Ask the librarian to begin identifying patrons that might be interested in participating.
 - Request a meeting with the library’s Friends Group, or the opportunity to speak at any relevant upcoming event(s).
 - Determine language needs of the branch’s local communities.
 
-#### Promotional Materials
+### Promotional Materials
 - Decide who will produce the promotional materials.
 - Will materials need to made available in multiple languages?
 - Is there a space in the library to hang or distribute materials?
 
-#### SetUp Location
+### SetUp Location
 - Assess the library’s layout, determining the best location for the digitization kit on the day of the event.
 - Observe patron foot traffic.
 - Locate electrical outlets.
@@ -89,7 +89,7 @@ When selecting a space to set up for a community scanning event, the most import
 
 With this increase in interaction we might sacrifice the ability to customize our workspace, making do with very little square footage or access to electrical outlets. The bare minimum requirements to set up a mobile digitization kit is as follows:
 
-#### Tables
+### Tables
 - Three tables is ideal, two is often realistic:
     - One to hold the scanner and laptop, leaving a small space for the completion of paperwork.
     - One for the setup of interactive displays (tablets, pamphlets, etc.).
@@ -98,8 +98,9 @@ With this increase in interaction we might sacrifice the ability to customize ou
 - If space is at an absolute minimum:
   - Two tables can be eliminated by moving the copy-stand to the floor (requires 4 x 4 feet of space) and choosing to not include the interactive materials.
   - The scanning table can be set up in an alternate space that is physically separate from the staff members interacting with participants. Staff can ferry participant materials back and forth from the scanning station.
+<br/>
 
-#### Electrical Requirements
+### Electrical Requirements
 - Only one electrical outlet is required as long as the digitization kit includes an extension cord and power strip.
 - Duct tape may also be required to minimize the risk of patrons tripping on the cord.
 
@@ -108,41 +109,49 @@ Including space for three chairs, at a minimum we need an estimated 60 square fe
 
 Back to [top](#top)
 
+
 # <a name="Section Two - Outreach"></a>Section Two - Outreach
-## Media and Phone Banking Outreach
+
+### Media and Phone Banking Outreach
 Many people hear about community scanning events from local community groups or branch librarians. We also get walk-ins, people who just happen to visit the library on the day of event and choose to participate after learning more. In the weeks leading up to the event we attempt to attract additional participation through:
 
-#### Cold Calls and Emails
+### Cold Calls and Emails
 Contacting local senior centers, religious organizations and businesses in hopes that their members and customers might be interested. We ask that they support Culture in Transit by displaying or distributing our promotional materials at their location.
 
-#### Social Media
+### Social Media
 Providing quality JPEGs of our flier to local business and organizations for them to share on their social media accounts.
 
-#### Blogs
+### Blogs
 Community scanning events make great content for local and community blogs reporting on upcoming activities.
 
-#### Newspapers
+### Newspapers
 Placing an ad or suggesting an article in a local newspaper can be preferable to social media when attempting to reach a community’s senior population.
 
 ## Leveraging Library Communities
 In planning community scanning events we often find our best resources and advocates at the library. Individuals and groups worth reaching out to include:
 
-#### Friends Groups
+### Friends Groups
 Community members who serve as volunteer advocates for their branch library. These groups may be involved with fundraising and program planning, with close ties to the community.
 
-#### Staff Members
+### Staff Members
 Librarians and assistants who have existing relationships with library patrons, and are helpful in identifying individuals that might be interested in the project. Staff members should also be encouraged to participate themselves, as they are often members of the communities they serve. People respond positively to an individualized and in-person invitation to a community history event, and branch staff are in the best position to extend invitations.
 
-#### Programs
+### Programs
 Patrons who have previously attended library programs, events and activities are likely to attend community scanning events as well. We try to identify related programs such as genealogy workshops, computer classes and older adult meet-ups to hand out fliers and speak for a few minutes about the project.
 
 ## Community Partnerships
 Community groups serve as important liaisons between the library and the community. Creating partnerships for community scanning events can:
+<br/>
 - Increase event participation through targeted outreach.
+<br/>
 - Reach communities who might not traditionally access library services.
+<br/>
 - Assist with language support and translation, both during the events and while cataloging material gathered at public events.
+<br/>
 - Provide access to additional materials and activities that make events interactive and educational.
+<br/>
 - Lend credibility and trust to the library as a custodian of personal materials.
+<br/>
 - Focus documentation efforts on communities that are traditionally under-represented in the archive.
 
 ## School Scanning
@@ -169,6 +178,7 @@ A division of the Brooklyn Public Library’s Outreach Services department, this
 <br/>
 
 Back to [top](#top)
+
 
 # <a name="Section Three - Event Overview"></a>Section Three - Event Overview
 
