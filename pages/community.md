@@ -46,15 +46,10 @@ The planning for a community scanning event should begin 3-4 months in advance o
 When selecting a location for a community scanning event, consider the following:
 <br/>
 * Identify gaps in archival collections and match with neighborhoods and /or communities that could help fill those gaps.
-<br/>
 * Reach out to branch librarians and local groups to gauge interest in possible events.
-<br/>
 * Explore existing institutional relationships with community organizations, and consider extending these partnerships to the community history project.
-<br/>
 * Develop partnerships with local groups working on community history projects.
-<br/>
 * Work with local Friends of the Library groups for event planning and outreach.
-<br/>
 * Return to neighborhoods that have previously been successful.
 <br/>
 
