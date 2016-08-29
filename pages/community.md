@@ -136,8 +136,6 @@ Back to [top](#top)
 <br/>
 
 ## <a name="Section Two - Outreach"></a>Section Two - Outreach
-<br/>
-<br/>
 
 
 ### Strategies
@@ -400,8 +398,6 @@ Back to [top](#top)
 <br/>
 
 ## <a name="Section Four - Educational Resources"></a>Section Four - Educational Resources
-<br/>
-<br/>
 
 
 ### Community History Activities
