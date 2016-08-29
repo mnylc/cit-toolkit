@@ -28,25 +28,40 @@ The content in the Community Section of this toolkit was authored by Sarah Quick
 
 Back to [top](#top)
 
+
 # <a name="Section One - Event Planning"></a>Section One - Event Planning
 The planning for a community scanning event should begin 3-4 months in advance of the anticipated event date. Timing considerations include: internal deadlines for promotional materials, needs of any community partners, and availability of staff and equipment. Please see our event planning checklist for more details.
 
 ## Site Selection and Visit
 When selecting a location for a community scanning event, consider the following:
+<br/>
 - Identify gaps in archival collections and match with neighborhoods and /or communities that could help fill those gaps.
+<br/>
 - Reach out to branch librarians and local groups to gauge interest in possible events.
+<br/>
 - Explore existing institutional relationships with community organizations, and consider extending these partnerships to the community history project.
+<br/>
 - Develop partnerships with local groups working on community history projects.
+<br/>
 - Work with local Friends of the Library groups for event planning and outreach.
-Return to neighborhoods that have previously been successful.
+<br/>
+- Return to neighborhoods that have previously been successful.
+<br/>
 
 Once a location is selected to host a community scanning event, a site visit is necessary to assess the space and meet the staff. On the day of the event, we’re occupying a portion of their library for several hours, so it’s important the branch staff knows what to expect and what their role will be. Topics that should be covered with the librarian during this initial visit include:
+<br/>
+
 #### Date Selection
 - Work with the librarian to choose a date for the scanning event that won’t conflict with other library programs. Alternatively, a date that coincides with a complimentary program might increase turnout.
+<br/>
 - Ask the librarian to suggest days and times when the library is usually busy.
+<br/>
 - Aim to schedule events in pairs, or a short series of events. The first event can serve as effective outreach for the following events at the same locations.
+<br/>
 - Consider target audience when scheduling events. If you are aiming for older adult participation, be sure to schedule events during daylight hours.
+<br/>
 - Be sure to avoid religious and school holidays.
+<br/>
 
 #### Outreach
 - The site visit is a good time to collect contact information for any community leaders or groups that might be interested in the project.
