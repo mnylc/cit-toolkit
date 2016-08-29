@@ -38,7 +38,8 @@ Back to [top](#top)
 
 ## <a name="Section One - Event Planning"></a>Section One - Event Planning
 The planning for a community scanning event should begin 3-4 months in advance of the anticipated event date. Timing considerations include: internal deadlines for promotional materials, needs of any community partners, and availability of staff and equipment. Please see our event planning checklist for more details.
-
+<br/>
+<br/>
 ### Site Selection and Visit
 When selecting a location for a community scanning event, consider the following:
 <br/>
@@ -57,7 +58,7 @@ When selecting a location for a community scanning event, consider the following
 
 Once a location is selected to host a community scanning event, a site visit is necessary to assess the space and meet the staff. On the day of the event, we’re occupying a portion of their library for several hours, so it’s important the branch staff knows what to expect and what their role will be. Topics that should be covered with the librarian during this initial visit include:
 <br/>
-
+<br/>
 **Date Selection**
 <br/>
 - Work with the librarian to choose a date for the scanning event that won’t conflict with other library programs. Alternatively, a date that coincides with a complimentary program might increase turnout.
@@ -70,36 +71,40 @@ Once a location is selected to host a community scanning event, a site visit is 
 <br/>
 - Be sure to avoid religious and school holidays.
 <br/>
-
+<br/>
 **Outreach**
 <br/>
 - The site visit is a good time to collect contact information for any community leaders or groups that might be interested in the project.
 - Ask the librarian to begin identifying patrons that might be interested in participating.
 - Request a meeting with the library’s Friends Group, or the opportunity to speak at any relevant upcoming event(s).
 - Determine language needs of the branch’s local communities.
-
+<br/>
+<br/>
 **Promotional Materials**
 <br/>
 - Decide who will produce the promotional materials.
 - Will materials need to made available in multiple languages?
 - Is there a space in the library to hang or distribute materials?
-
+<br/>
+<br/>
 **SetUp Location**
 <br/>
 - Assess the library’s layout, determining the best location for the digitization kit on the day of the event.
 - Observe patron foot traffic.
 - Locate electrical outlets.
-
+<br/>
+<br/>
 ### Space Requirements
 When selecting a space to set up for a community scanning event, the most important factor is visibility. We’ve found that positioning ourselves in a high traffic area of the library, such as the entrance or checkout kiosk often increases our rate of walk-in participation by allowing us to:
-
+<br/>
 - Engage with every patron as they enter or leave the library.
 - Attract curious patrons with interactive features displayed on our table.
 - Appear more approachable.
 - Make potential participants feel more comfortable by first observing the digitization and donation process.
-
+<br/>
 With this increase in interaction we might sacrifice the ability to customize our workspace, making do with very little square footage or access to electrical outlets. The bare minimum requirements to set up a mobile digitization kit is as follows:
-
+<br/>
+<br/>
 **Tables**
 <br/>
 - Three tables is ideal, two is often realistic:
@@ -111,7 +116,7 @@ With this increase in interaction we might sacrifice the ability to customize ou
   - Two tables can be eliminated by moving the copy-stand to the floor (requires 4 x 4 feet of space) and choosing to not include the interactive materials.
   - The scanning table can be set up in an alternate space that is physically separate from the staff members interacting with participants. Staff can ferry participant materials back and forth from the scanning station.
 <br/>
-
+<br/>
 **Electrical Requirements**
 <br/>
 - Only one electrical outlet is required as long as the digitization kit includes an extension cord and power strip.
@@ -127,9 +132,9 @@ Back to [top](#top)
 <br/>
 
 ## <a name="Section Two - Outreach"></a>Section Two - Outreach
-
-### Strategies
 <br/>
+<br/>
+### Strategies
 <br/>
 **Media and Phone Banking Outreach**
 <br/>
@@ -174,7 +179,8 @@ Librarians and assistants who have existing relationships with library patrons, 
 **Programs**
 <br/>
 Patrons who have previously attended library programs, events and activities are likely to attend community scanning events as well. We try to identify related programs such as genealogy workshops, computer classes and older adult meet-ups to hand out fliers and speak for a few minutes about the project.
-
+<br/>
+<br/>
 ### Community Partnerships
 Community groups serve as important liaisons between the library and the community. Creating partnerships for community scanning events can:
 <br/>
@@ -189,7 +195,8 @@ Community groups serve as important liaisons between the library and the communi
 - Lend credibility and trust to the library as a custodian of personal materials.
 <br/>
 - Focus documentation efforts on communities that are traditionally under-represented in the archive.
-
+<br/>
+<br/>
 ### School Scanning
 We believe partnering with an educational organization is one of the best ways for school-aged children to participate in community scanning projects. For these events there are a few additional details to keep in mind:
 <br/>
@@ -202,7 +209,8 @@ The child’s legal guardian is responsible for signing the consent form. This m
 **Metadata Form:**
 <br/>
 We also send metadata forms home with the child to be filled out with their parent or guardian.  Although the child is legally capable of filling out our metadata forms, we receive more accurate information if their parent or guardian assists them. It’s our hope that this assistance will also  lead to a larger conversation within the family about their role in the history of the community.
-
+<br/>
+<br/>
 ### Linking with Oral History Projects
 Many of our participants are eager to share not only their physical items, but the stories and memories that come with a lifetime of collecting. It is a natural fit including an oral history component to our community scanning events. Both the Queens Library and the Brooklyn Public Library have oral history projects:
 <br/>
