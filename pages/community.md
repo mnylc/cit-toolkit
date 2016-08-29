@@ -295,18 +295,18 @@ Back to [top](#top)
 ## Community History Activities
 We include interactive public and community history activities to expose event attendees to local history materials and to provide engagement for people while they wait for their material to be scanned. Suggested activities include:
 
-- **Photograph Slideshow:**
-<br/>
+### Photograph Slideshow
 Digital slideshow of historic photographs and documents from the neighborhood, drawn from institutional archives and material collected at previous scanning events.
-- **Oral History Listening Station:**
-<br/>
+
+### Oral History Listening Station
 Clips of oral history interviews from the neighborhood.
-- **Community History Mapping Station:**
-<br/>
+
+### Community History Mapping Station
 A large map of the neighborhood, on which participants are invited to place a dot sticker with their first name where they live, as well as writing brief memories of the neighborhood on a Post-It-Note which can also be stuck to the map.
-- **Photograph Comparison:**
-<br/>
+
+### Photograph Comparison
 Print outs of historic photos of a neighborhood, with the location captioned on the back of the image. Participants can use a laptop or tablet to find the corresponding location on Google Street View.
+<br/>
 
 **Additional Resources:**
 - Interactive outreach models.
@@ -314,13 +314,14 @@ Print outs of historic photos of a neighborhood, with the location captioned on 
 
 ## Technology Education
 Participants with a varying levels of technological knowledge attend community scanning events. We provide two primary resources for understanding our technology:
-- **Preserving Your Digital Memories Brochure**
-<br/>
+
+### Preserving Your Digital Memories Brochure
 This brochure is given to participants at Queens Library community scanning events. The pamphlet discusses why digital files require special care, provides a step-by-step guide to maintaining your personal digital archive, and provides tips for digitizing your own photographs or documents.
-- **What's On My Thumb Drive? Handout**
-<br/>
+
+### What's On My Thumb Drive? Handout
 This small handout explains what is on the thumb drive given to donors, and what each type of file should be used for.
 <br/>
+
 
 Back to [top](#top)
 
