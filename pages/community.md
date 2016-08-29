@@ -40,6 +40,7 @@ Back to [top](#top)
 The planning for a community scanning event should begin 3-4 months in advance of the anticipated event date. Timing considerations include: internal deadlines for promotional materials, needs of any community partners, and availability of staff and equipment. Please see our event planning checklist for more details.
 <br/>
 <br/>
+
 ### Site Selection and Visit
 When selecting a location for a community scanning event, consider the following:
 <br/>
@@ -94,6 +95,7 @@ Once a location is selected to host a community scanning event, a site visit is 
 - Locate electrical outlets.
 <br/>
 <br/>
+
 ### Space Requirements
 When selecting a space to set up for a community scanning event, the most important factor is visibility. We’ve found that positioning ourselves in a high traffic area of the library, such as the entrance or checkout kiosk often increases our rate of walk-in participation by allowing us to:
 <br/>
@@ -134,6 +136,7 @@ Back to [top](#top)
 ## <a name="Section Two - Outreach"></a>Section Two - Outreach
 <br/>
 <br/>
+
 ### Strategies
 <br/>
 **Media and Phone Banking Outreach**
@@ -181,6 +184,7 @@ Librarians and assistants who have existing relationships with library patrons, 
 Patrons who have previously attended library programs, events and activities are likely to attend community scanning events as well. We try to identify related programs such as genealogy workshops, computer classes and older adult meet-ups to hand out fliers and speak for a few minutes about the project.
 <br/>
 <br/>
+
 ### Community Partnerships
 Community groups serve as important liaisons between the library and the community. Creating partnerships for community scanning events can:
 <br/>
@@ -197,6 +201,7 @@ Community groups serve as important liaisons between the library and the communi
 - Focus documentation efforts on communities that are traditionally under-represented in the archive.
 <br/>
 <br/>
+
 ### School Scanning
 We believe partnering with an educational organization is one of the best ways for school-aged children to participate in community scanning projects. For these events there are a few additional details to keep in mind:
 <br/>
@@ -211,6 +216,7 @@ The child’s legal guardian is responsible for signing the consent form. This m
 We also send metadata forms home with the child to be filled out with their parent or guardian.  Although the child is legally capable of filling out our metadata forms, we receive more accurate information if their parent or guardian assists them. It’s our hope that this assistance will also  lead to a larger conversation within the family about their role in the history of the community.
 <br/>
 <br/>
+
 ### Linking with Oral History Projects
 Many of our participants are eager to share not only their physical items, but the stories and memories that come with a lifetime of collecting. It is a natural fit including an oral history component to our community scanning events. Both the Queens Library and the Brooklyn Public Library have oral history projects:
 <br/>
@@ -257,6 +263,8 @@ A community scanning event requires at least two staff members, although three i
 <br/>
 <br/>
 Please see our full breakdown of staffing responsibilities for more information.
+<br/>
+<br/>
 
 ### Event Workflow
 During community scanning events, the basic flow of materials being digitized is:
@@ -267,6 +275,8 @@ Donor --> CIT Staff - Intake --> CIT Staff - Scanning --> Donor
 For more detailed information please refer to the following documents:
 - Workflow, standards and procedures.
 - Workflow diagram.
+<br/>
+<br/>
 
 ### Digitization Standards
 We create both master and access files during events and copies of each are given to participants on a flash drive.
@@ -291,6 +301,8 @@ We create both master and access files during events and copies of each are give
 <br/>
 <br/>
 Each participant’s folder also contains a separate image of the color target, labelled with the date of capture.
+<br/>
+<br/>
 
 ### File Name Conventions
 We developed a standardized file naming convention that adheres to existing institutional standards. Information to consider when creating your file naming convention includes:
@@ -298,6 +310,8 @@ We developed a standardized file naming convention that adheres to existing inst
 - Location or date of public digitization event.
 - Numerical numbering of each item digitized.
 - Information about structure of object (such as recto, verso).
+<br/>
+<br/>
 
 ### Copyright
 For each event, we used consent forms specific to the project:
@@ -325,6 +339,8 @@ If you remix, transform, or build upon the material, you must distribute your co
 <br/>
 <br/>
 We scan each consent form, and include it on the thumb drive provided to the participant.
+<br/>
+<br/>
 
 ### Metadata
 We use a paper version of our metadata collection form to collect metadata about each item digitized. The information we attempt to collect includes:
@@ -335,6 +351,8 @@ We use a paper version of our metadata collection form to collect metadata about
 - Event taking place in the photograph.
 - Measurements of photograph.
 - Additional contextual information.
+<br/>
+<br/>
 
 ### Participant Relations
 At every community scanning event we want participants to feel valued and to trust that their items will be handled with care and respect.
@@ -369,6 +387,8 @@ Back to [top](#top)
 <br/>
 
 ## <a name="Section Four - Educational Resources"></a>Section Four - Educational Resources
+<br/>
+<br/>
 
 ### Community History Activities
 We include interactive public and community history activities to expose event attendees to local history materials and to provide engagement for people while they wait for their material to be scanned. Suggested activities include:
@@ -399,6 +419,8 @@ Print outs of historic photos of a neighborhood, with the location captioned on 
 Interactive outreach models.
 <br/>
 Setting up outreach tablets.
+<br/>
+<br/>
 
 ### Technology Education
 Participants with a varying levels of technological knowledge attend community scanning events. We provide two primary resources for understanding our technology:
@@ -422,12 +444,18 @@ Back to [top](#top)
 
 ## <a name="Section Five - Assessment"></a>Section Five - Assessment
 For community scanning events, we conduct two primary forms of assessment, gathering separate input from participants and from the event leaders.
+<br/>
+<br/>
 
 ### Community Participant Feedback Form
 This is filled out on paper form by participants, and later entered into a spreadsheet. Through this form we aim to gain metrics about outreach, who is attending our community engagement events, and their experiences in the project. We collect responses using Google Forms, and also have paper copies available at events. It is often difficult to collect participant feedback forms, as we have already asked our donors to complete a lot of paperwork during the event.
+<br/>
+<br/>
 
 ### Community Event Assessment Form
 Through this form we aim to assess our event planning, attendance and realization, and improve problem areas for future events. We submit our responses through a Google Form, which we complete within a week of the event.
+<br/>
+<br/>
 
 ### Community Partner Feedback Form
 This form is distributed to partner organizations who co-organize events or programing series. We use this form to understand the experiences, motivations, and needs of community partners.
