@@ -7,7 +7,7 @@ permalink: /community/
 <br/>
 Introduction. Take me to [Introduction.](#Introduction.)
 <br/>
-Section One - Event Planning. Take me to [Event Planning.](#Event Planning.)
+Section One - Event Planning. Take me to [Section One - Event Planning.](#Section One - Event Planning.)
 <br/>
 Section Two - Outreach. Take me to [Outreach.](#Outreach.)
 <br/>
@@ -19,7 +19,7 @@ Section Five - Assessment. Take me to [Assessment.](#EAssessment.)
 <br/>
 <br/>
 
-# Introduction
+# <a name="Introduction"></a>Introduction
 At community scanning events, we bring our mobile digitization kit to library branches and invite residents to bring in photos, documents and memorabilia. We scan the materials, which are returned to the donors with a flash drive of digital copies. The digital files are then included in the digital archives of our respective repositories, as well as  ingested into the Digital Public Library of America. Our role in this process includes: selecting locations, scheduling events, doing outreach and collaborating with partners, facilitating the events, and doing the post-event cataloging and ingest of materials into our digital repositories.
 
 We hope this toolkit will serve as a valuable resource for individuals and organizations interested in launching community scanning events in their area.
