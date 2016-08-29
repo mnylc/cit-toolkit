@@ -264,20 +264,20 @@ A community scanning event requires at least two staff members, although three i
 <br/>
 **Consent, Metadata & Feedback Collection**
 <br/>
-- The consent form must be signed before any digitization or metadata collection can begin. Each staff member should be able to accurately summarize the consent form, including the copyright restrictions in plain, non-legal language.
+* The consent form must be signed before any digitization or metadata collection can begin. Each staff member should be able to accurately summarize the consent form, including the copyright restrictions in plain, non-legal language.
 <br/>
-- Making sure each digitized item has a corresponding metadata sheet, filled out using information provided by the participant and the object itself.
+* Making sure each digitized item has a corresponding metadata sheet, filled out using information provided by the participant and the object itself.
 <br/>
-- When possible, feedback forms should be collected from participants.
+* When possible, feedback forms should be collected from participants.
 <br/>
-- Staff members in this role will be interacting directly with the public.
+* Staff members in this role will be interacting directly with the public.
 <br/>
 <br/>
 **Digitization**
 <br/>
-- Using the scanner and copy-stand to quickly create archival quality digital images from a variety of items. This person is also responsible for making sure the file names adhere to their institution’s file naming conventions.
+* Using the scanner and copy-stand to quickly create archival quality digital images from a variety of items. This person is also responsible for making sure the file names adhere to their institution’s file naming conventions.
 <br/>
-- Staff members in this role will need training on equipment and procedures in advance of the event.
+* Staff members in this role will need training on equipment and procedures in advance of the event.
 <br/>
 <br/>
 **Interactive Activity Supervision**
