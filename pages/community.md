@@ -7,15 +7,15 @@ permalink: /community/
 <br/>
 Introduction. Take me to [Introduction.](#Introduction)
 <br/>
-Section One - Event Planning. Take me to [Section One - Event Planning.](#Section One - Event Planning)
+Section One - Event Planning. Take me to [Section One - Event Planning](#Section One - Event Planning)
 <br/>
-Section Two - Outreach. Take me to [Section Two - Outreach.](#Section Two - Outreach)
+Section Two - Outreach. Take me to [Section Two - Outreach](#Section Two - Outreach)
 <br/>
-Section Three - Event Overview. Take me to [Section Three - Event Overview.](#Section Three - Event Overview)
+Section Three - Event Overview. Take me to [Section Three - Event Overview](#Section Three - Event Overview)
 <br/>
-Section Four - Educational Resources. Take me to [Section Four - Educational Resources.](#Section Four - Educational Resources)
+Section Four - Educational Resources. Take me to [Section Four - Educational Resources](#Section Four - Educational Resources)
 <br/>
-Section Five - Assessment. Take me to [Section Five - Assessment.](#Section Five - Assessment)
+Section Five - Assessment. Take me to [Section Five - Assessment](#Section Five - Assessment)
 <br/>
 <br/>
 
