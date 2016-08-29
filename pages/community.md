@@ -112,6 +112,8 @@ Back to [top](#top)
 
 # <a name="Section Two - Outreach"></a>Section Two - Outreach
 
+## Strategies
+
 ### Media and Phone Banking Outreach
 Many people hear about community scanning events from local community groups or branch librarians. We also get walk-ins, people who just happen to visit the library on the day of event and choose to participate after learning more. In the weeks leading up to the event we attempt to attract additional participation through:
 
@@ -156,26 +158,27 @@ Community groups serve as important liaisons between the library and the communi
 
 ## School Scanning
 We believe partnering with an educational organization is one of the best ways for school-aged children to participate in community scanning projects. For these events there are a few additional details to keep in mind:
+<br/>
 
 **Consent Form and Introductory Letter:**
-<br/>
 The child’s legal guardian is responsible for signing the consent form. This means the form must be sent home, signed and returned to school before we arrive. We found it helpful to include an introductory letter that better explains the project and offers suggestions as what we can and cannot accept as donations.
+<br/>
 
 **Metadata Form:**
-<br/>
 We also send metadata forms home with the child to be filled out with their parent or guardian.  Although the child is legally capable of filling out our metadata forms, we receive more accurate information if their parent or guardian assists them. It’s our hope that this assistance will also  lead to a larger conversation within the family about their role in the history of the community.
 
 ## Linking with Oral History Projects
 Many of our participants are eager to share not only their physical items, but the stories and memories that come with a lifetime of collecting. It is a natural fit including an oral history component to our community scanning events. Both the Queens Library and the Brooklyn Public Library have oral history projects:
+<br/>
 
 **Queens Memory:**
-<br/>
 A collaboration of the Archives at Queens Library and Queens College Libraries’ Department of Special Collections and Archives. The Queens Memory Project combines historical and contemporary photography with oral history interviews of current residents.
+<br/>
 
 **Our Streets Our Stories:**
-<br/>
 A division of the Brooklyn Public Library’s Outreach Services department, this project is working to collect interviews from a diverse group of Brooklyn residents, creating a neighborhood-specific oral history archive.
 <br/>
+
 
 Back to [top](#top)
 
@@ -186,17 +189,17 @@ Back to [top](#top)
 A community scanning event requires at least two staff members, although three is ideal. Each should be comfortable assuming the following responsibilities:
 <br/>
 
-#### Consent, Metadata & Feedback Collection
+### Consent, Metadata & Feedback Collection
 - The consent form must be signed before any digitization or metadata collection can begin. Each staff member should be able to accurately summarize the consent form, including the copyright restrictions in plain, non-legal language.
 - Making sure each digitized item has a corresponding metadata sheet, filled out using information provided by the participant and the object itself.
 - When possible, feedback forms should be collected from participants.
 - Staff members in this role will be interacting directly with the public.
 
-#### Digitization
+### Digitization
 - Using the scanner and copy-stand to quickly create archival quality digital images from a variety of items. This person is also responsible for making sure the file names adhere to their institution’s file naming conventions.
 - Staff members in this role will need training on equipment and procedures in advance of the event.
 
-#### Interactive Activity Supervision
+### Interactive Activity Supervision
 - It’s helpful to assign a staff member to guide visitors through activities such as photographs, maps, audio and slideshows.
 
 Please see our full breakdown of staffing responsibilities for more information.
@@ -213,14 +216,14 @@ For more detailed information please refer to the following documents:
 ## Digitization Standards
 We create both master and access files during events and copies of each are given to participants on a flash drive.
 
-#### Master Files
+### Master Files
 - Document type: Reflective.
 - Bit depth: 24-bit.
 - Color space: Adobe RGB.
 - Resolution: 600ppi.
 - File type: TIFF.
 
-#### Access Files (created through an automated Photoshop action.)
+### Access Files (created through an automated Photoshop action.)
 - Document type: Reflective.
 - Bit depth: 24-bit.
 - Color space: Adobe RGB.
@@ -232,7 +235,7 @@ Each participant’s folder also contains a separate image of the color target, 
 
 ## File Name Conventions
 We developed a standardized file naming convention that adheres to existing institutional standards. Information to consider when creating your file naming convention includes:
--   Participant name.
+- Participant name.
 - Location or date of public digitization event.
 - Numerical numbering of each item digitized.
 - Information about structure of object (such as recto, verso).
@@ -324,14 +327,15 @@ Back to [top](#top)
 # <a name="Section Five - Assessment"></a>Section Five - Assessment
 For community scanning events, we conduct two primary forms of assessment, gathering separate input from participants and from the event leaders.
 
-#### Community Participant Feedback Form
+### Community Participant Feedback Form
 This is filled out on paper form by participants, and later entered into a spreadsheet. Through this form we aim to gain metrics about outreach, who is attending our community engagement events, and their experiences in the project. We collect responses using Google Forms, and also have paper copies available at events. It is often difficult to collect participant feedback forms, as we have already asked our donors to complete a lot of paperwork during the event.
 
-#### Community Event Assessment Form
+### Community Event Assessment Form
 Through this form we aim to assess our event planning, attendance and realization, and improve problem areas for future events. We submit our responses through a Google Form, which we complete within a week of the event.
 
-#### Community Partner Feedback Form
+### Community Partner Feedback Form
 This form is distributed to partner organizations who co-organize events or programing series. We use this form to understand the experiences, motivations, and needs of community partners.
 <br/>
+
 
 Back to [top](#top)
