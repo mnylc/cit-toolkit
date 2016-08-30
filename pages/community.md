@@ -45,12 +45,17 @@ The planning for a community scanning event should begin 3-4 months in advance o
 ### Site Selection and Visit
 When selecting a location for a community scanning event, consider the following:
 <br/>
-* Identify gaps in archival collections and match with neighborhoods and /or communities that could help fill those gaps.
-* Reach out to branch librarians and local groups to gauge interest in possible events.
-* Explore existing institutional relationships with community organizations, and consider extending these partnerships to the community history project.
-* Develop partnerships with local groups working on community history projects.
-* Work with local Friends of the Library groups for event planning and outreach.
-* Return to neighborhoods that have previously been successful.
+- Identify gaps in archival collections and match with neighborhoods and /or communities that could help fill those gaps.
+<br/>
+- Reach out to branch librarians and local groups to gauge interest in possible events.
+<br/>
+- Explore existing institutional relationships with community organizations, and consider extending these partnerships to the community history project.
+<br/>
+- Develop partnerships with local groups working on community history projects.
+<br/>
+- Work with local Friends of the Library groups for event planning and outreach.
+<br/>
+- Return to neighborhoods that have previously been successful.
 <br/>
 
 Once a location is selected to host a community scanning event, a site visit is necessary to assess the space and meet the staff. On the day of the event, we’re occupying a portion of their library for several hours, so it’s important the branch staff knows what to expect and what their role will be. Topics that should be covered with the librarian during this initial visit include:
@@ -264,20 +269,20 @@ A community scanning event requires at least two staff members, although three i
 <br/>
 **Consent, Metadata & Feedback Collection**
 <br/>
-* The consent form must be signed before any digitization or metadata collection can begin. Each staff member should be able to accurately summarize the consent form, including the copyright restrictions in plain, non-legal language.
+- The consent form must be signed before any digitization or metadata collection can begin. Each staff member should be able to accurately summarize the consent form, including the copyright restrictions in plain, non-legal language.
 <br/>
-* Making sure each digitized item has a corresponding metadata sheet, filled out using information provided by the participant and the object itself.
+- Making sure each digitized item has a corresponding metadata sheet, filled out using information provided by the participant and the object itself.
 <br/>
-* When possible, feedback forms should be collected from participants.
+- When possible, feedback forms should be collected from participants.
 <br/>
-* Staff members in this role will be interacting directly with the public.
+- Staff members in this role will be interacting directly with the public.
 <br/>
 <br/>
 **Digitization**
 <br/>
-* Using the scanner and copy-stand to quickly create archival quality digital images from a variety of items. This person is also responsible for making sure the file names adhere to their institution’s file naming conventions.
+- Using the scanner and copy-stand to quickly create archival quality digital images from a variety of items. This person is also responsible for making sure the file names adhere to their institution’s file naming conventions.
 <br/>
-* Staff members in this role will need training on equipment and procedures in advance of the event.
+- Staff members in this role will need training on equipment and procedures in advance of the event.
 <br/>
 <br/>
 **Interactive Activity Supervision**
@@ -335,7 +340,7 @@ We create both master and access files during events and copies of each are give
 - File type: JPEG2000.
 <br/>
 <br/>
-Each participant’s folder also contains a separate image of the color target, labelled with the date of capture.
+Each participant’s folder also contains a separate image of the color target, labeled with the date of capture.
 <br/>
 <br/>
 
