@@ -108,6 +108,7 @@ Once a location is selected to host a community scanning event, a site visit is 
 ### Space Requirements
 When selecting a space to set up for a community scanning event, the most important factor is visibility. We’ve found that positioning ourselves in a high traffic area of the library, such as the entrance or checkout kiosk often increases our rate of walk-in participation by allowing us to:
 <br/>
+<br/>
 - Engage with every patron as they enter or leave the library.
 <br/>
 - Attract curious patrons with interactive features displayed on our table.
@@ -115,6 +116,7 @@ When selecting a space to set up for a community scanning event, the most import
 - Appear more approachable.
 <br/>
 - Make potential participants feel more comfortable by first observing the digitization and donation process.
+<br/>
 <br/>
 With this increase in interaction we might sacrifice the ability to customize our workspace, making do with very little square footage or access to electrical outlets. The bare minimum requirements to set up a mobile digitization kit is as follows:
 <br/>
