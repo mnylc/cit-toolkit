@@ -45,6 +45,7 @@ The planning for a community scanning event should begin 3-4 months in advance o
 ### Site Selection and Visit
 When selecting a location for a community scanning event, consider the following:
 <br/>
+<br/>
 - Identify gaps in archival collections and match with neighborhoods and /or communities that could help fill those gaps.
 <br/>
 - Reach out to branch librarians and local groups to gauge interest in possible events.
@@ -57,7 +58,7 @@ When selecting a location for a community scanning event, consider the following
 <br/>
 - Return to neighborhoods that have previously been successful.
 <br/>
-
+<br/>
 Once a location is selected to host a community scanning event, a site visit is necessary to assess the space and meet the staff. On the day of the event, we’re occupying a portion of their library for several hours, so it’s important the branch staff knows what to expect and what their role will be. Topics that should be covered with the librarian during this initial visit include:
 <br/>
 <br/>
@@ -109,7 +110,6 @@ Once a location is selected to host a community scanning event, a site visit is 
 When selecting a space to set up for a community scanning event, the most important factor is visibility. We’ve found that positioning ourselves in a high traffic area of the library, such as the entrance or checkout kiosk often increases our rate of walk-in participation by allowing us to:
 <br/>
 <br/>
-<br/>
 - Engage with every patron as they enter or leave the library.
 <br/>
 - Attract curious patrons with interactive features displayed on our table.
@@ -117,7 +117,6 @@ When selecting a space to set up for a community scanning event, the most import
 - Appear more approachable.
 <br/>
 - Make potential participants feel more comfortable by first observing the digitization and donation process.
-<br/>
 <br/>
 <br/>
 With this increase in interaction we might sacrifice the ability to customize our workspace, making do with very little square footage or access to electrical outlets. The bare minimum requirements to set up a mobile digitization kit is as follows:
