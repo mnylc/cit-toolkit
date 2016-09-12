@@ -39,7 +39,7 @@ Back to [top](#top)
 <br/>
 
 ## <a name="Section One - Event Planning"></a>Section One - Event Planning
-The planning for a community scanning event should begin 3-4 months in advance of the anticipated event date. Timing considerations include: internal deadlines for promotional materials, needs of any community partners, and availability of staff and equipment. Please see our [event planning checklist](C:\Users\cultureintransit\cit-toolkit\assets\docs\01 - CS Section_Event Planning Checklist for community scanning.pdf) for more details.
+The planning for a community scanning event should begin 3-4 months in advance of the anticipated event date. Timing considerations include: internal deadlines for promotional materials, needs of any community partners, and availability of staff and equipment. Please see our [event planning checklist](\assets\docs\01 - CS Section_Event Planning Checklist for community scanning.pdf) for more details.
 <br/>
 <br/>
 
