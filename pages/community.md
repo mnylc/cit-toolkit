@@ -39,7 +39,7 @@ Back to [top](#top)
 <br/>
 
 ## <a name="Section One - Event Planning"></a>Section One - Event Planning
-The planning for a community scanning event should begin 3-4 months in advance of the anticipated event date. Timing considerations include: internal deadlines for promotional materials, needs of any community partners, and availability of staff and equipment. Please see our [event planning checklist](\assets\docs\01 - CS Section_Event Planning Checklist for community scanning.pdf) for more details.
+The planning for a community scanning event should begin 3-4 months in advance of the anticipated event date. Timing considerations include: internal deadlines for promotional materials, needs of any community partners, and availability of staff and equipment. Please see our [event planning checklist](/assets/docs/<01 - CS Section_Event Planning Checklist for community scanning.pdf>) for more details.
 <br/>
 <br/>
 
@@ -150,7 +150,7 @@ With this increase in interaction we might sacrifice the ability to customize ou
 - Duct tape may also be required to minimize the risk of patrons tripping on the cord.
 <br/>
 <br/>
-Including space for three chairs, at a minimum we need an estimated 60 square feet of space to set up our mobile digitization kit, including space for two mobile digitization specialists and a participant to sit comfortably.
+Including space for three chairs, at a minimum we need an estimated **60 square feet** of space to set up our mobile digitization kit, including space for two mobile digitization specialists and a participant to sit comfortably.
 <br/>
 <br/>
 
@@ -233,7 +233,7 @@ Community groups serve as important liaisons between the library and the communi
 We believe partnering with an educational organization is one of the best ways for school-aged children to participate in community scanning projects. For these events there are a few additional details to keep in mind:
 <br/>
 <br/>
-**Consent Form and Introductory Letter:**
+[**Consent Form and Introductory Letter:**](assets\docs\03 - CS Section_School Letter and Consent Form for school scanning_Brooklyn.pdf)
 <br/>
 The child’s legal guardian is responsible for signing the consent form. This means the form must be sent home, signed and returned to school before we arrive. We found it helpful to include an introductory letter that better explains the project and offers suggestions as what we can and cannot accept as donations.
 <br/>
