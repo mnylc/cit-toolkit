@@ -17,6 +17,8 @@ permalink: /community/
 <br/>
 [Section Five - Assessment](#Section Five - Assessment)
 <br/>
+[Section Six - Resources](#Section Six - Resources)
+<br/>
 <br/>
 <br/>
 
@@ -37,7 +39,7 @@ Back to [top](#top)
 <br/>
 
 ## <a name="Section One - Event Planning"></a>Section One - Event Planning
-The planning for a community scanning event should begin 3-4 months in advance of the anticipated event date. Timing considerations include: internal deadlines for promotional materials, needs of any community partners, and availability of staff and equipment. Please see our event planning checklist for more details.
+The planning for a community scanning event should begin 3-4 months in advance of the anticipated event date. Timing considerations include: internal deadlines for promotional materials, needs of any community partners, and availability of staff and equipment. Please see our [event planning checklist](C:\Users\cultureintransit\cit-toolkit\assets\docs\01 - CS Section_Event Planning Checklist for community scanning.pdf) for more details.
 <br/>
 <br/>
 
@@ -179,7 +181,7 @@ Providing quality JPEGs of our flier to local business and organizations for the
 <br/>
 **Blogs**
 <br/>
-Community scanning events make great content for local and community blogs reporting on upcoming activities.
+Community scanning events make great [content](http://bedfordandbowery.com/2015/12/share-your-own-or-grandmas-greenpoint-story-with-this-brooklyn-archival-project/) for local and community blogs reporting on upcoming activities.
 <br/>
 <br/>
 **Newspapers**
@@ -247,12 +249,12 @@ We also send metadata forms home with the child to be filled out with their pare
 Many of our participants are eager to share not only their physical items, but the stories and memories that come with a lifetime of collecting. It is a natural fit including an oral history component to our community scanning events. Both the Queens Library and the Brooklyn Public Library have oral history projects:
 <br/>
 <br/>
-**Queens Memory:**
+[**Queens Memory:**](http://www.queensmemory.org/)
 <br/>
 A collaboration of the Archives at Queens Library and Queens College Libraries’ Department of Special Collections and Archives. The Queens Memory Project combines historical and contemporary photography with oral history interviews of current residents.
 <br/>
 <br/>
-**Our Streets Our Stories:**
+[**Our Streets Our Stories:**](http://www.bklynlibrary.org/seniors/our-streets-our-stories-o)
 <br/>
 A division of the Brooklyn Public Library’s Outreach Services department, this project is working to collect interviews from a diverse group of Brooklyn residents, creating a neighborhood-specific oral history archive.
 <br/>
@@ -518,14 +520,19 @@ This is filled out on paper form by participants, and later entered into a sprea
 
 
 ### Community Event Assessment Form
-Through this form we aim to assess our event planning, attendance and realization, and improve problem areas for future events. We submit our responses through a Google Form, which we complete within a week of the event.
+Through [this form](https://docs.google.com/a/metro.org/forms/d/1X5WFpmP9EwvSrg5lHDp_LEmbtDCfn0hscblvutwkKNg/prefill) we aim to assess our event planning, attendance and realization, and improve problem areas for future events. We submit our responses through a Google Form, which we complete within a week of the event.
 <br/>
 <br/>
 
 
 ### Community Partner Feedback Form
-This form is distributed to partner organizations who co-organize events or programing series. We use this form to understand the experiences, motivations, and needs of community partners.
+[This form](https://docs.google.com/a/metro.org/forms/d/1tw9vJUJLTp2YPdkmqxkRa7e7FVvSjUWHMJQdOLxdN9c/prefill) is distributed to partner organizations who co-organize events or programing series. We use this form to understand the experiences, motivations, and needs of community partners.
 <br/>
 <br/>
 
 Back to [top](#top)
+<br/>
+<br/>
+<br/>
+
+## <a name="Section Six - Resources"></a>Section Six - Resources
