@@ -295,7 +295,7 @@ A community scanning event requires at least two staff members, although three i
 - It’s helpful to assign a staff member to guide visitors through activities such as photographs, maps, audio and slideshows.
 <br/>
 <br/>
-Please see our full [breakdown of staffing responsibilities](/assets/docs/05 - CS Section 3_Sample Community Scanning Staffing Plan.pdf) for more information.
+Please see our full [breakdown of staffing responsibilities]({{ "/assets/docs/05 - CS Section 3_Sample Community Scanning Staffing Plan.pdf" | prepend: site.baseurl }}) for more information.
 <br/>
 <br/>
 
@@ -303,14 +303,14 @@ Please see our full [breakdown of staffing responsibilities](/assets/docs/05 - C
 ### Event Workflow
 During community scanning events, the basic flow of materials being digitized is:
 <br/>
-[Event Overview](/assets/img/CS Section 3 - Event Overview.jpg)
+[Event Overview]({{ "/assets/img/CS Section 3 - Event Overview.jpg" | prepend: site.baseurl }})
 <br/>
 <br/>
 For more detailed information please refer to the following documents:
 <br/>
-- [Workflow, standards and procedures.](/assets/docs/06 - CS Section 3_CIT Community Event Workflow and Procedures.pdf)
+- [Workflow, standards and procedures.]({{ "/assets/docs/06 - CS Section 3_CIT Community Event Workflow and Procedures.pdf" | prepend: site.baseurl }})
 <br/>
-- [Workflow diagram](/assets/docs/07 - CS Section 3_Community Digitization Workflow.pdf)
+- [Workflow diagram]({{ "/assets/docs/07 - CS Section 3_Community Digitization Workflow.pdf" | prepend: site.baseurl }})
 <br/>
 <br/>
 
@@ -367,9 +367,9 @@ We developed a standardized file naming convention that adheres to existing inst
 ### Copyright
 For each event, we used consent forms specific to the project:
 <br/>
-- [Queens Memory Consent Form.](/assets/docs/08 - CS Section 3_Informed Consent for community events_Queens.pdf)
+- [Queens Memory Consent Form.]({{ "/assets/docs/08 - CS Section 3_Informed Consent for community events_Queens.pdf" | prepend: site.baseurl }})
 <br/>
-- [Brooklyn Public Library Consent Form.](/assets/docs/09 - CS Section 3_Informed Consent for community events_Brooklyn.pdf)
+- [Brooklyn Public Library Consent Form.]({{ "/assets/docs/09 - CS Section 3_Informed Consent for community events_Brooklyn.pdf" | prepend: site.baseurl }})
 <br/>
 <br/>
 Your consent form should be reviewed by your institution’s legal department before being implemented.
@@ -399,7 +399,7 @@ We scan each consent form, and include it on the thumb drive provided to the par
 
 
 ### Metadata
-We use a paper version of our [metadata collection form](/assets/docs/10 - CS Section 3_Metadata Collection Sheet for community events_Brooklyn.pdf) to collect metadata about each item digitized. The information we attempt to collect includes:
+We use a paper version of our [metadata collection form]({{ "/assets/docs/10 - CS Section 3_Metadata Collection Sheet for community events_Brooklyn.pdf" | prepend: site.baseurl }}) to collect metadata about each item digitized. The information we attempt to collect includes:
 <br/>
 - Date the photograph was taken.
 <br/>
@@ -480,9 +480,9 @@ Print outs of historic photos of a neighborhood, with the location captioned on 
 <br/>
 **Additional Resources**
 <br/>
-[Interactive outreach models.](/assets/docs/13 - CS Section 4_Community Event Interactive Outreach Models.pdf)
+[Interactive outreach models.]({{ "/assets/docs/13 - CS Section 4_Community Event Interactive Outreach Models.pdf" | prepend: site.baseurl }})
 <br/>
-[Setting up outreach tablets.](/assets/docs/14 - CS Section 4_Setting Up Outreach Tablets for Community Events.pdf)
+[Setting up outreach tablets.]({{ "/assets/docs/14 - CS Section 4_Setting Up Outreach Tablets for Community Events.pdf" | prepend: site.baseurl }})
 <br/>
 <br/>
 
@@ -493,12 +493,12 @@ Participants with a varying levels of technological knowledge attend community s
 <br/>
 **Preserving Your Digital Memories Brochure**
 <br/>
-This [brochure](/assets/docs/15 - CS Section 4_Preserving Your Digital Memories Brochure.pdf) is given to participants at Queens Library community scanning events. The pamphlet discusses why digital files require special care, provides a step-by-step guide to maintaining your personal digital archive, and provides tips for digitizing your own photographs or documents.
+This [brochure]({{ "/assets/docs/15 - CS Section 4_Preserving Your Digital Memories Brochure.pdf" | prepend: site.baseurl }}) is given to participants at Queens Library community scanning events. The pamphlet discusses why digital files require special care, provides a step-by-step guide to maintaining your personal digital archive, and provides tips for digitizing your own photographs or documents.
 <br/>
 <br/>
 **What's On My Thumb Drive? Handout**
 <br/>
-This [small handout](/assets/docs/16 - CS Section 4_What Is On Your Thumb Drive handout for community events.pdf) explains what is on the thumb drive given to donors, and what each type of file should be used for.
+This [small handout]({{ "/assets/docs/16 - CS Section 4_What Is On Your Thumb Drive handout for community events.pdf" | prepend: site.baseurl }}) explains what is on the thumb drive given to donors, and what each type of file should be used for.
 <br/>
 <br/>
 
@@ -514,7 +514,7 @@ For community scanning events, we conduct two primary forms of assessment, gathe
 
 
 ### Community Participant Feedback Form
-This is filled out on [paper form](/assets/docs/17 - CS Section 5_Feedback Form for community events_Queens.pdf) by participants, and later entered into a spreadsheet. Through this form we aim to gain metrics about outreach, who is attending our community engagement events, and their experiences in the project. We collect responses using Google Forms, and also have paper copies available at events. It is often difficult to collect participant feedback forms, as we have already asked our donors to complete a lot of paperwork during the event.
+This is filled out on [paper form]({{ "/assets/docs/17 - CS Section 5_Feedback Form for community events_Queens.pdf" | prepend: site.baseurl }}) by participants, and later entered into a spreadsheet. Through this form we aim to gain metrics about outreach, who is attending our community engagement events, and their experiences in the project. We collect responses using Google Forms, and also have paper copies available at events. It is often difficult to collect participant feedback forms, as we have already asked our donors to complete a lot of paperwork during the event.
 <br/>
 <br/>
 
