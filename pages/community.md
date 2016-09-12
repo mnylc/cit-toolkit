@@ -310,7 +310,7 @@ For more detailed information please refer to the following documents:
 <br/>
 - [Workflow, standards and procedures.](/assets/docs/06 - CS Section 3_CIT Community Event Workflow and Procedures.pdf)
 <br/>
-- [Workflow diagram.](/assets/docs/07 - CS Section 3_Community Digitization Workflow.pdf)
+- [Workflow diagram](/assets/docs/07 - CS Section 3_Community Digitization Workflow.pdf)
 <br/>
 <br/>
 
