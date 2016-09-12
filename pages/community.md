@@ -233,14 +233,14 @@ Community groups serve as important liaisons between the library and the communi
 We believe partnering with an educational organization is one of the best ways for school-aged children to participate in community scanning projects. For these events there are a few additional details to keep in mind:
 <br/>
 <br/>
-[**Consent Form and Introductory Letter:**](assets\docs\03 - CS Section_School Letter and Consent Form for school scanning_Brooklyn.pdf)
+**Consent Form and Introductory Letter:**
 <br/>
-The child’s legal guardian is responsible for signing the consent form. This means the form must be sent home, signed and returned to school before we arrive. We found it helpful to include an introductory letter that better explains the project and offers suggestions as what we can and cannot accept as donations.
+The child’s legal guardian is responsible for signing the [consent form](assets\docs\03 - CS Section_School Letter and Consent Form for school scanning_Brooklyn.pdf). This means the form must be sent home, signed and returned to school before we arrive. We found it helpful to include an introductory letter that better explains the project and offers suggestions as what we can and cannot accept as donations.
 <br/>
 <br/>
 **Metadata Form:**
 <br/>
-We also send metadata forms home with the child to be filled out with their parent or guardian.  Although the child is legally capable of filling out our metadata forms, we receive more accurate information if their parent or guardian assists them. It’s our hope that this assistance will also  lead to a larger conversation within the family about their role in the history of the community.
+We also send [metadata forms](assets\docs\04 - CS Section_Metadata Collection Sheet for School Scanning_Brooklyn.pdf) home with the child to be filled out with their parent or guardian.  Although the child is legally capable of filling out our metadata forms, we receive more accurate information if their parent or guardian assists them. It’s our hope that this assistance will also  lead to a larger conversation within the family about their role in the history of the community.
 <br/>
 <br/>
 
