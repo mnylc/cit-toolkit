@@ -320,13 +320,13 @@ We create both master and access files during events and copies of each are give
 <br/>
 <br/>
 
-|                | **Master Files** | **Access Files** |
-|----------------|:----------------:|:----------------:|
-| Document Type  | Reflective       | Reflective       |
-| Bit Depth      | 24-bit           | 24-bit           |
-| Color Space    | Adobe RGB        | Adobe RGB        |
-| Resolution     | 600ppi           | 300ppi           |                  
-| File Type      | TIFF             | JPEG2000         |
+|                | **Master Files**   | **Access Files** |
+| -------------- | : -------------- : |: -------------- :|
+| Document Type  | Reflective         | Reflective       |
+| Bit Depth      | 24-bit             | 24-bit           |
+| Color Space    | Adobe RGB          | Adobe RGB        |
+| Resolution     | 600ppi             | 300ppi           |                  
+| File Type      | TIFF               | JPEG2000         |
 <br/>
 *Access files are created through an automated Photoshop action.*
 <br/>
