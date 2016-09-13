@@ -303,7 +303,7 @@ Please see our full [breakdown of staffing responsibilities]({{ "/assets/docs/05
 ### Event Workflow
 During community scanning events, the basic flow of materials being digitized is:
 <br/>
-[Event Overview]({{ "/assets/img/CS Section 3 - Event Overview.jpg" | prepend: site.baseurl }})
+![Image of Event Overview]({{ "/assets/img/CS Section 3 - Event Overview.jpg" | prepend: site.baseurl }})
 <br/>
 <br/>
 For more detailed information please refer to the following documents:
