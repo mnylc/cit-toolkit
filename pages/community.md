@@ -319,6 +319,7 @@ For more detailed information please refer to the following documents:
 We create both master and access files during events and copies of each are given to participants on a flash drive.
 <br/>
 <br/>
+
 |                | **Master Files** | **Access Files** |
 |----------------|:----------------:|:----------------:|
 | Document Type  | Reflective       | Reflective       |
@@ -329,6 +330,7 @@ We create both master and access files during events and copies of each are give
 <br/>
 *Access files are created through an automated Photoshop action*
 <br/>
+
 Each participant’s folder also contains a separate image of the color target, labeled with the date of capture.
 <br/>
 <br/>
