@@ -321,17 +321,11 @@ We create both master and access files during events and copies of each are give
 <br/>
 
 |                | **Master Files** | **Access Files** |
-<br/>
 |----------------|:----------------:|:----------------:|
-<br/>
 | Document Type  | Reflective       | Reflective       |
-<br/>
 | Bit Depth      | 24-bit           | 24-bit           |
-<br/>
 | Color Space    | Adobe RGB        | Adobe RGB        |
-<br/>
 | Resolution     | 600ppi           | 300ppi           |                  
-<br/>
 | File Type      | TIFF             | JPEG2000         |
 <br/>
 *Access files are created through an automated Photoshop action.*
@@ -528,3 +522,39 @@ Back to [top](#top)
 <br/>
 
 ## <a name="Section Six - Resources"></a>Section Six - Resources
+Below is a list of all resources developed and used for community scanning events. These resources are located throughout this section but this list provides a quick-glance locator for the resources.
+<br/>
+<br/>
+- [Event Planning Checklist for Community Scanning Events.]({{ "/assets/docs/01 - CS Section_Event Planning Checklist for community scanning.pdf" | prepend: site.baseurl }})
+<br/>
+- [Sample Letter to Public Library Branches for Community Scanning Events.]({{ "/assets/docs/02 - CS Section_Sample Letter to Library Branches for community events_Brooklyn.pdf" | prepend: site.baseurl }})
+<br/>
+- [Letter and Consent Form for School Scanning Program.]({{ "/assets/docs/03 - CS Section_School Letter and Consent Form for school scanning_Brooklyn.pdf" | prepend: site.baseurl }})
+<br/>
+- [Metadata Collection Sheet for School Scanning Program.]({{ "/assets/docs/04 - CS Section_Metadata Collection Sheet for School Scanning_Brooklyn.pdf" | prepend: site.baseurl }})
+<br/>
+- [Sample Community Scanning Staffing Plan.]({{ "/assets/docs/05 - CS Section 3_Sample Community Scanning Staffing Plan.pdf" | prepend: site.baseurl }})
+<br/>
+- [Community Scanning Event Workflow and Procedure.]({{ "/assets/docs/06 - CS Section 3_CIT Community Event Workflow and Procedures.pdf" | prepend: site.baseurl }})
+<br/>
+- [Community Scanning Digitization Workflow.]({{ "/assets/docs/07 - CS Section 3_Community Digitization Workflow.pdf" | prepend: site.baseurl }})
+<br/>
+- [Informed Consent Form for Community Scanning Events - Queens Library.]({{ "/assets/docs/08 - CS Section 3_Informed Consent for community events_Queens.pdf" | prepend: site.baseurl }})
+<br/>
+- [Informed Consent Form for Community Scanning Events - Brooklyn Public Library.]({{ "/assets/docs/09 - CS Section 3_Informed Consent for community events_Brooklyn.pdf" | prepend: site.baseurl }})
+<br/>
+- [Metadata Collection Sheet for Community Scanning Events - Queens Library.]({{ "/assets/docs/11 - CS Section 3_Metadata collection sheet for community events_Queens.pdf" | prepend: site.baseurl }})
+<br/>
+- [Metadata Collection Sheet for Community Scanning Events - Brooklyn Public Library.]({{ "/assets/docs/10 - CS Section 3_Metadata Collection Sheet for community events_Brooklyn.pdf" | prepend: site.baseurl }})
+<br/>
+- [Community Scanning Events Interactive Outreach Model.]({{ "/assets/docs/13 - CS Section 4_Community Event Interactive Outreach Models.pdf" | prepend: site.baseurl }})
+<br/>
+- [Setting up Outreach Tablets for Community Scanning Events.]({{ "/assets/docs/14 - CS Section 4_Setting Up Outreach Tablets for Community Events.pdf" | prepend: site.baseurl }})
+<br/>
+- [Preserving Your Digital Memories Personal Digital Archiving Brochure.]({{ "/assets/docs/15 - CS Section 4_Preserving Your Digital Memories Brochure.pdf" | prepend: site.baseurl }})
+<br/>
+- [What is On Your Thumb Drive Handout for community scanning events.]({{ "/assets/docs/16 - CS Section 4_What Is On Your Thumb Drive handout for community events.pdf" | prepend: site.baseurl }})
+<br/>
+- [Feedback Form for Community Scanning Events - Queens Library.]({{ "/assets/docs/17 - CS Section 5_Feedback Form for community events_Queens.pdf" | prepend: site.baseurl }})
+<br/>
+- [Feedback Form for Community Scanning Events - Brooklyn Public Library.]({{ "/assets/docs/18 - CS Section 5_Feedback Form for community events_Brooklyn.pdf" | prepend: site.baseurl }})
