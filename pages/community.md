@@ -319,31 +319,15 @@ For more detailed information please refer to the following documents:
 We create both master and access files during events and copies of each are given to participants on a flash drive.
 <br/>
 <br/>
-**Master Files**
+|                | **Master Files** | **Access Files** |
+|----------------|:----------------:|:----------------:|
+| Document Type  | Reflective       | Reflective       |
+| Bit Depth      | 24-bit           | 24-bit           |
+| Color Space    | Adobe RGB        | Adobe RGB        |
+| Resolution     | 600ppi           | 300ppi           |                  
+| File Type      | TIFF             | JPEG2000         |
 <br/>
-- Document type: Reflective.
-<br/>
-- Bit depth: 24-bit.
-<br/>
-- Color space: Adobe RGB.
-<br/>
-- Resolution: 600ppi.
-<br/>
-- File type: TIFF.
-<br/>
-<br/>
-**Access Files (created through an automated Photoshop action.)**
-<br/>
-- Document type: Reflective.
-<br/>
-- Bit depth: 24-bit.
-<br/>
-- Color space: Adobe RGB.
-<br/>
-- Resolution: 300ppi.
-<br/>
-- File type: JPEG2000.
-<br/>
+*Access files are created through an automated Photoshop action*
 <br/>
 Each participant’s folder also contains a separate image of the color target, labeled with the date of capture.
 <br/>
