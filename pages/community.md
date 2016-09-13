@@ -328,7 +328,7 @@ We create both master and access files during events and copies of each are give
 | Resolution     | 600ppi           | 300ppi           |                  
 | File Type      | TIFF             | JPEG2000         |
 <br/>
-*Access files are created through an automated Photoshop action*
+*Access files are created through an automated Photoshop action.*
 <br/>
 
 Each participant’s folder also contains a separate image of the color target, labeled with the date of capture.
