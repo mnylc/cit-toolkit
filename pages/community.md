@@ -3,7 +3,7 @@ title: Community
 permalink: /community/
 ---
 
-<a name="top"></a>
+<a name="Back to top"></a>
 <br/>
 [Introduction](#Introduction)
 <br/>
