@@ -68,7 +68,7 @@
 	     var img_path = "{{ "/assets/img/" | prepend: site.baseurl }}" + elms[0];
 	     //replace the image
 	     $('header').css("background-image", "url(" + img_path + ")");
-	     $('.attribution').children(":first").html('The background image is from the <a href="' + elms[2] + '">' + elms[1] + '</a>.');
+	     $('.attribution').children(":first").html('The background image is from the <a href="' + elms[2] + '" target="_blank">' + elms[1] + '</a>.');
 	 });
      });
     </script>
