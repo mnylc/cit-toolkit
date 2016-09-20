@@ -64,11 +64,16 @@
 	 $.get('{{ "/assets/img/bgimgs.txt" | prepend: site.baseurl }}', function(data) {
 	     var lines = data.split('\n');
 	     var line = lines[Math.floor(Math.random()*lines.length)];
+	     var img_path = '{{ "/assets/img/" | prepend: site.baseurl }}/OSOS_0683_r.png';
+	     var attrib_link = 'The background image is from the <a href="http://www.bklynlibrary.org/brooklyncollection" target="_blank">The Brooklyn Collection, Brooklyn Public Library</a>.';
+	     
 	     var elms = line.split(';');
-	     var img_path = "{{ "/assets/img/" | prepend: site.baseurl }}" + elms[0];
-	     //replace the image
+	     if (elms.length == 3) {
+		 img_path = "{{ "/assets/img/" | prepend: site.baseurl }}" + elms[0];
+		 attrib_link = 'The background image is from the <a href="' + elms[2] + '" target="_blank">' + elms[1] + '</a>.';
+	     }	     //replace the image
 	     $('header').css("background-image", "url(" + img_path + ")");
-	     $('.attribution').children(":first").html('The background image is from the <a href="' + elms[2] + '" target="_blank">' + elms[1] + '</a>.');
+	     $('.attribution').children(":first").html(attrib_link);
 	 });
      });
     </script>
