@@ -29,7 +29,7 @@ At community scanning events, we bring our mobile digitization kit to library br
 We hope this toolkit will serve as a valuable resource for individuals and organizations interested in launching community scanning events in their area.
 <br/>
 <br/>
-The content in the Community Section of this toolkit was authored by Sarah Quick and Maggie Schreiner, Culture in Transit Mobile Digitization Specialists for Brooklyn Public Library and Queens Library, respectively.
+The content in the Community Section of this toolkit was authored by Sarah Quick and Maggie Schreiner, Culture in Transit Mobile Digitization Specialists for [Brooklyn Public Library](https://www.bklynlibrary.org/) and [Queens Library](http://www.queenslibrary.org/), respectively.
 <br/>
 <br/>
 
@@ -462,7 +462,7 @@ A large map of the neighborhood, on which participants are invited to place a do
 <br/>
 **Photograph Comparison**
 <br/>
-Print outs of historic photos of a neighborhood, with the location captioned on the back of the image. Participants can use a laptop or tablet to find the corresponding location on Google Street View.
+Printouts of historic photos of a neighborhood, with the location captioned on the back of the image. Participants can use a laptop or tablet to find the corresponding location on Google Street View.
 <br/>
 <br/>
 **Additional Resources**
