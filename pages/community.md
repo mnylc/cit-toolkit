@@ -46,134 +46,135 @@ The planning for a community scanning event should begin 3-4 months in advance o
 
 ### Site Selection and Visit
 When selecting a location for a community scanning event, consider the following:
-<br/>
-<br/>
+
+
 - Identify gaps in archival collections and match with neighborhoods and /or communities that could help fill those gaps.
-<br/>
+
 - Reach out to branch librarians and local groups to gauge interest in possible events.
-<br/>
+
 - Explore existing institutional relationships with community organizations, and consider extending these partnerships to the community history project.
-<br/>
+
 - Develop partnerships with local groups working on community history projects.
-<br/>
+
 - Work with local Friends of the Library groups for event planning and outreach.
-<br/>
+
 - Return to neighborhoods that have previously been successful.
-<br/>
-<br/>
+
+
 Once a location is selected to host a community scanning event, a site visit is necessary to assess the space and meet the staff. On the day of the event, we’re occupying a portion of their library for several hours, so it’s important the branch staff knows what to expect and what their role will be. Topics that should be covered with the librarian during this initial visit include:
-<br/>
-<br/>
+
+
 **Date Selection**
-<br/>
+
 - Work with the librarian to choose a date for the scanning event that won’t conflict with other library programs. Alternatively, a date that coincides with a complimentary program might increase turnout.
-<br/>
+
 - Ask the librarian to suggest days and times when the library is usually busy.
-<br/>
+
 - Aim to schedule events in pairs, or a short series of events. The first event can serve as effective outreach for the following events at the same locations.
-<br/>
+
 - Consider target audience when scheduling events. If you are aiming for older adult participation, be sure to schedule events during daylight hours.
-<br/>
+
 - Be sure to avoid religious and school holidays.
-<br/>
-<br/>
+
 **Outreach**
-<br/>
+
 - The site visit is a good time to collect contact information for any community leaders or groups that might be interested in the project.
-<br/>
+
 - Ask the librarian to begin identifying patrons that might be interested in participating.
-<br/>
+
 - Request a meeting with the library’s Friends Group, or the opportunity to speak at any relevant upcoming event(s).
-<br/>
+
 - Determine language needs of the branch’s local communities.
-<br/>
-<br/>
+
+
 **Promotional Materials**
-<br/>
+
+
 - Decide who will produce the promotional materials.
-<br/>
+
 - Will materials need to made available in multiple languages?
-<br/>
+
 - Is there a space in the library to hang or distribute materials?
-<br/>
-<br/>
+
+
+
 **SetUp Location**
-<br/>
+
 - Assess the library’s layout, determining the best location for the digitization kit on the day of the event.
-<br/>
+
 - Observe patron foot traffic.
-<br/>
+
 - Locate electrical outlets.
-<br/>
-<br/>
+
+
 
 
 ### Space Requirements
 When selecting a space to set up for a community scanning event, the most important factor is visibility. We’ve found that positioning ourselves in a high traffic area of the library, such as the entrance or checkout kiosk often increases our rate of walk-in participation by allowing us to:
-<br/>
-<br/>
+
+
 - Engage with every patron as they enter or leave the library.
-<br/>
+
 - Attract curious patrons with interactive features displayed on our table.
-<br/>
+
 - Appear more approachable.
-<br/>
+
 - Make potential participants feel more comfortable by first observing the digitization and donation process.
-<br/>
-<br/>
+
+
 With this increase in interaction we might sacrifice the ability to customize our workspace, making do with very little square footage or access to electrical outlets. The bare minimum requirements to set up a mobile digitization kit is as follows:
-<br/>
-<br/>
+
+
 **Tables**
-<br/>
+
 - Three tables is ideal, two is often realistic:
-<br/>
+
     - One to hold the scanner and laptop, leaving a small space for the completion of paperwork.
-<br/>
+
     - One for the setup of interactive displays (tablets, pamphlets, etc.).
-<br/>
+
     - One to set up the copy-stand (can be moved to the floor if necessary).
-<br/>
+
 - Each should be no shorter than 5 feet in length.
-<br/>
+
 - If space is at an absolute minimum:
-<br/>
+
   - Two tables can be eliminated by moving the copy-stand to the floor (requires 4 x 4 feet of space) and choosing to not include the interactive materials.
-<br/>
+
   - The scanning table can be set up in an alternate space that is physically separate from the staff members interacting with participants. Staff can ferry participant materials back and forth from the scanning station.
-<br/>
-<br/>
+
+
 **Electrical Requirements**
-<br/>
+
 - Only one electrical outlet is required as long as the digitization kit includes an extension cord and power strip.
-<br/>
+
 - Duct tape may also be required to minimize the risk of patrons tripping on the cord.
-<br/>
-<br/>
+
+
 Including space for three chairs, at a minimum we need an estimated **60 square feet** of space to set up our mobile digitization kit, including space for two mobile digitization specialists and a participant to sit comfortably.
-<br/>
-<br/>
+
+
 
 [Back to top](#Back to top)
-<br/>
-<br/>
-<br/>
+
+
+
 
 ## <a name="Section Two - Outreach"></a>Section Two - Outreach
 
 
 ### Strategies
-<br/>
+
 **Media and Phone Banking Outreach**
-<br/>
+
 Many people hear about community scanning events from local community groups or branch librarians. We also get walk-ins, people who just happen to visit the library on the day of event and choose to participate after learning more. In the weeks leading up to the event we attempt to attract additional participation through:
-<br/>
-<br/>
+
+
 **Cold Calls and Emails**
-<br/>
+
 Contacting local senior centers, religious organizations and businesses in hopes that their members and customers might be interested. We ask that they support Culture in Transit by displaying or distributing our promotional materials at their location.
-<br/>
-<br/>
+
+
 **Social Media**
 <br/>
 Providing quality JPEGs of our flier to local business and organizations for them to share on their social media accounts.
@@ -213,20 +214,20 @@ Patrons who have previously attended library programs, events and activities are
 
 ### Community Partnerships
 Community groups serve as important liaisons between the library and the community. Creating partnerships for community scanning events can:
-<br/>
+
 - Increase event participation through targeted outreach.
-<br/>
+
 - Reach communities who might not traditionally access library services.
-<br/>
+
 - Assist with language support and translation, both during the events and while cataloging material gathered at public events.
-<br/>
+
 - Provide access to additional materials and activities that make events interactive and educational.
-<br/>
+
 - Lend credibility and trust to the library as a custodian of personal materials.
-<br/>
+
 - Focus documentation efforts on communities that are traditionally under-represented in the archive.
-<br/>
-<br/>
+
+
 
 
 ### School Scanning
@@ -273,27 +274,27 @@ A community scanning event requires at least two staff members, although three i
 <br/>
 <br/>
 **Consent, Metadata & Feedback Collection**
-<br/>
+
 - The consent form must be signed before any digitization or metadata collection can begin. Each staff member should be able to accurately summarize the consent form, including the copyright restrictions in plain, non-legal language.
-<br/>
+
 - Making sure each digitized item has a corresponding metadata sheet, filled out using information provided by the participant and the object itself.
-<br/>
+
 - When possible, feedback forms should be collected from participants.
-<br/>
+
 - Staff members in this role will be interacting directly with the public.
-<br/>
-<br/>
+
+
 **Digitization**
-<br/>
+
 - Using the scanner and copy-stand to quickly create archival quality digital images from a variety of items. This person is also responsible for making sure the file names adhere to their institution’s file naming conventions.
-<br/>
+
 - Staff members in this role will need training on equipment and procedures in advance of the event.
-<br/>
+
 <br/>
 **Interactive Activity Supervision**
-<br/>
+
 - It’s helpful to assign a staff member to guide visitors through activities such as photographs, maps, audio and slideshows.
-<br/>
+
 <br/>
 Please see our full [breakdown of staffing responsibilities]({{ "/assets/docs/05 - CS Section 3_Sample Community Scanning Staffing Plan.pdf" | prepend: site.baseurl }}) for more information.
 <br/>
@@ -307,12 +308,12 @@ During community scanning events, the basic flow of materials being digitized is
 <br/>
 <br/>
 For more detailed information please refer to the following documents:
-<br/>
+
 - [Workflow, standards and procedures.]({{ "/assets/docs/06 - CS Section 3_CIT Community Event Workflow and Procedures.pdf" | prepend: site.baseurl }})
-<br/>
+
 - [Workflow diagram]({{ "/assets/docs/07 - CS Section 3_Community Digitization Workflow.pdf" | prepend: site.baseurl }})
-<br/>
-<br/>
+
+
 
 
 ### Digitization Standards
@@ -339,25 +340,25 @@ Each participant’s folder also contains a separate image of the color target, 
 
 ### File Name Conventions
 We developed a standardized file naming convention that adheres to existing institutional standards. Information to consider when creating your file naming convention includes:
-<br/>
+
 - Participant name.
-<br/>
+
 - Location or date of public digitization event.
-<br/>
+
 - Numerical numbering of each item digitized.
-<br/>
+
 - Information about structure of object (such as recto, verso).
-<br/>
-<br/>
+
+
 
 
 ### Copyright
 For each event, we used consent forms specific to the project:
-<br/>
+
 - [Queens Memory Consent Form.]({{ "/assets/docs/08 - CS Section 3_Informed Consent for community events_Queens.pdf" | prepend: site.baseurl }})
-<br/>
+
 - [Brooklyn Public Library Consent Form.]({{ "/assets/docs/09 - CS Section 3_Informed Consent for community events_Brooklyn.pdf" | prepend: site.baseurl }})
-<br/>
+
 <br/>
 Your consent form should be reviewed by your institution’s legal department before being implemented.
 <br/>
@@ -387,21 +388,21 @@ We scan each consent form, and include it on the thumb drive provided to the par
 
 ### Metadata
 We use a paper version of our [metadata collection form]({{ "/assets/docs/10 - CS Section 3_Metadata Collection Sheet for community events_Brooklyn.pdf" | prepend: site.baseurl }}) to collect metadata about each item digitized. The information we attempt to collect includes:
-<br/>
+
 - Date the photograph was taken.
-<br/>
+
 - Location of the photograph.
-<br/>
+
 - Name of the photographer.
-<br/>
+
 - Names of people who appear in the photograph.
-<br/>
+
 - Event taking place in the photograph.
-<br/>
+
 - Measurements of photograph.
-<br/>
+
 - Additional contextual information.
-<br/>
+
 <br/>
 
 
@@ -524,42 +525,42 @@ Back to [top](#top)
 
 ## <a name="Section Six - Resources"></a>Section Six - Resources
 Below is a list of all resources developed and used for community scanning events. These resources are located throughout this section but this list provides a quick-glance locator for the resources.
-<br/>
-<br/>
+
+
 - [Event Planning Checklist for Community Scanning Events.]({{ "/assets/docs/01 - CS Section_Event Planning Checklist for community scanning.pdf" | prepend: site.baseurl }})
-<br/>
+
 - [Sample Letter to Public Library Branches for Community Scanning Events.]({{ "/assets/docs/02 - CS Section_Sample Letter to Library Branches for community events_Brooklyn.pdf" | prepend: site.baseurl }})
-<br/>
+
 - [Letter and Consent Form for School Scanning Program.]({{ "/assets/docs/03 - CS Section_School Letter and Consent Form for school scanning_Brooklyn.pdf" | prepend: site.baseurl }})
-<br/>
+
 - [Metadata Collection Sheet for School Scanning Program.]({{ "/assets/docs/04 - CS Section_Metadata Collection Sheet for School Scanning_Brooklyn.pdf" | prepend: site.baseurl }})
-<br/>
+
 - [Sample Community Scanning Staffing Plan.]({{ "/assets/docs/05 - CS Section 3_Sample Community Scanning Staffing Plan.pdf" | prepend: site.baseurl }})
-<br/>
+
 - [Community Scanning Event Workflow and Procedure.]({{ "/assets/docs/06 - CS Section 3_CIT Community Event Workflow and Procedures.pdf" | prepend: site.baseurl }})
-<br/>
+
 - [Community Scanning Digitization Workflow.]({{ "/assets/docs/07 - CS Section 3_Community Digitization Workflow.pdf" | prepend: site.baseurl }})
-<br/>
+
 - [Informed Consent Form for Community Scanning Events - Queens Library.]({{ "/assets/docs/08 - CS Section 3_Informed Consent for community events_Queens.pdf" | prepend: site.baseurl }})
-<br/>
+
 - [Informed Consent Form for Community Scanning Events - Brooklyn Public Library.]({{ "/assets/docs/09 - CS Section 3_Informed Consent for community events_Brooklyn.pdf" | prepend: site.baseurl }})
-<br/>
+
 - [Metadata Collection Sheet for Community Scanning Events - Queens Library.]({{ "/assets/docs/11 - CS Section 3_Metadata collection sheet for community events_Queens.pdf" | prepend: site.baseurl }})
-<br/>
+
 - [Metadata Collection Sheet for Community Scanning Events - Brooklyn Public Library.]({{ "/assets/docs/10 - CS Section 3_Metadata Collection Sheet for community events_Brooklyn.pdf" | prepend: site.baseurl }})
-<br/>
+
 - [Community Scanning Events Interactive Outreach Model.]({{ "/assets/docs/13 - CS Section 4_Community Event Interactive Outreach Models.pdf" | prepend: site.baseurl }})
-<br/>
+
 - [Setting up Outreach Tablets for Community Scanning Events.]({{ "/assets/docs/14 - CS Section 4_Setting Up Outreach Tablets for Community Events.pdf" | prepend: site.baseurl }})
-<br/>
+
 - [Preserving Your Digital Memories Personal Digital Archiving Brochure.]({{ "/assets/docs/15 - CS Section 4_Preserving Your Digital Memories Brochure.pdf" | prepend: site.baseurl }})
-<br/>
+
 - [What is On Your Thumb Drive Handout for community scanning events.]({{ "/assets/docs/16 - CS Section 4_What Is On Your Thumb Drive handout for community events.pdf" | prepend: site.baseurl }})
-<br/>
+
 - [Feedback Form for Community Scanning Events - Queens Library.]({{ "/assets/docs/17 - CS Section 5_Feedback Form for community events_Queens.pdf" | prepend: site.baseurl }})
-<br/>
+
 - [Feedback Form for Community Scanning Events - Brooklyn Public Library.]({{ "/assets/docs/18 - CS Section 5_Feedback Form for community events_Brooklyn.pdf" | prepend: site.baseurl }})
-<br/>
+
 <br/>
 
 [Back to top](#Back to top)
