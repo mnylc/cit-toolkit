@@ -1,5 +1,5 @@
 # Site settings
-title: Culture in Transit
+title: Culture in Transit Toolkit
 email: info@metro.org
 description: Digitizing and democratizing Metropolitan New York\'s Cultural Heritage
 baseurl: "/cit-toolkit"
@@ -8,8 +8,8 @@ url: "http://metro.org/cit-toolkit"
 footer:
   address:
     - line: Metropolitan New York Library Council
-    - line: 57 East 11th Street, Fourth Floor
-    - line: New York, NY 10003
+    - line: 599 11th Avenue
+    - line: New York, NY 10036
   phone: 212.228.2320
   fax: 212.228.2598
 
