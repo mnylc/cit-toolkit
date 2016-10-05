@@ -2,8 +2,7 @@
 title: Community
 permalink: /community/
 ---
-
-<a name="Back to top"></a>
+<a name="top"/>
 <br/>
 [Introduction](#Introduction)
 <br/>
@@ -33,7 +32,7 @@ The content in the Community Section of this toolkit was authored by Sarah Quick
 <br/>
 <br/>
 
-[Back to top](#Back to top)
+[Back to top](#top)
 <br/>
 <br/>
 <br/>
@@ -155,7 +154,7 @@ Including space for three chairs, at a minimum we need an estimated **60 square 
 
 
 
-[Back to top](#Back to top)
+[Back to top](#top)
 
 
 
@@ -261,7 +260,7 @@ A division of the Brooklyn Public Library’s Outreach Services department, this
 <br/>
 <br/>
 
-[Back to top](#Back to top)
+[Back to top](#top)
 <br/>
 <br/>
 <br/>
@@ -434,7 +433,7 @@ For copyright reasons, we can’t include newspaper clippings, books, magazine a
 <br/>
 <br/>
 
-[Back to top](#Back to top)
+[Back to top](#top)
 <br/>
 <br/>
 <br/>
@@ -490,7 +489,7 @@ This [small handout]({{ "/assets/docs/16 - CS Section 4_What Is On Your Thumb Dr
 <br/>
 <br/>
 
-[Back to top](#Back to top)
+[Back to top](#top)
 <br/>
 <br/>
 <br/>
@@ -563,4 +562,4 @@ Below is a list of all resources developed and used for community scanning event
 
 <br/>
 
-[Back to top](#Back to top)
+[Back to top](#top)
