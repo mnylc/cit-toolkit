@@ -11,13 +11,11 @@ permalink: /institutions/
 <br/>
 [Section Two - Workflow, Project and Time Management](#Section Two -Workflow, Project and Time Management)
 <br/>
-[Section Three - Quantifying Digitization Projects](#Section Three - Quantifying Digitization Projects)
+[Section Three - Standards and Practices: Digitization, Metadata and Rights](#Section Three - Standards and Practices: Digitization, Metadata and Rights)
 <br/>
-[Section Four - Standards: Digitization, Metadata, Rights](#Section Four - Digitization, Metadata, Rights)
+[Section Four - Assessments and Outcomes](#Section Four - Assessments and Outcomes)
 <br/>
-[Section Five - Outcomes](#Section Five - Outcomes)
-<br/>
-[Section Six - Resources](#Section Six - Resources)
+[Section Five - Resources](#Section Five - Resources)
 <br/>
 <br/>
 <br/>
@@ -26,7 +24,7 @@ permalink: /institutions/
 <br/>
 <br/>
 
-Back to [top](#top)
+[Back to top](#top)
 <br/>
 <br/>
 <br/>
@@ -35,7 +33,7 @@ Back to [top](#top)
 <br/>
 <br/>
 
-Back to [top](#top)
+[Back to top](#top)
 <br/>
 <br/>
 <br/>
@@ -44,43 +42,34 @@ Back to [top](#top)
 <br/>
 <br/>
 
-Back to [top](#top)
+[Back to top](#top)
 <br/>
 <br/>
 <br/>
 
-## <a name="Section Three - Quantifying Digitization Projects"></a>Section Three - Quantifying Digitization Projects  
+## <a name="Section Three - Standards and Practices: Digitization, Metadata and Rights"></a>Section Three - Standards and Practices: Digitization, Metadata and Rights  
 <br/>
 <br/>
 
-Back to [top](#top)
-<br/>
-<br/>
-<br/>
-
-## <a name="Section Four - Standards: Digitization, Metadata, Rights"></a>Section Four - Standards: Digitization, Metadata, Rights
-<br/>
-<br/>
-
-Back to [top](#top)
+[Back to top](#top)
 <br/>
 <br/>
 <br/>
 
-## <a name="Section Five - Outcomes"></a>Section Five - Outcomes
+## <a name="Section Four - Assessments and Outcomes"></a>Section Four - Assessments and Outcomes
 <br/>
 <br/>
 
-Back to [top](#top)
+[Back to top](#top)
 <br/>
 <br/>
 <br/>
 
-## <a name="Section Six - Resources"></a>Section Six - Resources
+## <a name="Section Five - Resources"></a>Section Five - Resources
 <br/>
 <br/>
 
-Back to [top](#top)
+[Back to top](#top)
 <br/>
 <br/>
 <br/>
