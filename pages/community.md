@@ -517,7 +517,7 @@ Through [this form](https://docs.google.com/a/metro.org/forms/d/1X5WFpmP9EwvSrg5
 <br/>
 <br/>
 
-Back to [top](#top)
+[Back to top](#top)
 <br/>
 <br/>
 <br/>
