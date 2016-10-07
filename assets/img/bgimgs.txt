@@ -1,6 +1,6 @@
-OSOS_0683_r.png;The Brooklyn Collection, Brooklyn Public Library;http://www.bklynlibrary.org/brooklyncollection
-OSOS_1025_r.png;The Brooklyn Collection, Brooklyn Public Library;http://www.bklynlibrary.org/brooklyncollection
-bcc_hof_041a.png;Bronx Community College, Hall of Fame Collection;http://dcmny.org/islandora/object/bxcc%3A72
-qmp-ps-27072015-010-0.png;Queens Memory Collection at the Archives at Queens Library;http://digitalarchives.queenslibrary.org/browse/ps-125-first-grade-class-photo
-wppl_wpc_079.png;White Plains Public Library, White Plains Collection;http://dcmny.org/islandora/object/wppl%3A80
-qmp-talex-11122015-022-0.png;Queens Memory Collection at the Archives at Queens Library;http://digitalarchives.queenslibrary.org/browse/tabaco-family-photo
+OSOS_0683_r.jpg;The Brooklyn Collection, Brooklyn Public Library;http://www.bklynlibrary.org/brooklyncollection
+OSOS_1025_r.jpg;The Brooklyn Collection, Brooklyn Public Library;http://www.bklynlibrary.org/brooklyncollection
+bcc_hof_041a.jpg;Bronx Community College, Hall of Fame Collection;http://dcmny.org/islandora/object/bxcc%3A72
+qmp-ps-27072015-010-0.jpg;Queens Memory Collection at the Archives at Queens Library;http://digitalarchives.queenslibrary.org/browse/ps-125-first-grade-class-photo
+wppl_wpc_079.jpg;White Plains Public Library, White Plains Collection;http://dcmny.org/islandora/object/wppl%3A80
+qmp-talex-11122015-022-0.jpg;Queens Memory Collection at the Archives at Queens Library;http://digitalarchives.queenslibrary.org/browse/tabaco-family-photo
