@@ -39,6 +39,7 @@ The service was primarily aimed at METRO member institutions that had little or 
 
 <br/>
 <br/>
+
 - Had no digitization equipment or budget to purchase.
 
 - Did not have the staff expertise to undertake digitization work.
