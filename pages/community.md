@@ -28,7 +28,7 @@ At community scanning events, we bring our mobile digitization kit to library br
 We hope this toolkit will serve as a valuable resource for individuals and organizations interested in launching community scanning events in their area.
 <br/>
 <br/>
-The content in the Community Section of this toolkit was authored by Sarah Quick and Maggie Schreiner, Culture in Transit Mobile Digitization Specialists for [Brooklyn Public Library](https://www.bklynlibrary.org/) and [Queens Library](http://www.queenslibrary.org/), respectively.
+***The content in the Community Section of this toolkit was authored by Sarah Quick and Maggie Schreiner, Culture in Transit Mobile Digitization Specialists for [Brooklyn Public Library](https://www.bklynlibrary.org/) and [Queens Library](http://www.queenslibrary.org/), respectively.***
 <br/>
 <br/>
 
@@ -163,17 +163,18 @@ Including space for three chairs, at a minimum we need an estimated **60 square 
 
 
 ### Strategies
-
+<br/>
+<br/>
 **Media and Phone Banking Outreach**
-
+<br/>
 Many people hear about community scanning events from local community groups or branch librarians. We also get walk-ins, people who just happen to visit the library on the day of event and choose to participate after learning more. In the weeks leading up to the event we attempt to attract additional participation through:
-
-
+<br/>
+<br/>
 **Cold Calls and Emails**
-
+<br/>
 Contacting local senior centers, religious organizations and businesses in hopes that their members and customers might be interested. We ask that they support Culture in Transit by displaying or distributing our promotional materials at their location.
-
-
+<br/>
+<br/>
 **Social Media**
 <br/>
 Providing quality JPEGs of our flier to local business and organizations for them to share on their social media accounts.
