@@ -113,7 +113,7 @@ We developed a [page](http://metro.org/culture-in-transit/) on the METRO website
 
 **Interest Form**
 <br/>
-We created an interest form for METRO members to express their interest in the mobile digitization service. We asked questions covering basic collection information including:
+We created an [interest form](https://docs.google.com/a/metro.org/forms/d/e/1FAIpQLSeu7FvqA6nTh8it9lOBt3JPDp2F_PURquCPZqwPUlY9OYsvRw/viewform) for METRO members to express their interest in the mobile digitization service. We asked questions covering basic collection information including:
 <br/>
 <br/>
 
@@ -688,12 +688,12 @@ METRO’s Culture in Transit collection information
 For assessment purposes, we developed two feedback forms that we asked project partners to complete:
 <br/>
 <br/>
-Initial Feedback form:
+[Initial Feedback form:](https://docs.google.com/a/metro.org/forms/d/e/1FAIpQLSd_mrFwKuf1oyW5yjEpBJ4ot1osXt-u6LEbG_VzfWhoqlU0bw/viewform)
 <br/>
 This feedback form was sent to the project partner after the on-site scanning portion of the project was completed. Through this form we gathered information on project communication, execution and experience of hosting the digitization specialist.
 <br/>
 <br/>
-Final Feedback form:
+[Final Feedback form:](https://docs.google.com/a/metro.org/forms/d/e/1FAIpQLScq9y2NJ1PdoxqenhopSJD91b70z0N3rXicGoIEnAhw8UJc2w/viewform)
 <br/>
 This feedback form was sent to a project partner 2-3 months after the collection was available online in DCMNY and records were harvested and live in DPLA. Through this form we assessed the extent to which the project partner promoted the digitized content internally and externally once online, if the digitized collection had been used in any way by the institution, and if the institution felt it had achieved its goals in participating in the project or had any additional feedback.
 <br/>
@@ -704,7 +704,7 @@ This feedback form was sent to a project partner 2-3 months after the collection
 Upon request, METRO provides monthly or quarterly usage reports of the online collections in DCMNY to project partners.
 <br/>
 <br/>
-If the functionality is available from the digital hosting platform/DAMS system to monitor traffic to a particular item or collection, that can be a good way to gauge use and popularity of material. A generic web analytics tool, such as Google Analytics or [PiWik](https://piwik.org/) can be used in place of a built in analytics tool. 
+If the functionality is available from the digital hosting platform/DAMS system to monitor traffic to a particular item or collection, that can be a good way to gauge use and popularity of material. A generic web analytics tool, such as Google Analytics or [PiWik](https://piwik.org/) can be used in place of a built in analytics tool.
 <br/>
 <br/>
 [Back to top](#top)
