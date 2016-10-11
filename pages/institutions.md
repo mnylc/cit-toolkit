@@ -407,6 +407,143 @@ Due to the time limited nature of our project, we often had work simultaneously 
 <br/>
 <br/>
 
+### Digitization
+<br/>
+We create master files and access files when digitizing, copies of which are provided to the project partner after completion of the on-site work.
+<br/>
+<br/>
+A master file is a digital surrogate of an analog object. Scanned at high resolution, stored uncompressed, it should not be altered in any way. Access files are created from the master file. For our project, we used the following standards:
+<br/>
+<br/>
+
+|                | **Master Files**   | **Access Files** |
+| -------------- | :--------------: |:--------------:|
+| Document Type  | Reflective         | Reflective       |
+| Bit Depth      | 24-bit             | 24-bit           |
+| Color Space    | Adobe RGB          | Adobe RGB        |
+| Resolution     | 600ppi             | 300ppi (image file size 2000-2400 on the longest side)           |                  
+| File Type      | TIFF               | JPEG or JPEG2000         |
+
+<br/>
+*Project partners were given 300dpi access files for printing/reproduction purposes. Access files for web viewing are generally restricted to 72dpi.*
+<br/>
+<br/>
+**Image Referencing Tools:**
+<br/>
+Use a color target and/or ruler when digitizing. These tools ensure that the viewing environment for the master files can be adjusted to mimic the settings when the materials were digitized.
+<br/>
+<br/>
+**File Name Conventions:**
+<br/>
+Develop a standardized file naming convention, which adheres to existing institutional standards. Information to consider building into the logic of your file naming convention includes:
+<br/>
+<br/>
+
+- Catalog number of item (if processed).
+
+- Abbreviated name of collection.
+
+- Date of digitization.
+
+- Numerical numbering of each item digitized.
+
+- Information about structure of object (such as recto, verso).
+
+<br/>
+<br/>
+For Culture in Transit we developed a filename structure that included:
+<br/>
+<br/>
+
+- Repository identifier.
+
+- Collection Identifier.
+
+- Catalog/Unique ID.
+
+- Sequential Number.
+
+<br/>
+<br/>
+### Metadata
+Metadata is an integral part of any digitization project and should follow a recognized metadata schema. Metadata was by far the most time-consuming part of the work with our project partners and is just as important in project planning as the digitization work.
+<br/>
+<br/>
+As the collections we digitize go into [Digital Culture of Metropolitan New York](http://dcmny.org/) (DCMNY), we use the following guidelines:
+<br/>
+<br/>
+
+- DCMNY metadata spreadsheet template.
+
+- DCMNY metadata requirements and guidelines.
+
+<br/>
+<br/>
+The requirements for DCMNY include required and recommended metadata fields for completion. Our approach for Culture in Transit was to complete as many of the metadata fields as possible. As each collection we worked with was different, the metadata work with our project partners fell into 3 categories:
+<br/>
+<br/>
+
+- Full: No pre-existing metadata available; all metadata about the item needed to be created.
+
+- Partial: Descriptive metadata available; technical metadata about the item and subject terms still needed to be created.
+
+- Minimal: Descriptive and subject terms available; technical metadata about the item still needed to be created.
+
+<br/>
+<br/>
+Description of item and subject terms were the most time-consuming areas of metadata to complete, but are also some of the most important, value-added areas that allow for greater accessibility and discoverability of the item once it’s online.
+<br/>
+<br/>
+The table below shows minimum elements from DCMNY metadata spreadsheet completed by METRO digitization specialist informed by either what metadata already existed for collection or what metadata was being completed by project partner.
+<br/>
+<br/>
+
+| **Full Metadata** | **Partial Metadata**   | **Minimal Metadata** |
+| -------------- | :--------------: |:--------------:|
+| Collection title  | Filename        | Filename       |
+| Filename     | Identifier            | Identifier          |
+| Identifier   | Subject terms        | Note        |
+| Item title   | Note            | Digital Format           |                  
+| Subject terms      | Genre             | Digital Origin |    
+| Dates   | Extent          |        |
+| Item Description   | Digital Format         |        |
+| Note   | Digital Origin         |        |
+| Type of Resource   |          |         |
+| Genre   |          |        |
+| Extent   |          |         |
+| Language   |          |        |
+| Rights   |          |        |
+| Owning Institution/Held By  |          |        |
+| Digital Format   |           |        |
+| Digital Origin   |          |         |
+
+<br/>
+<br/>
+METRO’s DCMNY metadata is based on the [MODS schema](http://www.loc.gov/standards/mods/), whereas many of our project partners use [Dublin Core](http://dublincore.org/), [VRA Core](https://www.loc.gov/standards/vracore/) or other local schemas. Some considerations for metadata creation include:
+<br/>
+<br/>
+
+- Mapping an existing metadata schema to the one in use by the project may be necessary.
+
+- It can speed up work if the project partner can assist with metadata creation.
+
+- Foreign language collections that have little or no metadata may require more time to complete because of translation requirements.
+
+- Some elements of metadata can be populated after onsite work, such as subject terms.
+
+- If the project partner is not involved in metadata creation, it is useful to have them review the metadata in case anything has been missed or left out.
+
+- If the project partner has created some or most of the metadata, it will need to be reviewed by project staff to ensure that metadata guidelines have been followed.
+
+<br/>
+<br/>
+### Copyright
+Any digitization project requires copyright considerations and the application of appropriate statements of use for digitized material. All material digitized as part of Culture in Transit had to be made freely accessible online, so was either in the public domain, the institution controlled the rights to the materials, they had permission from the rightsholder, or they assessed the risk and/or made the content available under fair use.
+<br/>
+<br/>
+In addition, as all the content we digitized as part of Culture in Transit was contributed to Digital Public Library of America, we attempted to align the rights statements in our metadata records with [RightsStatements.org](http://rightsstatements.org/en/), DPLA’s set of standardized rights statements for online cultural heritage. However, [RightsStatements.org](http://rightsstatements.org/en/) did not launch until late into our project, therefore not all of project digitized collections align with these rights statements as of this writing. 
+<br/>
+<br/>
 [Back to top](#top)
 <br/>
 <br/>
