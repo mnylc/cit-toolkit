@@ -234,13 +234,15 @@ We developed and executed the mobile digitization service with a small team of t
 
 **Workflow Management**
 <br/>
-Workflow documentation and tracking tools to monitor progress are a good way to ensure all  involved in a project are kept informed of progress and of their responsibilities.
+Workflow documentation and tracking tools to monitor progress are a good way to ensure all involved in a project are kept informed of progress and of their responsibilities.
 <br/>
 <br/>
-We created a visual aid of the end-to-end CIT workflow at METRO to help us understand and communicate the steps involved in the project.
+We created a [visual aid]({{ "/assets/docs/02 - Institution_METRO Culture in Transit workflow document.pdf" || prepend: site.baseurl }}) of the end-to-end CIT workflow at METRO to help us understand and communicate the steps involved in the project.
+<br/>
+![Image of METRO Workflow]({{ "/assets/img/Institution - Section 2 - METRO Culture in Transit workflow.jpg" | prepend: site.baseurl }})
 <br/>
 <br/>
-We used a checklist for every project partner we worked with to track every step of our work with them. It was kept in the team’s Google Drive folders, ensuring everyone had access to it.
+We used a [checklist]({{ "/assets/docs/03 - Institution_METRO Culture in Transit checklist template.pdf" || prepend: site.baseurl }}) for every project partner we worked with to track every step of our work with them (detailed in the checklist are METRO centric tasks). It was kept in the team’s Google Drive folders, ensuring everyone had access to it.
 <br/>
 <br/>
 
@@ -477,9 +479,9 @@ As the collections we digitize go into [Digital Culture of Metropolitan New York
 <br/>
 <br/>
 
-- DCMNY metadata spreadsheet template.
+- [DCMNY Metadata Spreadsheet Template.]({{ "/assets/docs/05 - Institution_Digital Culture Metadata Spreadsheet_blank.xlsx" || prepend: site.baseurl }})
 
-- DCMNY metadata requirements and guidelines.
+- [DCMNY Metadata Requirements and Guidelines.]({{ "/assets/docs/04 - Institution_METRO DCMNY Metadata Requirements and Guidelines.pdf" || prepend: site.baseurl }})
 
 <br/>
 <br/>
@@ -609,7 +611,7 @@ There were a few core reasons we chose to do this;
 
 <br/>
 <br/>
-METRO’s Culture in Transit productivity statistics
+METRO’s Culture in Transit Productivity Statistics
 <br/>
 <br/>
 
@@ -644,7 +646,7 @@ From the detailed daily statistics, we were able to create a statistics sheet sh
 The biggest challenge with digitization can be estimating how long a project will take and these broader set of statistics offer information and data that is hopefully useful to others thinking of undertaking a digitization project, showing how much was achievable within a given timeframe, with differing variables of equipment used, amount of metadata needed to be completed and types of material to be digitized.
 <br/>
 <br/>
-METRO’s Culture in Transit project statistics
+[METRO’s Culture in Transit Project Statistics]({{ "/assets/docs/07 - Institution_METRO Overall Project Statistics.pdf" || prepend: site.baseurl }})
 <br/>
 <br/>
 
@@ -675,7 +677,7 @@ Once the project partners collections were published on DCMNY, we kept separate 
 Keeping this type of data was important primarily for our own internal uses but also for project reporting to our funders.
 <br/>
 <br/>
-METRO’s Culture in Transit collection information
+[METRO’s Culture in Transit Collection Information](({{ "/assets/docs/08 - Institution_METRO CIT Collection Information.pdf" || prepend: site.baseurl }})
 <br/>
 <br/>
 
