@@ -36,7 +36,6 @@ Institutional scanning for Culture in Transit was developed as a service for cul
 <br/>
 
 The service was primarily aimed at METRO member institutions that had little or no experience with digitizing their collections. Priority was given to those faced with some combination of the following circumstances:
-
 <br/>
 <br/>
 
@@ -215,10 +214,12 @@ Once an institution was selected as a project partner, we sent a confirmation em
 <br/>
 
 ## <a name="Section Two - Workflow, Project and Time Management"></a>Section Two - Workflow, Project and Time Management
-
+Project planning for the mobile digitization service involved both METRO’s project team and the project partner (the institution who received the digitization service).
 <br/>
 <br/>
-
+**METRO's Project Team**
+<br/>
+We developed and executed the mobile digitization service with a small team of three that included:
 [Back to top](#top)
 <br/>
 <br/>
