@@ -220,6 +220,177 @@ Project planning for the mobile digitization service involved both METRO’s pro
 **METRO's Project Team**
 <br/>
 We developed and executed the mobile digitization service with a small team of three that included:
+<br/>
+<br/>
+
+- Digitization Specialist: Responsible for selection of project partners, the majority of pre on-site, on-site and post on-site work (specific tasks set out below).
+
+- Metadata Specialist: Responsible for ingest of images and metadata into [DCMNY](http://dcmny.org/).
+
+- Project Manager: Responsible for overall management of the project, oversight of Digitization and Metadata Specialists, guidance and final selection of project partners.
+<br/>
+<br/>
+
+**Workflow Management**
+<br/>
+Workflow documentation and tracking tools to monitor progress are a good way to ensure all  involved in a project are kept informed of progress and of their responsibilities.
+<br/>
+We created a visual aid of the end-to-end CIT workflow at METRO to help us understand and communicate the steps involved in the project.
+<br/>
+We used a checklist for every project partner we worked with to track every step of our work with them. It was kept in the team’s Google Drive folders, ensuring everyone had access to it.
+<br/>
+<br/>
+
+**Overall Project Management**
+<br/>
+Google Drive is an excellent tool for team collaboration and for sharing and editing project documentation. Google Drive allowed us an easier working relationship with some of our project partners. Some partners were involved in the creation of collection metadata and were able to edit the metadata spreadsheet while other work was being done.
+<br/>
+We used the task management tool [Asana](https://app.asana.com/) at METRO to track and manage project progress. Asana gives you the ability to create a ‘team’, add colleagues to that team and then create ‘projects’ in your team area. We created a project for every partner we worked with and used Asana to:
+<br/>
+<br/>
+
+- Assign tasks to different team members for different project steps.
+
+- Ask questions or comment on specific tasks.
+
+- Set deadlines for tasks.
+
+- Store documentation in the project area.
+<br/>
+<br/>
+A tool such as Asana is similar to the checklist we developed. Both were used simultaneously, but Asana offered an added layer of functionality; it supported group discussions and time management and allowed us to add deadlines to specific tasks and be notified of those deadlines via email.
+<br/>
+<br/>
+
+**Project Management - pre on-site tasks:**
+<br/>
+Pre-onsite planning should equip you with enough knowledge of a collection, particularly the extent of any metadata that already exists and the number of items in the collection, to ensure a smooth transition to digitization. Tasks before digitization commenced included:
+<br/>
+<br/>
+
+- Secure signed DPLA permission letter from partner institution.
+
+- Liaise with project partner on copyright status of collection.
+
+- Confirm name of collection.
+
+- Confirm unique identifier for collection.
+
+- Metadata preparation.
+
+- Set up collections on stage and production servers of DCMNY.
+<br/>
+<br/>
+
+**Project Management - on-site tasks:**
+<br/>
+On-site work at project partner locations was limited to two working weeks maximum. Tasks onsite included:
+<br/>
+<br/>
+
+- Assessment of item types in a collection to see which equipment was needed for digitization.
+
+- Creation of digital surrogates.
+
+- Basic metadata creation (identifier, title, description, size).
+
+- Preparation of small test-batch for ingest. This included images and metadata records for 5 items.
+
+- Quality assurance of scanned images (1 in every 10 images was tested).
+
+- Daily backup of images and metadata spreadsheet to external hard drive.
+
+- Daily statistics tracking - number of images created and number of items digitized.
+
+- Reconciliation of stats sheet to number of image files and items.
+<br/>
+<br/>
+Statistics tracking was invaluable in monitoring progress during each project to ensure that digitization could be completed on time or if not, to prioritize remaining items for inclusion.
+<br/>
+<br/>
+
+**Project Management - post on-site tasks:**
+<br/>
+Each collection needed to be finalized  before it was published online. Post-on-site work included different members of the team for different stages of the work, with the Digitization Specialist undertaking the bulk of the tasks:  
+<br/>
+<br/>
+
+- Metadata completion and review.
+
+- Image conversion to derivatives.
+
+- Derivative image editing (crop out color chart and resize).
+
+- Image backup (to second external hard drive or cloud solution).
+
+- Final reconciliation between statistics, metadata spreadsheet, master images and derivative images.
+
+- Convert metadata into required format for DCMNY.
+
+- Ingest of metadata and images into DCMNY production server.
+
+- Quality review (metadata and image display).
+
+- Collect and finalize collection information from project partner, such as collection description, logos etc.
+
+- Add information about collection to DCMNY collections spreadsheet.
+
+- Publish the collection so it is live/available online on DCMNY production server.
+
+- Quality review of collection by collection owner.
+
+- Final sign off by collection owner after any needed corrections and updates.
+
+- Publicity (see below).
+
+- Collection harvested for contribution to [DPLA](https://dp.la/).
+
+- Collection set up for sync with [Worldcat Digital Gateway](https://www.oclc.org/digital-gateway.en.html).
+
+- Send project partner copies of image files (master and derivatives) and metadata spreadsheet.
+<br/>
+<br/>
+
+**Publicizing Digitized Collections**
+<br/>
+It is important to build time into your workflow to publicize digitized collections once online. Ensuring  stakeholders and the public are aware that the the collections are accessible to potential audiences is just as important as the digitization itself.
+<br/>
+For Culture in Transit, we publicized the collections at various points throughout the process of working with a partner institution:
+<br/>
+<br/>
+
+- Immediately after digitization work was completed, the Digitization Specialist wrote a post for the Culture in Transit [blog](http://www.mnylc.org/cit/?cat=12), giving readers a glimpse into the collection, such as the subject matter, types of material and a few highlights from the collection.  
+
+- Once the collection was published on DCMNY, it was publicized on Culture in Transit’s [Twitter](https://twitter.com/DigitizeNYC) page with the link to the collection in DCMNY. The institution was notified so they could cross promote via their channels and a press release was issued, on the METRO website (which was also then promoted via METRO and Culture in Transit Twitter pages).
+
+- Once the collection’s records went live in DPLA, we promoted via Twitter with the link to the collection in DPLA. We also notified the institution of DPLA inclusion so they could cross promote via their channels.
+
+- Some institutions took advantage of the opportunity to highlight the digitized material shortly after digitization. For example, one institution was able to use their materials in community engagement events & in promotional materials for a local anniversary.
+<br/>
+<br/>
+
+**Time Management**
+<br/>
+Due to the time limited nature of our project, we often had work simultaneously with multiple project partners at varying stages of the process. Generally the timeline for working with partners followed this schedule:
+<br/>
+<br/>
+
+- 1-4 months prior: Initial screening interviews.
+
+- 1-3 months prior: Site visits.
+
+- 2 weeks prior: Finalizing details with the project partner re. collection name, metadata and rights statement(s).
+
+- On-site: Digital surrogate and metadata creation, including sending test images and metadata to Metadata Specialist at METRO for review.
+
+- 1-2 weeks post: Finalizing collection for ingest - metadata completion and derivative image editing (crop and resize).
+
+- 2-6 weeks post: Ingest of metadata and images into DCMNY. Obtain collection description and logo from project partner.
+
+- 6-10 weeks post: Quality review of collection, publication online, publicize.
+<br/>
+<br/>
+   
 [Back to top](#top)
 <br/>
 <br/>
