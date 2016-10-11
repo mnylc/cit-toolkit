@@ -89,7 +89,7 @@ Our approach to selection for Culture in Transit differed from a traditional dig
 <br/>
 Our approach to selecting  project partners consisted of the following:
 <br/>
-![Image of Selecting METRO Project Partners]
+![Image of Selecting METRO Project Partners]({{ "/assets/img/Institution - Section 1- Site Selection & Planning.jpg" | prepend: site.baseurl }})
 <br/>
 <br/>
 
@@ -131,7 +131,7 @@ We created an [interest form](https://docs.google.com/a/metro.org/forms/d/e/1FAI
 
 **Initial Screening Interview**
 <br/>
-After evaluating the interest forms based on eligibility and other basic criteria, we arranged phone conversations with eligible project partners and used an internal form to gather more detailed information.
+After evaluating the interest forms based on eligibility and other basic criteria, we arranged phone conversations with eligible project partners and used an [internal form]({{ "/assets/docs/01 - Institution_Questions for Culture in Transit Initial Screening Interview.pdf" || prepend: site.baseurl }}) to gather more detailed information.
 <br/>
 <br/>
 Topics covered in the initial screening interview were split into 3 main categories:
