@@ -9,7 +9,7 @@ permalink: /institutions/
 <br/>
 [Section One - Site Selection and Planning](#Section One - Site Selection and Planning)
 <br/>
-[Section Two - Workflow, Project and Time Management](#Section Two -Workflow, Project and Time Management)
+[Section Two - Workflow, Project and Time Management](#Section Two - Workflow, Project and Time Management)
 <br/>
 [Section Three - Standards and Practices: Digitization, Metadata and Rights](#Section Three - Standards and Practices: Digitization, Metadata and Rights)
 <br/>
@@ -235,7 +235,9 @@ We developed and executed the mobile digitization service with a small team of t
 <br/>
 Workflow documentation and tracking tools to monitor progress are a good way to ensure all  involved in a project are kept informed of progress and of their responsibilities.
 <br/>
+<br/>
 We created a visual aid of the end-to-end CIT workflow at METRO to help us understand and communicate the steps involved in the project.
+<br/>
 <br/>
 We used a checklist for every project partner we worked with to track every step of our work with them. It was kept in the team’s Google Drive folders, ensuring everyone had access to it.
 <br/>
@@ -244,6 +246,7 @@ We used a checklist for every project partner we worked with to track every step
 **Overall Project Management**
 <br/>
 Google Drive is an excellent tool for team collaboration and for sharing and editing project documentation. Google Drive allowed us an easier working relationship with some of our project partners. Some partners were involved in the creation of collection metadata and were able to edit the metadata spreadsheet while other work was being done.
+<br/>
 <br/>
 We used the task management tool [Asana](https://app.asana.com/) at METRO to track and manage project progress. Asana gives you the ability to create a ‘team’, add colleagues to that team and then create ‘projects’ in your team area. We created a project for every partner we worked with and used Asana to:
 <br/>
@@ -258,6 +261,7 @@ We used the task management tool [Asana](https://app.asana.com/) at METRO to tra
 - Store documentation in the project area.
 <br/>
 <br/>
+
 A tool such as Asana is similar to the checklist we developed. Both were used simultaneously, but Asana offered an added layer of functionality; it supported group discussions and time management and allowed us to add deadlines to specific tasks and be notified of those deadlines via email.
 <br/>
 <br/>
@@ -305,6 +309,7 @@ On-site work at project partner locations was limited to two working weeks maxim
 - Reconciliation of stats sheet to number of image files and items.
 <br/>
 <br/>
+
 Statistics tracking was invaluable in monitoring progress during each project to ensure that digitization could be completed on time or if not, to prioritize remaining items for inclusion.
 <br/>
 <br/>
@@ -355,6 +360,7 @@ Each collection needed to be finalized  before it was published online. Post-on-
 <br/>
 It is important to build time into your workflow to publicize digitized collections once online. Ensuring  stakeholders and the public are aware that the the collections are accessible to potential audiences is just as important as the digitization itself.
 <br/>
+<br/>
 For Culture in Transit, we publicized the collections at various points throughout the process of working with a partner institution:
 <br/>
 <br/>
@@ -390,7 +396,7 @@ Due to the time limited nature of our project, we often had work simultaneously 
 - 6-10 weeks post: Quality review of collection, publication online, publicize.
 <br/>
 <br/>
-   
+
 [Back to top](#top)
 <br/>
 <br/>
