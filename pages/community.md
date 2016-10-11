@@ -164,7 +164,6 @@ Including space for three chairs, at a minimum we need an estimated **60 square 
 
 ### Strategies
 <br/>
-<br/>
 **Media and Phone Banking Outreach**
 <br/>
 Many people hear about community scanning events from local community groups or branch librarians. We also get walk-ins, people who just happen to visit the library on the day of event and choose to participate after learning more. In the weeks leading up to the event we attempt to attract additional participation through:
