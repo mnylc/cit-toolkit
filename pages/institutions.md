@@ -428,11 +428,13 @@ A master file is a digital surrogate of an analog object. Scanned at high resolu
 *Project partners were given 300dpi access files for printing/reproduction purposes. Access files for web viewing are generally restricted to 72dpi.*
 <br/>
 <br/>
+
 **Image Referencing Tools:**
 <br/>
 Use a color target and/or ruler when digitizing. These tools ensure that the viewing environment for the master files can be adjusted to mimic the settings when the materials were digitized.
 <br/>
 <br/>
+
 **File Name Conventions:**
 <br/>
 Develop a standardized file naming convention, which adheres to existing institutional standards. Information to consider building into the logic of your file naming convention includes:
@@ -557,6 +559,154 @@ In addition, as all the content we digitized as part of Culture in Transit was c
 <br/>
 <br/>
 
+### Quantitative Tracking - Project Statistics
+<br/>
+The process of digitization is labor and time intensive. Keeping detailed statistics can be useful for forward project and resource planning. Three types of statistics evolved in our work with project partners during Culture in Transit - detailed daily statistics, overall project statistics and collection statistics.
+<br/>
+<br/>
+
+**Detailed Daily Productivity Statistics**
+<br/>
+At the outset of the project, a system was devised and implemented to enable daily tracking of the work that would be undertaken with project partners. The type of information tracked was;
+<br/>
+<br/>
+
+- Date of work.
+
+- Number of scanned images.
+
+- Number of photographed images.
+
+- Number of master images produced.
+
+- Number of RAW camera files converted to TIFFs.
+
+- Number of derivatives edited.
+
+- Number of metadata records produced.
+
+- Number of simple objects (items made up of 1 image).
+
+- Number of compound objects (items made up of 1+ images).
+
+- Notes.
+
+- Types of objects digitized.
+
+- Time taken to complete post-processing tasks.
+
+<br/>
+<br/>
+There were a few core reasons we chose to do this;
+<br/>
+<br/>
+
+- Project reconciliation: Detailed tracking like this allowed the ability to tally up between the metadata spreadsheet and the image files, ensuring there were the correct number of records and files. There were a few instances of numbers not tallying and having the daily statistics helped enormously in tracking down where the error had occurred and fixing it.
+
+- It demonstrated what was achievable in a set amount of time, with particular equipment. Copy stand work took longer due to the more involved set and capture process, which reflected in the project stats.
+
+- From understanding what was achievable in a set amount of time, it allowed us to set realistic expectations for projects going forward. In conversations with project partners during the latter part of Culture in Transit, we were able to set approximate numbers of items that could be digitized in the two-week period we had for on site work.
+
+<br/>
+<br/>
+METRO’s Culture in Transit productivity statistics
+<br/>
+<br/>
+
+**Overall Project Statistics**
+<br/>
+From the detailed daily statistics, we were able to create a statistics sheet showing productivity throughout the whole project, working with 10 different project partners. The type of information included for each project was;
+<br/>
+<br/>
+
+- Days on site at project partner.
+
+- Days needed for digitization.
+
+- Available hours for digitization (average hours per day).
+
+- Kit used (scanner or copy stand).
+
+- Amount of images digitized.
+
+- Number of unique items digitized.
+
+- Level of metadata creation.
+
+- Any post processing work done on site.
+
+- Average number of images digitized per day.
+
+- Types of material digitized.
+
+<br/>
+<br/>
+The biggest challenge with digitization can be estimating how long a project will take and these broader set of statistics offer information and data that is hopefully useful to others thinking of undertaking a digitization project, showing how much was achievable within a given timeframe, with differing variables of equipment used, amount of metadata needed to be completed and types of material to be digitized.
+<br/>
+<br/>
+METRO’s Culture in Transit project statistics
+<br/>
+<br/>
+
+**CIT Collection Information**
+<br/>
+Once the project partners collections were published on DCMNY, we kept separate collection statistics that differed from the types of detail in the other project statistics. These statistics tracked;
+<br/>
+<br/>
+
+- If institution is planning to add more items to the collection.
+
+- Date collection went live in DCMNY.
+
+- Date collection went live in DPLA.
+
+- Number of objects in the collection.
+
+- Number of compound objects in the collection.
+
+- Number of single file objects in the collection.
+
+- Name space/sub-domain of collection.
+
+- Name space/ collection name.
+
+<br/>
+<br/>
+Keeping this type of data was important primarily for our own internal uses but also for project reporting to our funders.
+<br/>
+<br/>
+METRO’s Culture in Transit collection information
+<br/>
+<br/>
+
+### Qualitative Tracking - Outcomes
+<br/>
+<br/>
+
+**Project Partner Feedback**
+<br/>
+For assessment purposes, we developed two feedback forms that we asked project partners to complete:
+<br/>
+<br/>
+Initial Feedback form:
+<br/>
+This feedback form was sent to the project partner after the on-site scanning portion of the project was completed. Through this form we gathered information on project communication, execution and experience of hosting the digitization specialist.
+<br/>
+<br/>
+Final Feedback form:
+<br/>
+This feedback form was sent to a project partner 2-3 months after the collection was available online in DCMNY and records were harvested and live in DPLA. Through this form we assessed the extent to which the project partner promoted the digitized content internally and externally once online, if the digitized collection had been used in any way by the institution, and if the institution felt it had achieved its goals in participating in the project or had any additional feedback.
+<br/>
+<br/>
+
+**Tracking and Reporting**
+<br/>
+Upon request, METRO provides monthly or quarterly usage reports of the online collections in DCMNY to project partners.
+<br/>
+<br/>
+If the functionality is available from the digital hosting platform/DAMS system to monitor traffic to a particular item or collection, that can be a good way to gauge use and popularity of material. A generic web analytics tool, such as Google Analytics or [PiWik](https://piwik.org/) can be used in place of a built in analytics tool. 
+<br/>
+<br/>
 [Back to top](#top)
 <br/>
 <br/>
