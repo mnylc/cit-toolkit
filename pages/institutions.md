@@ -24,6 +24,7 @@ permalink: /institutions/
 Institutional scanning for Culture in Transit was developed as a service for cultural heritage institutions. Activities included:
 <br/>
 <br/>
+
 - Onsite digitization & metadata creation for a small collection.
 
 - Collection hosting on [DCMNY](http://dcmny.org/), METRO’s digital hosting platform.
@@ -47,6 +48,7 @@ The service was primarily aimed at METRO member institutions that had little or 
 <br/>
 
 **What do we mean by 'institutional scanning'?**
+<br/>
 We developed the term 'institutional scanning' to differentiate the work done at METRO member institutions under the Knight Foundation Culture in Transit grant from the [community scanning](https://mnylc.github.io/cit-toolkit/community/) strand of the project. Institutional scanning refers to working with small cultural heritage institutions in METRO’s membership. This ranged from small private collecting institutions to community colleges to public libraries.
 <br/>
 <br/>
@@ -55,9 +57,11 @@ Under the grant, we had a one year activity period, with a goal of working with 
 <br/>
 
 **Who is this toolkit for?**
+<br/>
 The institutional toolkit is aimed at others who are interested in creating a replicable small-scale digitization service. Uses cases may include:
 <br/>
 <br/>
+
 - Library councils and consortia.
 
 - Individual institutions, such as an archive.
@@ -92,6 +96,7 @@ Our approach to selecting  project partners consisted of the following:
 We developed a [page](http://metro.org/culture-in-transit/) on the METRO website to offer information about:
 <br/>
 <br/>
+
 - The Culture in Transit project.
 
 - The service we could offer.
@@ -108,6 +113,7 @@ We developed a [page](http://metro.org/culture-in-transit/) on the METRO website
 We created an interest form for METRO members to express their interest in the mobile digitization service. We asked questions covering basic collection information including:
 <br/>
 <br/>
+
 - Description of materials.
 
 - Size of collection.
@@ -126,6 +132,7 @@ After evaluating the interest forms based on eligibility and other basic criteri
 Topics covered in the initial screening interview were split into 3 main categories:
 <br/>
 <br/>
+
 - Collection Information
 
     - We needed to understand the size of the collection, the type of materials in the collection, what metadata existed, the extent of arrangement/processing and if there were any prohibitive rights issues that would keep the material from being placed online.
@@ -146,6 +153,7 @@ Topics covered in the initial screening interview were split into 3 main categor
 The initial screening interviews helped us make an informed decision on the fit of the institution for the mobile digitization service by giving us a clearer picture of:
 <br/>
 <br/>
+
 - The suitability of the collection.
 
 - The total amount of material.
@@ -165,6 +173,7 @@ After the further information interviews, site visits were arranged with institu
 Site visits allowed us to:
 <br/>
 <br/>
+
 - View the collection and better understand its size, quantity, and condition.
 
 - Assess the institution’s physical working space.  
@@ -177,6 +186,7 @@ Site visits allowed us to:
 Once an institution was selected as a project partner, we sent a confirmation email with approximate dates for onsite work. In the intervening period, final arrangements were made, including:
 <br/>
 <br/>
+
 - Logistics for the on-site work:
 
     - Confirmation of dates.
