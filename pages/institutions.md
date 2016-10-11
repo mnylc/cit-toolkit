@@ -465,7 +465,9 @@ For Culture in Transit we developed a filename structure that included:
 
 <br/>
 <br/>
+
 ### Metadata
+<br/>
 Metadata is an integral part of any digitization project and should follow a recognized metadata schema. Metadata was by far the most time-consuming part of the work with our project partners and is just as important in project planning as the digitization work.
 <br/>
 <br/>
@@ -537,11 +539,13 @@ METRO’s DCMNY metadata is based on the [MODS schema](http://www.loc.gov/standa
 
 <br/>
 <br/>
+
 ### Copyright
+<br/>
 Any digitization project requires copyright considerations and the application of appropriate statements of use for digitized material. All material digitized as part of Culture in Transit had to be made freely accessible online, so was either in the public domain, the institution controlled the rights to the materials, they had permission from the rightsholder, or they assessed the risk and/or made the content available under fair use.
 <br/>
 <br/>
-In addition, as all the content we digitized as part of Culture in Transit was contributed to Digital Public Library of America, we attempted to align the rights statements in our metadata records with [RightsStatements.org](http://rightsstatements.org/en/), DPLA’s set of standardized rights statements for online cultural heritage. However, [RightsStatements.org](http://rightsstatements.org/en/) did not launch until late into our project, therefore not all of project digitized collections align with these rights statements as of this writing. 
+In addition, as all the content we digitized as part of Culture in Transit was contributed to Digital Public Library of America, we attempted to align the rights statements in our metadata records with [RightsStatements.org](http://rightsstatements.org/en/), DPLA’s set of standardized rights statements for online cultural heritage. However, [RightsStatements.org](http://rightsstatements.org/en/) did not launch until late into our project, therefore not all of project digitized collections align with these rights statements as of this writing.
 <br/>
 <br/>
 [Back to top](#top)
