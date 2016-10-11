@@ -25,25 +25,27 @@ Institutional scanning for Culture in Transit was developed as a service for cul
 <br/>
 <br/>
 
-  - Onsite digitization & metadata creation for a small collection.
+- Onsite digitization & metadata creation for a small collection.
 
-  - Collection hosting on [DCMNY](http://dcmny.org/), METRO’s digital hosting platform.
+- Collection hosting on [DCMNY](http://dcmny.org/), METRO’s digital hosting platform.
 
-  - Contribution of records for all digitized items to the [Digital Public Library of America](https://dp.la/) (DPLA) and [Worldcat Digital Gateway](https://www.oclc.org/digital-gateway.en.html).
+- Contribution of records for all digitized items to the [Digital Public Library of America](https://dp.la/) (DPLA) and [Worldcat Digital Gateway](https://www.oclc.org/digital-gateway.en.html).
 
-  - Provide copies of the images to the local institution:the master files (TIFFs) for preservation, derivative versions (jp2s or jpegs) and metadata.
+- Provide copies of the images to the local institution:the master files (TIFFs) for preservation, derivative versions (jp2s or jpegs) and metadata.
 <br/>
 <br/>
+
 The service was primarily aimed at METRO member institutions that had little or no experience with digitizing their collections. Priority was given to those faced with some combination of the following circumstances:
+
 <br/>
 <br/>
-  - Had no digitization equipment or budget to purchase.
+- Had no digitization equipment or budget to purchase.
 
-  - Did not have the staff expertise to undertake digitization work.
+- Did not have the staff expertise to undertake digitization work.
 
-  - Had no budget to outsource digitization work.
+- Had no budget to outsource digitization work.
 
-  - Lacked staff time or necessary support to undertake digitization projects/planning.
+- Lacked staff time or necessary support to undertake digitization projects/planning.
 <br/>
 <br/>
 
@@ -62,13 +64,13 @@ The institutional toolkit is aimed at others who are interested in creating a re
 <br/>
 <br/>
 
-  - Library councils and consortia.
+- Library councils and consortia.
 
-  - Individual institutions, such as an archive.
+- Individual institutions, such as an archive.
 
-  - Academic institutions with multiple campuses or distributed locations.
+- Academic institutions with multiple campuses or distributed locations.
 
-  - Historical societies.
+- Historical societies.
 <br/>
 <br/>
 
@@ -97,34 +99,36 @@ We developed a [page](http://metro.org/culture-in-transit/) on the METRO website
 <br/>
 <br/>
 
-  - The Culture in Transit project.
+- The Culture in Transit project.
 
-  - The service we could offer.
+- The service we could offer.
 
-  - What was expected of the project partner.
+- What was expected of the project partner.
 
-  - What we could and could not digitize.
+- What we could and could not digitize.
 
-  - Guidelines for collection selection.
+- Guidelines for collection selection.
 <br/>
 <br/>
+
 **Interest Form**
 <br/>
 We created an interest form for METRO members to express their interest in the mobile digitization service. We asked questions covering basic collection information including:
 <br/>
 <br/>
 
-  - Description of materials.
+- Description of materials.
 
-  - Size of collection.
+- Size of collection.
 
-  - Extent to which collection was organized and processed.
+- Extent to which collection was organized and processed.
 
-  - Previous digitization work.
+- Previous digitization work.
 
-  - Confirmation that the institution was willing to contribute metadata to DPLA.
+- Confirmation that the institution was willing to contribute metadata to DPLA.
 <br/>
 <br/>
+
 **Initial Screening Interview**
 <br/>
 After evaluating the interest forms based on eligibility and other basic criteria, we arranged phone conversations with eligible project partners and used an internal form to gather more detailed information.
@@ -133,38 +137,40 @@ Topics covered in the initial screening interview were split into 3 main categor
 <br/>
 <br/>
 
-  - Collection Information
+- Collection Information
 
-      - We needed to understand the size of the collection, the type of materials in the collection, what metadata existed, the extent of arrangement/processing and if there were any prohibitive rights issues that would keep the material from being placed online.
+    - We needed to understand the size of the collection, the type of materials in the collection, what metadata existed, the extent of arrangement/processing and if there were any prohibitive rights issues that would keep the material from being placed online.
 
-      - A key part of the project was contribution of the online records to [DPLA](https://dp.la/). The initial screening interview was important in explaining this to potential partners and ensuring they understood the process involved from securing a permission letter to make all metadata available under a Creative Commons CC0 license, to aligning metadata and rights statements in accordance with DPLA guidelines. We worked with project partners to implement the appropriate rights statements, but it was the responsibility of the partner to ensure the collection put forward for digitization had no restrictive rights issues and could be displayed publicly online.   
-
-
-  - Previously Digitized Materials
-
-      - We prioritized institutions who had not previously undertaken digitization. We asked what each institution had already digitized, if digitized materials were online, and if the institution had a digitization strategy for their collections. However, we did not eliminate institutions on the sole basis of having previously digitized collections.
+    - A key part of the project was contribution of the online records to [DPLA](https://dp.la/). The initial screening interview was important in explaining this to potential partners and ensuring they understood the process involved from securing a permission letter to make all metadata available under a Creative Commons CC0 license, to aligning metadata and rights statements in accordance with DPLA guidelines. We worked with project partners to implement the appropriate rights statements, but it was the responsibility of the partner to ensure the collection put forward for digitization had no restrictive rights issues and could be displayed publicly online.   
 
 
-  - Institution and Staffing Information
+- Previously Digitized Materials
 
-      - This section allowed us to gather logistical information about the institution including public transportation options, availability of workspace for digitization, a secure space for the digitization equipment when not in use, and a contact person at the institution, who clearly understood the project and the responsibilities on the part of the institution, and who would also be present during the majority of our time on-site.
+    - We prioritized institutions who had not previously undertaken digitization. We asked what each institution had already digitized, if digitized materials were online, and if the institution had a digitization strategy for their collections. However, we did not eliminate institutions on the sole basis of having previously digitized collections.
+
+
+- Institution and Staffing Information
+
+    - This section allowed us to gather logistical information about the institution including public transportation options, availability of workspace for digitization, a secure space for the digitization equipment when not in use, and a contact person at the institution, who clearly understood the project and the responsibilities on the part of the institution, and who would also be present during the majority of our time on-site.
 <br/>
 <br/>
+
 The initial screening interviews helped us make an informed decision on the fit of the institution for the mobile digitization service by giving us a clearer picture of:
 <br/>
 <br/>
 
-  - The suitability of the collection.
+- The suitability of the collection.
 
-  - The total amount of material.
+- The total amount of material.
 
-  - Any conservation concerns.
+- Any conservation concerns.
 
-  - To what extent metadata existed for the collection and what might need to be done to complete it on the part of institution and CIT staff.
+- To what extent metadata existed for the collection and what might need to be done to complete it on the part of institution and CIT staff.
 
-  - Capability and willingness of staff to undertake necessary work to ensure successful participation in the project.
+- Capability and willingness of staff to undertake necessary work to ensure successful participation in the project.
 <br/>
 <br/>
+
 **Site Visit**
 <br/>
 After the further information interviews, site visits were arranged with institutions that seemed viable as Culture in Transit participants.
@@ -174,30 +180,31 @@ Site visits allowed us to:
 <br/>
 <br/>
 
-  - View the collection and better understand its size, quantity, and condition.
+- View the collection and better understand its size, quantity, and condition.
 
-  - Assess the institution’s physical working space.  
+- Assess the institution’s physical working space.  
 
-  - Answer any questions the institution had regarding the project.
+- Answer any questions the institution had regarding the project.
 <br/>
 <br/>
+
 **Pre On-site Communication**
 <br/>
 Once an institution was selected as a project partner, we sent a confirmation email with approximate dates for onsite work. In the intervening period, final arrangements were made, including:
 <br/>
 <br/>
 
-  - Logistics for the on-site work:
+- Logistics for the on-site work:
 
-      - Confirmation of dates.
+    - Confirmation of dates.
 
-      - Arrival time on first day.
+    - Arrival time on first day.
 
-      - Expected length of time on-site.
+    - Expected length of time on-site.
 
-  - Discussion regarding metadata for the project. Metadata guidelines and a blank metadata spreadsheet were shared with the institution if they were assisting in creation of metadata.
+- Discussion regarding metadata for the project. Metadata guidelines and a blank metadata spreadsheet were shared with the institution if they were assisting in creation of metadata.
 
-  - Permission letter signed by the institution for DPLA contribution was required before any on-site work could begin.
+- Permission letter signed by the institution for DPLA contribution was required before any on-site work could begin.
 <br/>
 <br/>
 
