@@ -42,7 +42,7 @@ This list includes everything that makes up our mobile copy stand kit. A [comple
 This list is representative of our copy stand kit, but is not an endorsement for specific products. Please refer to the [complete equipment inventory](https://docs.google.com/spreadsheets/d/1ASXu0ps3BrqrjYUC8LhvxPvBK6h6OCs9qLuDLNxKu0c/edit?usp=sharing) for comments about specific items.
 <br/>
 <br/>
-[Culture in Transit Copy Stand Kit List]({{ "assets\docs\02 - Equipment_Culture in Transit Copy Stand Kit List.pdf" | prepend: site.baseurl }})
+[Culture in Transit Copy Stand Kit List]({{ "/assets/docs/02 - Equipment_Culture in Transit Copy Stand Kit List.pdf" | prepend: site.baseurl }})
 <br/>
 <br/>
 
