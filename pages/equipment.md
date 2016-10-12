@@ -127,8 +127,6 @@ We used our [blog](http://www.mnylc.org/cit/) to record our experiences of compi
 
 - [Culture in Transit Community Mobile Digitization Kit Equipment List.]({{ "/assets/docs/04 - Equipment_Culture in Transit Community Mobile Digitization Kit Equipment List.pdf" | prepend: site.baseurl }})
 
-- [Culture in Transit Institution Mobile Digitization Kit Equipment List.]({{ "/assets/docs/05 - Equipment_Culture in Transit Institution Mobile Digitization Kit Equipment List.pdf" | prepend: site.baseurl }})
-
 - [Comparison Table: V600 and V800 Epson Scanners.]({{ "/assets/docs/06 - Equipment_Comparison Table Epson Scanners V600 and V800.pdf" | prepend: site.baseurl }})
 
 <br/>
