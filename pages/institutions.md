@@ -611,7 +611,7 @@ There were a few core reasons we chose to do this;
 
 <br/>
 <br/>
-METRO’s Culture in Transit Productivity Statistics
+[METRO’s Culture in Transit Productivity Statistics]({{ "assets/docs/06 - Institution_METRO's Culture in Transit Productivity Statistics.xlsx" || prepend: site.baseurl }})
 <br/>
 <br/>
 
@@ -690,14 +690,14 @@ Keeping this type of data was important primarily for our own internal uses but 
 For assessment purposes, we developed two feedback forms that we asked project partners to complete:
 <br/>
 <br/>
-[Initial Feedback form:](https://docs.google.com/a/metro.org/forms/d/e/1FAIpQLSd_mrFwKuf1oyW5yjEpBJ4ot1osXt-u6LEbG_VzfWhoqlU0bw/viewform)
+[Initial Feedback Form for Project Partners:](https://docs.google.com/a/metro.org/forms/d/e/1FAIpQLSd_mrFwKuf1oyW5yjEpBJ4ot1osXt-u6LEbG_VzfWhoqlU0bw/viewform)
 <br/>
 This feedback form was sent to the project partner after the on-site scanning portion of the project was completed. Through this form we gathered information on project communication, execution and experience of hosting the digitization specialist.
 <br/>
 <br/>
-[Final Feedback form:](https://docs.google.com/a/metro.org/forms/d/e/1FAIpQLScq9y2NJ1PdoxqenhopSJD91b70z0N3rXicGoIEnAhw8UJc2w/viewform)
+[Final Feedback Form for Project Partners:](https://docs.google.com/a/metro.org/forms/d/e/1FAIpQLScq9y2NJ1PdoxqenhopSJD91b70z0N3rXicGoIEnAhw8UJc2w/viewform)
 <br/>
-This feedback form was sent to a project partner 2-3 months after the collection was available online in DCMNY and records were harvested and live in DPLA. Through this form we assessed the extent to which the project partner promoted the digitized content internally and externally once online, if the digitized collection had been used in any way by the institution, and if the institution felt it had achieved its goals in participating in the project or had any additional feedback.
+This feedback form was sent to the project partner 2-3 months after the collection was available online in DCMNY and records were harvested and live in DPLA. Through this form we assessed the extent to which the project partner promoted the digitized content internally and externally once online, if the digitized collection had been used in any way by the institution, and if the institution felt it had achieved its goals in participating in the project or had any additional feedback.
 <br/>
 <br/>
 
@@ -715,9 +715,34 @@ If the functionality is available from the digital hosting platform/DAMS system 
 <br/>
 
 ## <a name="Section Five - Resources"></a>Section Five - Resources
+Below is a list of all resources developed and used for community scanning events. These resources are located throughout this section but this list provides a quick-glance locator for the resources.
 <br/>
 <br/>
 
+- [METRO Culture in Transit Interest Form.](https://docs.google.com/a/metro.org/forms/d/e/1FAIpQLSeu7FvqA6nTh8it9lOBt3JPDp2F_PURquCPZqwPUlY9OYsvRw/viewform)
+
+- [Questions for Culture in Transit Initial Screening Interview.]({{ "/assets/docs/01 - Institution_Questions for Culture in Transit Initial Screening Interview.pdf" | prepend: site.baseurl }})
+
+- [METRO Culture in Transit Workflow Document.]({{ "/assets/docs/02 - Institution_METRO Culture in Transit workflow document.pdf" | prepend: site.baseurl }})
+
+- [METRO Culture in Transit Checklist Template.]({{ "/assets/docs/03 - Institution_METRO Culture in Transit checklist template.pdf" | prepend: site.baseurl }})
+
+- [METRO DCMNY Metadata Requirements and Guidelines.]({{ "/assets/docs/04 - Institution_METRO DCMNY Metadata Requirements and Guidelines.pdf" | prepend: site.baseurl }})
+
+- [METRO DCMNY Metadata Spreadsheet Blank.]({{ "/assets/docs/05 - Institution_Digital Culture Metadata Spreadsheet_blank.xlsx" | prepend: site.baseurl }})
+
+- [METRO’s Culture in Transit Productivity Statistics.]({{ "/assets/docs/06 - Institution_METRO's Culture in Transit Productivity Statistics.xlsx" | prepend: site.baseurl }})
+
+- [METRO’s Culture in Transit Project Statistics.]({{ "/assets/docs/07 - Institution_METRO Overall Project Statistics.pdf" | prepend: site.baseurl }})
+
+- [METRO’s Culture in Transit Collection Information.]({{ "/assets/docs/08 - Institution_METRO CIT Collection Information.pdf" | prepend: site.baseurl }})
+
+- [METRO’s Culture in Transit Initial Feedback Form for Project Partners.](https://docs.google.com/a/metro.org/forms/d/e/1FAIpQLSd_mrFwKuf1oyW5yjEpBJ4ot1osXt-u6LEbG_VzfWhoqlU0bw/viewform)
+
+- [METRO’s Culture in Transit Final Feedback Form for Project Partners.](https://docs.google.com/a/metro.org/forms/d/e/1FAIpQLScq9y2NJ1PdoxqenhopSJD91b70z0N3rXicGoIEnAhw8UJc2w/viewform)
+
+<br/>
+<br/>
 [Back to top](#top)
 <br/>
 <br/>
