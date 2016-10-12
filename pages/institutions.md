@@ -611,7 +611,7 @@ There were a few core reasons we chose to do this;
 
 <br/>
 <br/>
-[METRO’s Culture in Transit Productivity Statistics]({{ "assets/docs/06 - Institution_METRO's Culture in Transit Productivity Statistics.xlsx" || prepend: site.baseurl }})
+[METRO’s Culture in Transit Productivity Statistics]({{ "/assets/docs/06 - Institution_METRO's Culture in Transit Productivity Statistics.xlsx" || prepend: site.baseurl }})
 <br/>
 <br/>
 
