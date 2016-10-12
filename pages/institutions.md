@@ -13,7 +13,7 @@ permalink: /institutions/
 <br/>
 [Section Three - Standards and Practices: Digitization, Metadata and Rights](#Section Three - Standards and Practices: Digitization, Metadata and Rights)
 <br/>
-[Section Four - Assessments and Outcomes](#Section Four - Assessments and Outcomes)
+[Section Four - Assessment and Outcomes](#Section Four - Assessment and Outcomes)
 <br/>
 [Section Five - Resources](#Section Five - Resources)
 <br/>
@@ -557,7 +557,7 @@ In addition, as all the content we digitized as part of Culture in Transit was c
 <br/>
 <br/>
 
-## <a name="Section Four - Assessments and Outcomes"></a>Section Four - Assessments and Outcomes
+## <a name="Section Four - Assessment and Outcomes"></a>Section Four - Assessment and Outcomes
 <br/>
 <br/>
 
