@@ -137,15 +137,15 @@ We used our [blog](http://www.mnylc.org/cit/) to record our experiences of compi
 **Culture in Transit Equipment Guidelines**
 <br/>
 
-- []()
+- [Culture in Transit Camera Settings Guidelines for Canon EOS Rebel T5.]({{ "/assets/docs/07 - Equipment_Camera Settings Guidelines for Canon EOS Rebel T5.pdf" | prepend: site.baseurl }})
 
-- []()
+- [Workflow for Using EOS Utility Software for Copy Stand Work.]({{ "/assets/docs/08 - Equipment_Workflow using EOS Utility Software for copystand work.pdf" | prepend: site.baseurl }})
 
-- []()
+- [Tips on Using Silverfast with the Epson V Series Scanners.]({{ "/assets/docs/09 - Equipment_Tips on using Silverfast with the Epson V Series scanners.pdf" | prepend: site.baseurl }})
 
-- []()
+- [Epson Silverfast Pre-Scan Function.]({{ "/assets/docs/10 - Equipment_Epson Silverfast Pre-Scan function.pdf" | prepend: site.baseurl }})
 
-- []()
+- [Workflow for Using Epson V Series Scanners with Silverfast.]({{ "/assets/docs/11 - Equipment_Workflow Using the Epson V Series Scanners with Silverfast.pdf" | prepend: site.baseurl }})
 
 <br/>
 <br/>
