@@ -47,6 +47,10 @@ permalink: /equipment/
 <br/>
 
 ## <a name="Culture in Transit: Master Equipment Inventory"></a>Culture in Transit: Master Equipment Inventory
+We developed a master equipment inventory to track every piece of equipment we considered for our mobile digitization kits. The inventory contains every item we purchased for our kits, with details on which kit the equipment was used in, the product ID, cost (as at March 2016), where we bought it from and any comments about the item.
+<br/>
+<br/>
+[Culture in Transit Master Equipment Inventory](https://docs.google.com/spreadsheets/d/1ASXu0ps3BrqrjYUC8LhvxPvBK6h6OCs9qLuDLNxKu0c/edit?usp=sharing)
 <br/>
 <br/>
 
