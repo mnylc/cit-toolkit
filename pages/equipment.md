@@ -82,6 +82,43 @@ We developed a master equipment inventory to track every piece of equipment we c
 <br/>
 <br/>
 
+### Blog Posts about Equipment
+<br/>
+We used our [blog](http://www.mnylc.org/cit/) to record our experiences of compiling mobile digitization kits and also to review certain items of the equipment we purchased. Below are a list of posts we have written about our equipment that people may find useful/helpful.
+<br/>
+<br/>
+
+- [Equipment Review: Digitization Solution for Lantern Slides and Glass Plate Negatives, July 2016](http://www.mnylc.org/cit/?p=829)
+
+- [Equipment Review: Epson V800 Flatbed Scanner, April 2016](http://www.mnylc.org/cit/?p=776)
+
+- [Equipment Review: Epson V600 Flatbed Scanner, March 2016](http://www.mnylc.org/cit/?p=759)
+
+- [Facilitating Born-Digital Donations from Cell Phones, March 2016](http://www.mnylc.org/cit/?p=703)
+
+- [Thoughts on Copy Stands & Community Events, January 2016](http://www.mnylc.org/cit/?p=610)
+
+- [Our Mobile Copy Stand: The Review, January 2016](http://www.mnylc.org/cit/?p=599)
+
+- [The Great Equipment Weigh In, January 2016](http://www.mnylc.org/cit/?p=568)
+
+- [So, what’s in a kit? New & Updated, December 2015](http://www.mnylc.org/cit/?p=511)
+
+- [Moving Towards Interactive Community Events, November 2015](http://www.mnylc.org/cit/?p=478)
+
+- [Portable Book & Document Scanners: The Dilemma](http://www.mnylc.org/cit/?p=388)
+
+- [Equipment Review: Dell M2800 Laptop, September 2015](http://www.mnylc.org/cit/?p=300)
+
+- [Recent Problems with my Epson V600 Scanner, August 2015](http://www.mnylc.org/cit/?p=242)
+
+- [So What’s in a Kit?, July 2015](http://www.mnylc.org/cit/?p=185)
+
+- [CIT Visits NYPL Labs, July 2015](http://www.mnylc.org/cit/?p=164)
+
+<br/>
+<br/>
+
 [Back to top](#top)
 <br/>
 <br/>
