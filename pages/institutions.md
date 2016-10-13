@@ -4,26 +4,26 @@ permalink: /institutions/
 ---
 
 <a name="top"></a>
-<br/>
+
 [Introduction](#Introduction)
-<br/>
+
 [Section One - Site Selection and Planning](#Section One - Site Selection and Planning)
-<br/>
+
 [Section Two - Workflow, Project and Time Management](#Section Two - Workflow, Project and Time Management)
-<br/>
+
 [Section Three - Standards and Practices: Digitization, Metadata and Rights](#Section Three - Standards and Practices: Digitization, Metadata and Rights)
-<br/>
+
 [Section Four - Assessment and Outcomes](#Section Four - Assessment and Outcomes)
-<br/>
+
 [Section Five - Resources](#Section Five - Resources)
-<br/>
-<br/>
-<br/>
+
+
+
 
 ## <a name="Introduction"></a>Introduction
 Institutional scanning for Culture in Transit was developed as a service for cultural heritage institutions. Activities included:
-<br/>
-<br/>
+
+
 
 - Onsite digitization & metadata creation for a small collection.
 
@@ -32,12 +32,12 @@ Institutional scanning for Culture in Transit was developed as a service for cul
 - Contribution of records for all digitized items to the [Digital Public Library of America](https://dp.la/) (DPLA) and [Worldcat Digital Gateway](https://www.oclc.org/digital-gateway.en.html).
 
 - Provide copies of the images to the local institution:the master files (TIFFs) for preservation, derivative versions (jp2s or jpegs) and metadata.
-<br/>
-<br/>
+
+
 
 The service was primarily aimed at METRO member institutions that had little or no experience with digitizing their collections. Priority was given to those faced with some combination of the following circumstances:
-<br/>
-<br/>
+
+
 
 - Had no digitization equipment or budget to purchase.
 
@@ -46,23 +46,23 @@ The service was primarily aimed at METRO member institutions that had little or 
 - Had no budget to outsource digitization work.
 
 - Lacked staff time or necessary support to undertake digitization projects/planning.
-<br/>
-<br/>
+
+
 
 **What do we mean by 'institutional scanning'?**
-<br/>
+
 We developed the term 'institutional scanning' to differentiate the work done at METRO member institutions under the Knight Foundation Culture in Transit grant from the [community scanning](https://mnylc.github.io/cit-toolkit/community/) strand of the project. Institutional scanning refers to working with small cultural heritage institutions in METRO’s membership. This ranged from small private collecting institutions to community colleges to public libraries.
-<br/>
-<br/>
+
+
 Under the grant, we had a one year activity period, with a goal of working with 10-15 institutions. The time-limited nature of the project saw us work with about one institution per month, however, this limited us to a 2 week maximum on-site visit. We typically digitized small collections, but encompassing a wide range of formats, from manuscripts, photos, lantern slides, glass plate negatives and oversize items such as posters. Section 4 of this toolkit covers in more detail the amount and types of material digitized in the given time frame.
-<br/>
-<br/>
+
+
 
 **Who is this toolkit for?**
-<br/>
+
 The institutional toolkit is aimed at others who are interested in creating a replicable small-scale digitization service. Uses cases may include:
-<br/>
-<br/>
+
+
 
 - Library councils and consortia.
 
@@ -71,33 +71,33 @@ The institutional toolkit is aimed at others who are interested in creating a re
 - Academic institutions with multiple campuses or distributed locations.
 
 - Historical societies.
-<br/>
-<br/>
+
+
 
 ***The content in the Institution Section of this toolkit was authored by Caroline Catchpole, Culture in Transit Mobile Digitization Specialist for METRO.***
-<br/>
-<br/>
+
+
 
 [Back to top](#top)
-<br/>
-<br/>
-<br/>
+
+
+
 
 ## <a name="Section One - Site Selection and Planning"></a>Section One - Site Selection and Planning
 Our approach to selection for Culture in Transit differed from a traditional digitization project where the focus is typically centered on things like demand for use or fragility of the materials. For Culture in Transit we also needed to consider the coherence of the materials for purposes of presenting them online as a small digital collection, as well as the suitability of the project partner and the working environment they could provide.
-<br/>
-<br/>
+
+
 Our approach to selecting  project partners consisted of the following:
-<br/>
+
 ![Image of Selecting METRO Project Partners]({{ "/assets/img/Institution - Section 1- Site Selection & Planning.jpg" | prepend: site.baseurl }})
-<br/>
-<br/>
+
+
 
 **Selection criteria and guidance for METRO members**
-<br/>
+
 We developed a [page](http://metro.org/culture-in-transit/) on the METRO website to offer information about:
-<br/>
-<br/>
+
+
 
 - The Culture in Transit project.
 
@@ -108,14 +108,14 @@ We developed a [page](http://metro.org/culture-in-transit/) on the METRO website
 - What we could and could not digitize.
 
 - Guidelines for collection selection.
-<br/>
-<br/>
+
+
 
 **Interest Form**
-<br/>
+
 We created an [interest form](https://docs.google.com/a/metro.org/forms/d/e/1FAIpQLSeu7FvqA6nTh8it9lOBt3JPDp2F_PURquCPZqwPUlY9OYsvRw/viewform) for METRO members to express their interest in the mobile digitization service. We asked questions covering basic collection information including:
-<br/>
-<br/>
+
+
 
 - Description of materials.
 
@@ -126,17 +126,17 @@ We created an [interest form](https://docs.google.com/a/metro.org/forms/d/e/1FAI
 - Previous digitization work.
 
 - Confirmation that the institution was willing to contribute metadata to DPLA.
-<br/>
-<br/>
+
+
 
 **Initial Screening Interview**
-<br/>
+
 After evaluating the interest forms based on eligibility and other basic criteria, we arranged phone conversations with eligible project partners and used an [internal form]({{ "/assets/docs/01 - Institution_Questions for Culture in Transit Initial Screening Interview.pdf" || prepend: site.baseurl }}) to gather more detailed information.
-<br/>
-<br/>
+
+
 Topics covered in the initial screening interview were split into 3 main categories:
-<br/>
-<br/>
+
+
 
 - Collection Information
 
@@ -153,12 +153,12 @@ Topics covered in the initial screening interview were split into 3 main categor
 - Institution and Staffing Information
 
     - This section allowed us to gather logistical information about the institution including public transportation options, availability of workspace for digitization, a secure space for the digitization equipment when not in use, and a contact person at the institution, who clearly understood the project and the responsibilities on the part of the institution, and who would also be present during the majority of our time on-site.
-<br/>
-<br/>
+
+
 
 The initial screening interviews helped us make an informed decision on the fit of the institution for the mobile digitization service by giving us a clearer picture of:
-<br/>
-<br/>
+
+
 
 - The suitability of the collection.
 
@@ -169,31 +169,31 @@ The initial screening interviews helped us make an informed decision on the fit 
 - To what extent metadata existed for the collection and what might need to be done to complete it on the part of institution and CIT staff.
 
 - Capability and willingness of staff to undertake necessary work to ensure successful participation in the project.
-<br/>
-<br/>
+
+
 
 **Site Visit**
-<br/>
+
 After the further information interviews, site visits were arranged with institutions that seemed viable as Culture in Transit participants.
-<br/>
-<br/>
+
+
 Site visits allowed us to:
-<br/>
-<br/>
+
+
 
 - View the collection and better understand its size, quantity, and condition.
 
 - Assess the institution’s physical working space.  
 
 - Answer any questions the institution had regarding the project.
-<br/>
-<br/>
+
+
 
 **Pre On-site Communication**
-<br/>
+
 Once an institution was selected as a project partner, we sent a confirmation email with approximate dates for onsite work. In the intervening period, final arrangements were made, including:
-<br/>
-<br/>
+
+
 
 - Logistics for the on-site work:
 
@@ -206,54 +206,54 @@ Once an institution was selected as a project partner, we sent a confirmation em
 - Discussion regarding metadata for the project. Metadata guidelines and a blank metadata spreadsheet were shared with the institution if they were assisting in creation of metadata.
 
 - Permission letter signed by the institution for DPLA contribution was required before any on-site work could begin.
-<br/>
-<br/>
+
+
 
 [Back to top](#top)
-<br/>
-<br/>
-<br/>
+
+
+
 
 ## <a name="Section Two - Workflow, Project and Time Management"></a>Section Two - Workflow, Project and Time Management
 Project planning for the mobile digitization service involved both METRO’s project team and the project partner (the institution who received the digitization service).
-<br/>
-<br/>
+
+
 **METRO's Project Team**
-<br/>
+
 We developed and executed the mobile digitization service with a small team of three that included:
-<br/>
-<br/>
+
+
 
 - Digitization Specialist: Responsible for selection of project partners, the majority of pre on-site, on-site and post on-site work (specific tasks set out below).
 
 - Metadata Specialist: Responsible for ingest of images and metadata into [DCMNY](http://dcmny.org/).
 
 - Project Manager: Responsible for overall management of the project, oversight of Digitization and Metadata Specialists, guidance and final selection of project partners.
-<br/>
-<br/>
+
+
 
 **Workflow Management**
-<br/>
+
 Workflow documentation and tracking tools to monitor progress are a good way to ensure all involved in a project are kept informed of progress and of their responsibilities.
-<br/>
-<br/>
+
+
 We created a [visual aid]({{ "/assets/docs/02 - Institution_METRO Culture in Transit workflow document.pdf" || prepend: site.baseurl }}) of the end-to-end CIT workflow at METRO to help us understand and communicate the steps involved in the project.
-<br/>
+
 ![Image of METRO Workflow]({{ "/assets/img/Institution - Section 2 - METRO Culture in Transit workflow.jpg" | prepend: site.baseurl }})
-<br/>
-<br/>
+
+
 We used a [checklist]({{ "/assets/docs/03 - Institution_METRO Culture in Transit checklist template.pdf" || prepend: site.baseurl }}) for every project partner we worked with to track every step of our work with them (detailed in the checklist are METRO centric tasks). It was kept in the team’s Google Drive folders, ensuring everyone had access to it.
-<br/>
-<br/>
+
+
 
 **Overall Project Management**
-<br/>
+
 Google Drive is an excellent tool for team collaboration and for sharing and editing project documentation. Google Drive allowed us an easier working relationship with some of our project partners. Some partners were involved in the creation of collection metadata and were able to edit the metadata spreadsheet while other work was being done.
-<br/>
-<br/>
+
+
 We used the task management tool [Asana](https://app.asana.com/) at METRO to track and manage project progress. Asana gives you the ability to create a ‘team’, add colleagues to that team and then create ‘projects’ in your team area. We created a project for every partner we worked with and used Asana to:
-<br/>
-<br/>
+
+
 
 - Assign tasks to different team members for different project steps.
 
@@ -262,18 +262,18 @@ We used the task management tool [Asana](https://app.asana.com/) at METRO to tra
 - Set deadlines for tasks.
 
 - Store documentation in the project area.
-<br/>
-<br/>
+
+
 
 A tool such as Asana is similar to the checklist we developed. Both were used simultaneously, but Asana offered an added layer of functionality; it supported group discussions and time management and allowed us to add deadlines to specific tasks and be notified of those deadlines via email.
-<br/>
-<br/>
+
+
 
 **Project Management - pre on-site tasks:**
-<br/>
+
 Pre-onsite planning should equip you with enough knowledge of a collection, particularly the extent of any metadata that already exists and the number of items in the collection, to ensure a smooth transition to digitization. Tasks before digitization commenced included:
-<br/>
-<br/>
+
+
 
 - Secure signed DPLA permission letter from partner institution.
 
@@ -286,14 +286,14 @@ Pre-onsite planning should equip you with enough knowledge of a collection, part
 - Metadata preparation.
 
 - Set up collections on stage and production servers of DCMNY.
-<br/>
-<br/>
+
+
 
 **Project Management - on-site tasks:**
-<br/>
+
 On-site work at project partner locations was limited to two working weeks maximum. Tasks onsite included:
-<br/>
-<br/>
+
+
 
 - Assessment of item types in a collection to see which equipment was needed for digitization.
 
@@ -310,18 +310,18 @@ On-site work at project partner locations was limited to two working weeks maxim
 - Daily statistics tracking - number of images created and number of items digitized.
 
 - Reconciliation of stats sheet to number of image files and items.
-<br/>
-<br/>
+
+
 
 Statistics tracking was invaluable in monitoring progress during each project to ensure that digitization could be completed on time or if not, to prioritize remaining items for inclusion.
-<br/>
-<br/>
+
+
 
 **Project Management - post on-site tasks:**
-<br/>
+
 Each collection needed to be finalized  before it was published online. Post-on-site work included different members of the team for different stages of the work, with the Digitization Specialist undertaking the bulk of the tasks:  
-<br/>
-<br/>
+
+
 
 - Metadata completion and review.
 
@@ -356,17 +356,17 @@ Each collection needed to be finalized  before it was published online. Post-on-
 - Collection set up for sync with [Worldcat Digital Gateway](https://www.oclc.org/digital-gateway.en.html).
 
 - Send project partner copies of image files (master and derivatives) and metadata spreadsheet.
-<br/>
-<br/>
+
+
 
 **Publicizing Digitized Collections**
-<br/>
+
 It is important to build time into your workflow to publicize digitized collections once online. Ensuring  stakeholders and the public are aware that the the collections are accessible to potential audiences is just as important as the digitization itself.
-<br/>
-<br/>
+
+
 For Culture in Transit, we publicized the collections at various points throughout the process of working with a partner institution:
-<br/>
-<br/>
+
+
 
 - Immediately after digitization work was completed, the Digitization Specialist wrote a post for the Culture in Transit [blog](http://www.mnylc.org/cit/?cat=12), giving readers a glimpse into the collection, such as the subject matter, types of material and a few highlights from the collection.  
 
@@ -375,14 +375,14 @@ For Culture in Transit, we publicized the collections at various points througho
 - Once the collection’s records went live in DPLA, we promoted via Twitter with the link to the collection in DPLA. We also notified the institution of DPLA inclusion so they could cross promote via their channels.
 
 - Some institutions took advantage of the opportunity to highlight the digitized material shortly after digitization. For example, one institution was able to use their materials in community engagement events & in promotional materials for a local anniversary.
-<br/>
-<br/>
+
+
 
 **Time Management**
-<br/>
+
 Due to the time limited nature of our project, we often had work simultaneously with multiple project partners at varying stages of the process. Generally the timeline for working with partners followed this schedule:
-<br/>
-<br/>
+
+
 
 - 1-4 months prior: Initial screening interviews.
 
@@ -397,26 +397,26 @@ Due to the time limited nature of our project, we often had work simultaneously 
 - 2-6 weeks post: Ingest of metadata and images into DCMNY. Obtain collection description and logo from project partner.
 
 - 6-10 weeks post: Quality review of collection, publication online, publicize.
-<br/>
-<br/>
+
+
 
 [Back to top](#top)
-<br/>
-<br/>
-<br/>
+
+
+
 
 ## <a name="Section Three - Standards and Practices: Digitization, Metadata and Rights"></a>Section Three - Standards and Practices: Digitization, Metadata and Rights  
-<br/>
-<br/>
+
+
 
 ### Digitization
-<br/>
+
 We create master files and access files when digitizing, copies of which are provided to the project partner after completion of the on-site work.
-<br/>
-<br/>
+
+
 A master file is a digital surrogate of an analog object. Scanned at high resolution, stored uncompressed, it should not be altered in any way. Access files are created from the master file. For our project, we used the following standards:
-<br/>
-<br/>
+
+
 
 |                | **Master Files**   | **Access Files** |
 | -------------- | :--------------: |:--------------:|
@@ -426,22 +426,22 @@ A master file is a digital surrogate of an analog object. Scanned at high resolu
 | Resolution     | 600ppi             | 300ppi (image file size 2000-2400 on the longest side)           |                  
 | File Type      | TIFF               | JPEG or JPEG2000         |
 
-<br/>
+
 *Project partners were given 300dpi access files for printing/reproduction purposes. Access files for web viewing are generally restricted to 72dpi.*
-<br/>
-<br/>
+
+
 
 **Image Referencing Tools:**
-<br/>
+
 Use a color target and/or ruler when digitizing. These tools ensure that the viewing environment for the master files can be adjusted to mimic the settings when the materials were digitized.
-<br/>
-<br/>
+
+
 
 **File Name Conventions:**
-<br/>
+
 Develop a standardized file naming convention, which adheres to existing institutional standards. Information to consider building into the logic of your file naming convention includes:
-<br/>
-<br/>
+
+
 
 - Catalog number of item (if processed).
 
@@ -453,11 +453,11 @@ Develop a standardized file naming convention, which adheres to existing institu
 
 - Information about structure of object (such as recto, verso).
 
-<br/>
-<br/>
+
+
 For Culture in Transit we developed a filename structure that included:
-<br/>
-<br/>
+
+
 
 - Repository identifier.
 
@@ -467,27 +467,27 @@ For Culture in Transit we developed a filename structure that included:
 
 - Sequential Number.
 
-<br/>
-<br/>
+
+
 
 ### Metadata
-<br/>
+
 Metadata is an integral part of any digitization project and should follow a recognized metadata schema. Metadata was by far the most time-consuming part of the work with our project partners and is just as important in project planning as the digitization work.
-<br/>
-<br/>
+
+
 As the collections we digitize go into [Digital Culture of Metropolitan New York](http://dcmny.org/) (DCMNY), we use the following guidelines:
-<br/>
-<br/>
+
+
 
 - [DCMNY Metadata Spreadsheet Template.]({{ "/assets/docs/05 - Institution_Digital Culture Metadata Spreadsheet_blank.xlsx" || prepend: site.baseurl }})
 
 - [DCMNY Metadata Requirements and Guidelines.]({{ "/assets/docs/04 - Institution_METRO DCMNY Metadata Requirements and Guidelines.pdf" || prepend: site.baseurl }})
 
-<br/>
-<br/>
+
+
 The requirements for DCMNY include required and recommended metadata fields for completion. Our approach for Culture in Transit was to complete as many of the metadata fields as possible. As each collection we worked with was different, the metadata work with our project partners fell into 3 categories:
-<br/>
-<br/>
+
+
 
 - Full: No pre-existing metadata available; all metadata about the item needed to be created.
 
@@ -495,14 +495,14 @@ The requirements for DCMNY include required and recommended metadata fields for 
 
 - Minimal: Descriptive and subject terms available; technical metadata about the item still needed to be created.
 
-<br/>
-<br/>
+
+
 Description of item and subject terms were the most time-consuming areas of metadata to complete, but are also some of the most important, value-added areas that allow for greater accessibility and discoverability of the item once it’s online.
-<br/>
-<br/>
+
+
 The table below shows minimum elements from DCMNY metadata spreadsheet completed by METRO digitization specialist informed by either what metadata already existed for collection or what metadata was being completed by project partner.
-<br/>
-<br/>
+
+
 
 | **Full Metadata** | **Partial Metadata**   | **Minimal Metadata** |
 | -------------- | :--------------: |:--------------:|
@@ -523,11 +523,11 @@ The table below shows minimum elements from DCMNY metadata spreadsheet completed
 | Digital Format   |           |        |
 | Digital Origin   |          |         |
 
-<br/>
-<br/>
+
+
 METRO’s DCMNY metadata is based on the [MODS schema](http://www.loc.gov/standards/mods/), whereas many of our project partners use [Dublin Core](http://dublincore.org/), [VRA Core](https://www.loc.gov/standards/vracore/) or other local schemas. Some considerations for metadata creation include:
-<br/>
-<br/>
+
+
 
 - Mapping an existing metadata schema to the one in use by the project may be necessary.
 
@@ -541,37 +541,37 @@ METRO’s DCMNY metadata is based on the [MODS schema](http://www.loc.gov/standa
 
 - If the project partner has created some or most of the metadata, it will need to be reviewed by project staff to ensure that metadata guidelines have been followed.
 
-<br/>
-<br/>
+
+
 
 ### Copyright
-<br/>
+
 Any digitization project requires copyright considerations and the application of appropriate statements of use for digitized material. All material digitized as part of Culture in Transit had to be made freely accessible online, so was either in the public domain, the institution controlled the rights to the materials, they had permission from the rightsholder, or they assessed the risk and/or made the content available under fair use.
-<br/>
-<br/>
+
+
 In addition, as all the content we digitized as part of Culture in Transit was contributed to Digital Public Library of America, we attempted to align the rights statements in our metadata records with [RightsStatements.org](http://rightsstatements.org/en/), DPLA’s set of standardized rights statements for online cultural heritage. However, [RightsStatements.org](http://rightsstatements.org/en/) did not launch until late into our project, therefore not all of project digitized collections align with these rights statements as of this writing.
-<br/>
-<br/>
+
+
 [Back to top](#top)
-<br/>
-<br/>
-<br/>
+
+
+
 
 ## <a name="Section Four - Assessment and Outcomes"></a>Section Four - Assessment and Outcomes
-<br/>
-<br/>
+
+
 
 ### Quantitative Tracking - Project Statistics
-<br/>
+
 The process of digitization is labor and time intensive. Keeping detailed statistics can be useful for forward project and resource planning. Three types of statistics evolved in our work with project partners during Culture in Transit - detailed daily statistics, overall project statistics and collection statistics.
-<br/>
-<br/>
+
+
 
 **Detailed Daily Productivity Statistics**
-<br/>
+
 At the outset of the project, a system was devised and implemented to enable daily tracking of the work that would be undertaken with project partners. The type of information tracked was;
-<br/>
-<br/>
+
+
 
 - Date of work.
 
@@ -597,11 +597,11 @@ At the outset of the project, a system was devised and implemented to enable dai
 
 - Time taken to complete post-processing tasks.
 
-<br/>
-<br/>
+
+
 There were a few core reasons we chose to do this;
-<br/>
-<br/>
+
+
 
 - Project reconciliation: Detailed tracking like this allowed the ability to tally up between the metadata spreadsheet and the image files, ensuring there were the correct number of records and files. There were a few instances of numbers not tallying and having the daily statistics helped enormously in tracking down where the error had occurred and fixing it.
 
@@ -609,17 +609,17 @@ There were a few core reasons we chose to do this;
 
 - From understanding what was achievable in a set amount of time, it allowed us to set realistic expectations for projects going forward. In conversations with project partners during the latter part of Culture in Transit, we were able to set approximate numbers of items that could be digitized in the two-week period we had for on site work.
 
-<br/>
-<br/>
+
+
 [METRO’s Culture in Transit Productivity Statistics]({{ "/assets/docs/06 - Institution_METRO's Culture in Transit Productivity Statistics.xlsx" || prepend: site.baseurl }})
-<br/>
-<br/>
+
+
 
 **Overall Project Statistics**
-<br/>
+
 From the detailed daily statistics, we were able to create a statistics sheet showing productivity throughout the whole project, working with 10 different project partners. The type of information included for each project was;
-<br/>
-<br/>
+
+
 
 - Days on site at project partner.
 
@@ -641,20 +641,20 @@ From the detailed daily statistics, we were able to create a statistics sheet sh
 
 - Types of material digitized.
 
-<br/>
-<br/>
+
+
 The biggest challenge with digitization can be estimating how long a project will take and these broader set of statistics offer information and data that is hopefully useful to others thinking of undertaking a digitization project, showing how much was achievable within a given timeframe, with differing variables of equipment used, amount of metadata needed to be completed and types of material to be digitized.
-<br/>
-<br/>
+
+
 [METRO’s Culture in Transit Project Statistics]({{ "/assets/docs/07 - Institution_METRO Overall Project Statistics.pdf" || prepend: site.baseurl }})
-<br/>
-<br/>
+
+
 
 **CIT Collection Information**
-<br/>
+
 Once the project partners collections were published on DCMNY, we kept separate collection statistics that differed from the types of detail in the other project statistics. These statistics tracked;
-<br/>
-<br/>
+
+
 
 - If institution is planning to add more items to the collection.
 
@@ -672,52 +672,52 @@ Once the project partners collections were published on DCMNY, we kept separate 
 
 - Name space/ collection name.
 
-<br/>
-<br/>
+
+
 Keeping this type of data was important primarily for our own internal uses but also for project reporting to our funders.
-<br/>
-<br/>
+
+
 [METRO’s Culture in Transit Collection Information]({{ "/assets/docs/08 - Institution_METRO CIT Collection Information.pdf" || prepend: site.baseurl }})
-<br/>
-<br/>
+
+
 
 ### Qualitative Tracking - Outcomes
-<br/>
-<br/>
+
+
 
 **Project Partner Feedback**
-<br/>
+
 For assessment purposes, we developed two feedback forms that we asked project partners to complete:
-<br/>
-<br/>
+
+
 [Initial Feedback Form for Project Partners:](https://docs.google.com/a/metro.org/forms/d/e/1FAIpQLSd_mrFwKuf1oyW5yjEpBJ4ot1osXt-u6LEbG_VzfWhoqlU0bw/viewform)
-<br/>
+
 This feedback form was sent to the project partner after the on-site scanning portion of the project was completed. Through this form we gathered information on project communication, execution and experience of hosting the digitization specialist.
-<br/>
-<br/>
+
+
 [Final Feedback Form for Project Partners:](https://docs.google.com/a/metro.org/forms/d/e/1FAIpQLScq9y2NJ1PdoxqenhopSJD91b70z0N3rXicGoIEnAhw8UJc2w/viewform)
-<br/>
+
 This feedback form was sent to the project partner 2-3 months after the collection was available online in DCMNY and records were harvested and live in DPLA. Through this form we assessed the extent to which the project partner promoted the digitized content internally and externally once online, if the digitized collection had been used in any way by the institution, and if the institution felt it had achieved its goals in participating in the project or had any additional feedback.
-<br/>
-<br/>
+
+
 
 **Tracking and Reporting**
-<br/>
+
 Upon request, METRO provides monthly or quarterly usage reports of the online collections in DCMNY to project partners.
-<br/>
-<br/>
+
+
 If the functionality is available from the digital hosting platform/DAMS system to monitor traffic to a particular item or collection, that can be a good way to gauge use and popularity of material. A generic web analytics tool, such as Google Analytics or [PiWik](https://piwik.org/) can be used in place of a built in analytics tool.
-<br/>
-<br/>
+
+
 [Back to top](#top)
-<br/>
-<br/>
-<br/>
+
+
+
 
 ## <a name="Section Five - Resources"></a>Section Five - Resources
 Below is a list of all resources developed and used for community scanning events. These resources are located throughout this section but this list provides a quick-glance locator for the resources.
-<br/>
-<br/>
+
+
 
 - [METRO Culture in Transit Interest Form.](https://docs.google.com/a/metro.org/forms/d/e/1FAIpQLSeu7FvqA6nTh8it9lOBt3JPDp2F_PURquCPZqwPUlY9OYsvRw/viewform)
 
@@ -741,9 +741,9 @@ Below is a list of all resources developed and used for community scanning event
 
 - [METRO’s Culture in Transit Final Feedback Form for Project Partners.](https://docs.google.com/a/metro.org/forms/d/e/1FAIpQLScq9y2NJ1PdoxqenhopSJD91b70z0N3rXicGoIEnAhw8UJc2w/viewform)
 
-<br/>
-<br/>
+
+
 [Back to top](#top)
-<br/>
-<br/>
-<br/>
+
+
+
