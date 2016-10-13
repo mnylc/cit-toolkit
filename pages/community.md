@@ -561,6 +561,6 @@ Below is a list of all resources developed and used for community scanning event
 
 - [Feedback Form for Community Scanning Events - Brooklyn Public Library.]({{ "/assets/docs/18 - CS Section 5_Feedback Form for community events_Brooklyn.pdf" | prepend: site.baseurl }})
 
-
+- [Culture in Transit Community Toolkit - Full Report.]({{ "/assets/docs/19 - CS Section_Culture in Transit Community Toolkit - Full Report.pdf" | prepend: site.baseurl }})
 
 [Back to top](#top)
