@@ -21,7 +21,7 @@ Included in the toolkit are resources for organizing and executing community eng
 
 ## <a name="About Culture in Transit"></a>About Culture in Transit
 <br/>
-Culture in Transit was a partnership between the [Metropolitan New York Library Council](http://metro.org/) (METRO), the [Brooklyn Public Library](https://www.bklynlibrary.org/) and [Queens Library](http://www.queenslibrary.org/) to bring mobile scanning equipment to smaller libraries, archives, museums, and the communities they serve. It was one of 22 projects to win the John S. and James L. Knight Foundation’s [Knight News Challenge on Libraries](http://www.knightfoundation.org/articles/22-projects-win-knight-news-challenge-libraries) in 2014.
+Culture in Transit was a partnership between the [Metropolitan New York Library Council](http://metro.org/) (METRO), the [Brooklyn Public Library](https://www.bklynlibrary.org/) and [Queens Library](http://www.queenslibrary.org/) to bring mobile scanning equipment to smaller libraries, archives, museums, and the communities they serve. It was one of 22 projects to win the [John S. and James L. Knight Foundation’s](http://www.knightfoundation.org/) [Knight News Challenge on Libraries](http://www.knightfoundation.org/articles/22-projects-win-knight-news-challenge-libraries) in 2014.
 <br/>
 <br/>
 The work fell into two main areas:
