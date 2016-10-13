@@ -10,7 +10,7 @@ permalink: /about/
 This toolkit is an outcome of the [Culture in Transit](http://www.mnylc.org/cit/) project. It is intended to serve as a resource for other organizations interested in initiating mobile digitization services. All or parts of the toolkit can be used and adapted as needed.
 <br/>
 <br/>
-Included in the toolkit are resources for organizing and executing community engagement events; implementing and offering a mobile digitization service to small cultural institutions; and providing advice, comment and considerations on equipment used for digitization, with emphasis on mobile digitization kits.
+Included in the toolkit are resources for organizing and executing community engagement events; implementing and offering a mobile digitization service to small cultural heritage institutions; and providing advice, comment and considerations on equipment used for digitization, with emphasis on mobile digitization kits.
 <br/>
 <br/>
 
