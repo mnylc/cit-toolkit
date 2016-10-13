@@ -17,11 +17,12 @@ permalink: /community/
 [Section Five - Assessment](#Section Five - Assessment)
 
 [Section Six - Resources](#Section Six - Resources)
+<a name="Introduction"></a>
 
 
 
 
-## <a name="Introduction"></a>Introduction
+## Introduction
 At community scanning events, we bring our mobile digitization kit to library branches and invite residents to bring in photos, documents and memorabilia. We scan the materials, which are returned to the donors with a flash drive of digital copies. The digital files are then included in the digital archives of our respective repositories, as well as  ingested into the [Digital Public Library of America](https://dp.la/). Our role in this process includes: selecting locations, scheduling events, doing outreach and collaborating with partners, facilitating the events, and doing the post-event cataloging and ingest of materials into our digital repositories.
 
 
@@ -156,10 +157,10 @@ Including space for three chairs, at a minimum we need an estimated **60 square 
 
 [Back to top](#top)
 
+<a name="Section Two - Outreach"></a>
 
 
-
-## <a name="Section Two - Outreach"></a>Section Two - Outreach
+## Section Two - Outreach
 
 
 ### Strategies
@@ -261,11 +262,11 @@ A division of the Brooklyn Public Library’s Outreach Services department, this
 
 
 [Back to top](#top)
+<a name="Section Three - Event Overview"></a>
 
 
 
-
-## <a name="Section Three - Event Overview"></a>Section Three - Event Overview
+## Section Three - Event Overview
 
 
 ### Staffing
@@ -434,11 +435,11 @@ For copyright reasons, we can’t include newspaper clippings, books, magazine a
 
 
 [Back to top](#top)
+<a name="Section Four - Educational Resources"></a>
 
 
 
-
-## <a name="Section Four - Educational Resources"></a>Section Four - Educational Resources
+## Section Four - Educational Resources
 
 
 ### Community History Activities
@@ -490,11 +491,11 @@ This [small handout]({{ "/assets/docs/16 - CS Section 4_What Is On Your Thumb Dr
 
 
 [Back to top](#top)
+<a name="Section Five - Assessment"></a>
 
 
 
-
-## <a name="Section Five - Assessment"></a>Section Five - Assessment
+## Section Five - Assessment
 For community scanning events, we conduct two primary forms of assessment, gathering separate input from participants and from the event leaders.
 
 
@@ -518,11 +519,11 @@ Through [this form](https://docs.google.com/a/metro.org/forms/d/1X5WFpmP9EwvSrg5
 
 
 [Back to top](#top)
+<a name="Section Six - Resources"></a>
 
 
 
-
-## <a name="Section Six - Resources"></a>Section Six - Resources
+## Section Six - Resources
 Below is a list of all resources developed and used for community scanning events. These resources are located throughout this section but this list provides a quick-glance locator for the resources.
 
 
