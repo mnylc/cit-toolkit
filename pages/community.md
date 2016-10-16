@@ -559,6 +559,7 @@ Below is a list of all resources developed and used for community scanning event
 - [Culture in Transit Community Toolkit - Full Report.]({{ "/assets/docs/19 - CS Section_Culture in Transit Community Toolkit - Full Report.pdf" | prepend: site.baseurl }})
 
 
+
 **Community Scanning Blog Posts**
 
 We used our [blog](http://www.mnylc.org/cit/) as a way to track progress and record our experiences throughout the project. Below are a list of posts we have written about our community scanning work that people may find useful/helpful.
