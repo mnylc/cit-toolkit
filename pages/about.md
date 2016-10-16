@@ -15,7 +15,6 @@ Included in the toolkit are resources for organizing and executing community eng
 <br/>
 
 [Back to top](#top)
-<br/>
 
 ## <a name="About Culture in Transit"></a>About Culture in Transit
 <br/>
@@ -37,4 +36,3 @@ The information and all resources in this toolkit are licensed under a [CC0 1.0 
 <br/>
 
 [Back to top](#top)
-<br/>
