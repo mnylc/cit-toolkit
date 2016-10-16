@@ -558,4 +558,58 @@ Below is a list of all resources developed and used for community scanning event
 
 - [Culture in Transit Community Toolkit - Full Report.]({{ "/assets/docs/19 - CS Section_Culture in Transit Community Toolkit - Full Report.pdf" | prepend: site.baseurl }})
 
+
+**Community Scanning Blog Posts**
+
+We used our [blog](http://www.mnylc.org/cit/) as a way to track progress and record our experiences throughout the project. Below are a list of posts we have written about our community scanning work that people may find useful/helpful.
+
+
+- [Teaching DPLA, May 2016](http://www.mnylc.org/cit/?p=793)
+
+- [Story Circles with Richmond Hill Love Letter, April 2016](http://www.mnylc.org/cit/?p=784)
+
+- [Modifying our Digitization Standards, April 2016](http://www.mnylc.org/cit/?p=781)
+
+- [Getting out of the Library in Woodhaven, March 2016](http://www.mnylc.org/cit/?p=732)
+
+- [Facilitating Born-Digital Donations from Cell Phones, March 2016](http://www.mnylc.org/cit/?p=703)
+
+- [Leveraging In-House Publicity, February 2016](http://www.mnylc.org/cit/?p=698)
+
+- [Our Streets, Our Stories Oral History Project, February 2016](http://www.mnylc.org/cit/?p=675)
+
+- [Local History with the Urban Memory Project, February 2016](http://www.mnylc.org/cit/?p=659)
+
+- [Documenting Lunar New Year, February 2016](http://www.mnylc.org/cit/?p=628)
+
+- [Creative Commons Licenses: How They Work and Why We Use Them, January 2016](http://www.mnylc.org/cit/?p=614)
+
+- [Thoughts on Copy Stands and Community Events, January 2016](http://www.mnylc.org/cit/?p=610)
+
+- [Preparing for an ESDN Metadata Harvest, January 2016](http://www.mnylc.org/cit/?p=576)
+
+- [Training for Small Scale Digitization Projects, January 2016](http://www.mnylc.org/cit/?p=553)
+
+- [A Few of my Favorites, December 2015](http://www.mnylc.org/cit/?p=532)
+
+- [Partnering with My Bayro, My Borough, November 2015](http://www.mnylc.org/cit/?p=500)
+
+- [Moving Towards Interactive Community Events, November 2015](http://www.mnylc.org/cit/?p=478)
+
+- [Our Digitization Standards, October 2015](http://www.mnylc.org/cit/?p=450)
+
+- [Reflections on September’s Community Events, October 2015](http://www.mnylc.org/cit/?p=399)
+
+- [New Strategies in Community Event Outreach, September 2015](http://www.mnylc.org/cit/?p=365)
+
+- [Connecting Queens Memory and Personal Digital Archiving, September 2015](http://www.mnylc.org/cit/?p=312)
+
+- [Preparing for a Community Scanning Event, August 2015](http://www.mnylc.org/cit/?p=223)
+
+- [Lessons from Our First Scanning Event, July 2015](http://www.mnylc.org/cit/?p=206)
+
+- [Williamsburg and the Giglio Fest, July 2015](http://www.mnylc.org/cit/?p=154)
+
+- [Queens Memory at the World’s Fair Anniversary, June 2015](http://www.mnylc.org/cit/?p=136)
+
 [Back to top](#top)
