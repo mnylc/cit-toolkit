@@ -743,7 +743,31 @@ Below is a list of all resources developed and used for community scanning event
 
 
 
+**Institution Scanning Blog Posts**
+
+We used our [blog](http://www.mnylc.org/cit/) as a way to track progress and record our experiences throughout the project. Below are a list of posts we have written about our institution scanning work that people may find useful/helpful.
+
+
+- [Wrapping It All Up: Institutional Scanning at Fordham University, July 2016](http://www.mnylc.org/cit/?p=818)
+
+- [A Long and Distinguished History: Institutional Scanning at the General Society of Mechanics and Tradesmen, May 2016](http://www.mnylc.org/cit/?p=804)
+
+- [The Hall of Fame for Great Americans: Institutional Scanning at Bronx Community College, March 2016](http://www.mnylc.org/cit/?p=721)
+
+- [Digitizing an Oversize Poster Collection: Institutional Scanning at Yeshiva University, February 2016](http://www.mnylc.org/cit/?p=641)
+
+- [Digitizing Key LGBT Material: Institutional Scanning at the LGBT Community Center, December 2015](http://www.mnylc.org/cit/?p=549)
+
+- [Delving into the Nineteenth Century French Book and Print Trade: Institutional Scanning at The Grolier Club, December 2015](http://www.mnylc.org/cit/?p=521)
+
+- [Soaking Up Some Art and Culture: Institutional Scanning at Hostos Community College, November 2015](http://www.mnylc.org/cit/?p=461)
+
+- [Putting Local History on the Map: Institutional Scanning at White Plains Public Library, October 2015](http://www.mnylc.org/cit/?p=432)
+
+- [The Faces of Nineteenth Century Medicine: Institutional Scanning at the New York Academy of Medicine, August 2015](http://www.mnylc.org/cit/?p=284)
+
+- [CIT Pilot for Host Institution Scanning: Wildlife Conservation Society Archives, July 2015](http://www.mnylc.org/cit/?p=174)
+
+
+
 [Back to top](#top)
-
-
-
