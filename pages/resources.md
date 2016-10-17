@@ -1,5 +1,0 @@
----
-title: Resources
-permalink: /resources/
----
-
