@@ -17,13 +17,11 @@ The work fell into two main areas:
 
 - Community events (Queens Library and Brooklyn Public Library): Mobile digitization kits were taken to library branches and other community spaces where local residents were invited to bring in family photos and memorabilia. Materials were scanned and returned to donors along with a flash drive of digital copies of their material. The digital copies were included in the libraries’ respective digital catalogs, and shared with the [Digital Public Library of America](https://dp.la/).
 
-<<<<<<< HEAD
 - Working with small cultural heritage institutions (METRO): Mobile digitization kits were taken to METRO member institutions across New York City and Westchester County to scan selected archival collections and make them available on METRO’s digital platform, [DCMNY](http://dcmny.org/) and in the [Digital Public Library of America](https://dp.la/). The service was designed to assist smaller cultural heritage institutions who had either undertaken none or very little digitization of their collections and who did not have adequate resources to do the work in house.
 <br/>
 <br/>
-=======
+
 - Working with small cultural heritage institutions (METRO): Mobile digitization kits were taken to METRO member institutions across New York City and Westchester County to scan selected collections and make them available on METRO’s digital platform, [DCMNY](http://dcmny.org/) and in the [Digital Public Library of America](https://dp.la/). The service was designed to assist smaller cultural heritage institutions who had either undertaken none or very little digitization of their collections and who did not have adequate resources to do the work in house.
->>>>>>> bdadee4922b16e818b10b795457b1a34cf79a06f
 
 The information and all resources in this toolkit are licensed under a [CC0 1.0 license](https://creativecommons.org/publicdomain/zero/1.0/).
 
