@@ -10,7 +10,10 @@
 @import "footer";
 @import "portfolio";
 
-p .a[name] {
-    padding-top: 100px;
+a.anchor {
+    display: block;
+    position: relative;
+    top: -100px;
+    visibility: hidden;
 }
 
