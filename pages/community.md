@@ -97,7 +97,7 @@ Once a location is selected to host a community scanning event, a site visit is 
 
 
 
-**SetUp Location**
+**Set Up Location**
 
 - Assess the library’s layout, determining the best location for the digitization kit on the day of the event.
 

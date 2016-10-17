@@ -4,7 +4,5 @@
   url: '/institutions'
 - title: 'Equipment'
   url: '/equipment'
-- title: 'Resources'
-  url: '/resources'
 - title: 'About'
   url: '/about'
