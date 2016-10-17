@@ -59,3 +59,7 @@ attribution:
     source: Rick Kim
     name: agency
     url: https://github.com/y7kim/agency-jekyll-theme
+
+# Google services
+google_analytics: UA-60157156-3
+
