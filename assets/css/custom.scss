@@ -9,23 +9,5 @@
 @import "lists";
 @import "footer";
 @import "portfolio";
-
-a.anchor {
-    display: block;
-    position: relative;
-    top: -100px;
-    visibility: hidden;
-}
-
-.attribution {
-    width: 100%;
-}
-
-.attribution p {
-    text-align: right;
-}
-
-.footer-list li {
-    width: 20%;
-}
+@import "tweaks";
 
