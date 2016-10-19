@@ -1,7 +1,7 @@
 # Site settings
 title: Culture in Transit Toolkit
 email: info@metro.org
-description: Digitizing and democratizing Metropolitan New York\'s Cultural Heritage
+description: Digitizing and democratizing Metropolitan New York''s Cultural Heritage
 baseurl: "/cit-toolkit"
 url: "http://metro.org/cit-toolkit"
 
@@ -59,3 +59,7 @@ attribution:
     source: Rick Kim
     name: agency
     url: https://github.com/y7kim/agency-jekyll-theme
+
+# Google services
+google_analytics: UA-60157156-3
+

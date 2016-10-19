@@ -19,7 +19,7 @@ permalink: /equipment/
 
 
 
-## <a name="Mobile Digitization Kit: Scanning Kit List"></a>Mobile Digitization Kit: Scanning Kit List
+## <a class="anchor" name="Mobile Digitization Kit: Scanning Kit List"></a>Mobile Digitization Kit: Scanning Kit List
 This list includes everything that makes up our mobile scanning kit. A [complete inventory of equipment](https://docs.google.com/spreadsheets/d/1ASXu0ps3BrqrjYUC8LhvxPvBK6h6OCs9qLuDLNxKu0c/edit?usp=sharing) which includes the price of each piece of equipment, the product code, where we purchased it from and any comments about it is also available.
 
 
@@ -35,7 +35,7 @@ This list is representative of our scanning kit, but is not an endorsement for s
 
 
 
-## <a name="Mobile Digitization Kit: Copy Stand Kit List"></a>Mobile Digitization Kit: Copy Stand Kit List
+## <a class="anchor" name="Mobile Digitization Kit: Copy Stand Kit List"></a>Mobile Digitization Kit: Copy Stand Kit List
 This list includes everything that makes up our mobile copy stand kit. A [complete inventory of equipment](https://docs.google.com/spreadsheets/d/1ASXu0ps3BrqrjYUC8LhvxPvBK6h6OCs9qLuDLNxKu0c/edit?usp=sharing) which includes the price of each piece of equipment, the product code, where we purchased it from and any comments about it is also available.
 
 
@@ -52,7 +52,7 @@ This list is representative of our copy stand kit, but is not an endorsement for
 
 
 
-## <a name="Mobile Digitization Kit: Outreach Kit List"></a>Mobile Digitization Kit: Outreach Kit List
+## <a class="anchor" name="Mobile Digitization Kit: Outreach Kit List"></a>Mobile Digitization Kit: Outreach Kit List
 This list includes everything that makes up our outreach kit. This kit is used exclusively for community scanning to create interactive community events.  A [complete inventory of equipment](https://docs.google.com/spreadsheets/d/1ASXu0ps3BrqrjYUC8LhvxPvBK6h6OCs9qLuDLNxKu0c/edit?usp=sharing) which includes the price of each piece of equipment, the product code, where we purchased it from and any comments about it is also available.
 
 
@@ -65,7 +65,7 @@ This list includes everything that makes up our outreach kit. This kit is used e
 
 
 
-## <a name="Culture in Transit: Master Equipment Inventory"></a>Culture in Transit: Master Equipment Inventory
+## <a class="anchor" name="Culture in Transit: Master Equipment Inventory"></a>Culture in Transit: Master Equipment Inventory
 We developed a master equipment inventory to track every piece of equipment we considered for our mobile digitization kits. The inventory contains every item we purchased for our kits, with details on which kit the equipment was used in, the product ID, cost (as at March 2016), where we bought it from and any comments about the item.
 
 
@@ -78,7 +78,7 @@ We developed a master equipment inventory to track every piece of equipment we c
 
 
 
-## <a name="Resources"></a>Resources
+## <a class="anchor" name="Resources"></a>Resources
 
 
 

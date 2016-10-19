@@ -2,7 +2,7 @@
 title: Community
 permalink: /community/
 ---
-<a name="top"/>
+<a class="anchor" name="top"/>
 
 [Introduction](#Introduction)
 
@@ -19,9 +19,9 @@ permalink: /community/
 [Section Six - Resources](#Section Six - Resources)
 
 
-<a name="Introduction"/>
 
-## Introduction
+
+## <a class="anchor" name="Introduction"/> Introduction
 At community scanning events, we bring our mobile digitization kit to library branches and invite residents to bring in photos, documents and memorabilia. We scan the materials, which are returned to the donors with a flash drive of digital copies. The digital files are then included in the digital archives of our respective repositories, as well as  ingested into the [Digital Public Library of America](https://dp.la/). Our role in this process includes: selecting locations, scheduling events, doing outreach and collaborating with partners, facilitating the events, and doing the post-event cataloging and ingest of materials into our digital repositories.
 
 
@@ -35,7 +35,7 @@ We hope this toolkit will serve as a valuable resource for individuals and organ
 [Back to top](#top)
 
 
-<a name="Section One - Event Planning"/>
+<a class="anchor" name="Section One - Event Planning"/>
 
 ## Section One - Event Planning
 The planning for a community scanning event should begin 3-4 months in advance of the anticipated event date. Timing considerations include: internal deadlines for promotional materials, needs of any community partners, and availability of staff and equipment. Please see our [event planning checklist]({{ "/assets/docs/01 - CS Section_Event Planning Checklist for community scanning.pdf" || prepend: site.baseurl }}) for more details.
@@ -156,9 +156,8 @@ Including space for three chairs, at a minimum we need an estimated **60 square 
 
 [Back to top](#top)
 
-<a name="Section Two - Outreach"/>
 
-## Section Two - Outreach
+## <a class="anchor" name="Section Two - Outreach"/> Section Two - Outreach
 
 
 ### Strategies
@@ -261,9 +260,8 @@ A division of the Brooklyn Public Library’s Outreach Services department, this
 
 [Back to top](#top)
 
-<a name="Section Three - Event Overview"/>
 
-## Section Three - Event Overview
+## <a class="anchor" name="Section Three - Event Overview"/> Section Three - Event Overview
 
 
 ### Staffing
@@ -433,9 +431,9 @@ For copyright reasons, we can’t include newspaper clippings, books, magazine a
 
 [Back to top](#top)
 
-<a name="Section Four - Educational Resources"/>
 
-## Section Four - Educational Resources
+
+## <a class="anchor" name="Section Four - Educational Resources"/> Section Four - Educational Resources
 
 
 ### Community History Activities
@@ -488,9 +486,9 @@ This [small handout]({{ "/assets/docs/16 - CS Section 4_What Is On Your Thumb Dr
 
 [Back to top](#top)
 
-<a name="Section Five - Assessment"/>
 
-## Section Five - Assessment
+
+## <a class="anchor" name="Section Five - Assessment"/> Section Five - Assessment
 For community scanning events, we conduct two primary forms of assessment, gathering separate input from participants and from the event leaders.
 
 
@@ -515,9 +513,8 @@ Through [this form](https://docs.google.com/a/metro.org/forms/d/1X5WFpmP9EwvSrg5
 
 [Back to top](#top)
 
-<a name="Section Six - Resources"/>
 
-## Section Six - Resources
+## <a class="anchor" name="Section Six - Resources"/> Section Six - Resources
 
 Below is a list of all resources developed and used for community scanning events. These resources are located throughout this section but this list provides a quick-glance locator for the resources.
 

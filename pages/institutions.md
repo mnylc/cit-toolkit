@@ -3,7 +3,7 @@ title: Institutions
 permalink: /institutions/
 ---
 
-<a name="top"></a>
+<a class="anchor" name="top"></a>
 
 [Introduction](#Introduction)
 
@@ -17,7 +17,7 @@ permalink: /institutions/
 
 [Section Five - Resources](#Section Five - Resources)
 
-## <a name="Introduction"></a>Introduction
+## <a class="anchor" name="Introduction"></a>Introduction
 Institutional scanning for Culture in Transit was developed as a service for cultural heritage institutions. Activities included:
 
 - Onsite digitization & metadata creation for a small collection.
@@ -60,7 +60,7 @@ The institutional toolkit is aimed at others who are interested in creating a re
 
 [Back to top](#top)
 
-## <a name="Section One - Site Selection and Planning"></a>Section One - Site Selection and Planning
+## <a class="anchor" name="Section One - Site Selection and Planning"></a>Section One - Site Selection and Planning
 Our approach to selection for Culture in Transit differed from a traditional digitization project where the focus is typically centered on things like demand for use or fragility of the materials. For Culture in Transit we also needed to consider the coherence of the materials for purposes of presenting them online as a small digital collection, as well as the suitability of the project partner and the working environment they could provide.
 
 Our approach to selecting  project partners consisted of the following:
@@ -157,7 +157,7 @@ Once an institution was selected as a project partner, we sent a confirmation em
 
 [Back to top](#top)
 
-## <a name="Section Two - Workflow, Project and Time Management"></a>Section Two - Workflow, Project and Time Management
+## <a class="anchor" name="Section Two - Workflow, Project and Time Management"></a>Section Two - Workflow, Project and Time Management
 Project planning for the mobile digitization service involved both METRO’s project team and the project partner (the institution who received the digitization service).
 
 **METRO's Project Team**
@@ -306,7 +306,7 @@ Due to the time limited nature of our project, we often had work simultaneously 
 
 [Back to top](#top)
 
-## <a name="Section Three - Standards and Practices: Digitization, Metadata and Rights"></a>Section Three - Standards and Practices: Digitization, Metadata and Rights  
+## <a class="anchor" name="Section Three - Standards and Practices: Digitization, Metadata and Rights"></a>Section Three - Standards and Practices: Digitization, Metadata and Rights  
 
 ### Digitization
 
@@ -415,7 +415,7 @@ In addition, as all the content we digitized as part of Culture in Transit was c
 
 [Back to top](#top)
 
-## <a name="Section Four - Assessment and Outcomes"></a>Section Four - Assessment and Outcomes
+## <a class="anchor" name="Section Four - Assessment and Outcomes"></a>Section Four - Assessment and Outcomes
 
 ### Quantitative Tracking - Project Statistics
 
@@ -533,7 +533,7 @@ If the functionality is available from the digital hosting platform/DAMS system 
 
 [Back to top](#top)
 
-## <a name="Section Five - Resources"></a>Section Five - Resources
+## <a class="anchor" name="Section Five - Resources"></a>Section Five - Resources
 Below is a list of all resources developed and used for community scanning events. These resources are located throughout this section but this list provides a quick-glance locator for the resources.
 
 - [METRO Culture in Transit Interest Form.](https://docs.google.com/a/metro.org/forms/d/e/1FAIpQLSeu7FvqA6nTh8it9lOBt3JPDp2F_PURquCPZqwPUlY9OYsvRw/viewform)
