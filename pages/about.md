@@ -6,7 +6,7 @@ permalink: /about/
 <a class="anchor" name="top"></a>
 
 ## <a class="anchor" name="About the Culture in Transit Toolkit"></a>About the Culture in Transit Toolkit
-This Toolkit is an outcome of the [Culture in Transit](http://www.mnylc.org/cit/) project. It is intended to serve as a resource for other organizations interested in initiating mobile digitization services. All or parts of the toolkit can be used and adapted as needed.
+This Toolkit is an outcome of the [Culture in Transit](http://www.mnylc.org/cit/) project. It is intended to serve as a resource for other organizations interested in initiating mobile digitization services. All or parts of the Toolkit can be used and adapted as needed.
 Included in the Toolkit are resources for organizing and executing community engagement events; implementing and offering a mobile digitization service to small cultural heritage institutions; and providing advice, comment and considerations on equipment used for digitization, with emphasis on mobile digitization kits.
 
 [Back to top](#top)
