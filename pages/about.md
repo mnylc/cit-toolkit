@@ -6,8 +6,8 @@ permalink: /about/
 <a class="anchor" name="top"></a>
 
 ## <a class="anchor" name="About the Culture in Transit Toolkit"></a>About the Culture in Transit Toolkit
-This toolkit is an outcome of the [Culture in Transit](http://www.mnylc.org/cit/) project. It is intended to serve as a resource for other organizations interested in initiating mobile digitization services. All or parts of the toolkit can be used and adapted as needed.
-Included in the toolkit are resources for organizing and executing community engagement events; implementing and offering a mobile digitization service to small cultural heritage institutions; and providing advice, comment and considerations on equipment used for digitization, with emphasis on mobile digitization kits.
+This Toolkit is an outcome of the [Culture in Transit](http://www.mnylc.org/cit/) project. It is intended to serve as a resource for other organizations interested in initiating mobile digitization services. All or parts of the toolkit can be used and adapted as needed.
+Included in the Toolkit are resources for organizing and executing community engagement events; implementing and offering a mobile digitization service to small cultural heritage institutions; and providing advice, comment and considerations on equipment used for digitization, with emphasis on mobile digitization kits.
 
 [Back to top](#top)
 
@@ -19,6 +19,6 @@ The work fell into two main areas:
 
 - Working with small cultural heritage institutions (METRO): Mobile digitization kits were taken to METRO member institutions across New York City and Westchester County to scan selected archival collections and make them available on METRO’s digital platform, [DCMNY](http://dcmny.org/) and in the [Digital Public Library of America](https://dp.la/). The service was designed to assist smaller cultural heritage institutions who had either undertaken none or very little digitization of their collections and who did not have adequate resources to do the work in house.
 
-The information and all resources in this toolkit are licensed under a [CC0 1.0 license](https://creativecommons.org/publicdomain/zero/1.0/).
+The information and all resources in this Toolkit are licensed under a [CC0 1.0 license](https://creativecommons.org/publicdomain/zero/1.0/).
 
 [Back to top](#top)
