@@ -82,6 +82,9 @@ The Outreach Kit List includes everything that makes up the kit.
 [Culture in Transit Outreach Kit List]({{ "/assets/docs/03 - Equipment_Culture in Transit Outreach Kit List.pdf" | prepend: site.baseurl }})
 
 
+Please note: This list is representative of our Outreach Kit, but is not an endorsement for specific products. Please refer to the [complete equipment inventory](https://docs.google.com/spreadsheets/d/1ASXu0ps3BrqrjYUC8LhvxPvBK6h6OCs9qLuDLNxKu0c/edit?usp=sharing) for more details including product information, pricing and comments about specific items.
+
+
 
 [Back to top](#top)
 
@@ -93,9 +96,6 @@ We developed a master equipment inventory to track every piece of equipment we c
 
 
 [Culture in Transit Master Equipment Inventory](https://docs.google.com/spreadsheets/d/1ASXu0ps3BrqrjYUC8LhvxPvBK6h6OCs9qLuDLNxKu0c/edit?usp=sharing)
-
-
-Please note: This list is representative of our Outreach Kit, but is not an endorsement for specific products. Please refer to the [complete equipment inventory](https://docs.google.com/spreadsheets/d/1ASXu0ps3BrqrjYUC8LhvxPvBK6h6OCs9qLuDLNxKu0c/edit?usp=sharing) for more details including product information, pricing and comments about specific items.
 
 
 
