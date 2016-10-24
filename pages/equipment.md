@@ -98,7 +98,7 @@ We developed a master equipment inventory to track every piece of equipment we c
 [Culture in Transit Master Equipment Inventory](https://docs.google.com/spreadsheets/d/1ASXu0ps3BrqrjYUC8LhvxPvBK6h6OCs9qLuDLNxKu0c/edit?usp=sharing)
 
 
-![Image of CIT mobile digitization kit with open cases]({{ "assets/img/15 - Equipment_CIT mobile digitisation kit.jpg" | prepend: site.baseurl }})
+![Image of CIT mobile digitization kit with open cases]({{ "/assets/img/15 - Equipment_CIT mobile digitisation kit.jpg" | prepend: site.baseurl }})
 
 
 
