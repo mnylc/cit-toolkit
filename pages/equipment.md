@@ -73,7 +73,7 @@ Please note: This list is representative of our Copy Stand Kit, but is not an en
 This kit was used exclusively at our community scanning events, in a move towards interactive community events. The kit comprised of a tablet that was used to create a slideshow of historic materials relevant to the neighborhood the event was being held in and another tablet with headphones that was used as an oral history listening station.
 
 
-![Image of Outreach Kit at community event]({{ "/assets\img\14 - Equipment_Outreach Kit.jpg" | prepend: site.baseurl }})
+![Image of Outreach Kit at community event]({{ "/assets/img/14 - Equipment_Outreach Kit.jpg" | prepend: site.baseurl }})
 
 
 The Outreach Kit List includes everything that makes up the kit.
@@ -96,6 +96,9 @@ We developed a master equipment inventory to track every piece of equipment we c
 
 
 [Culture in Transit Master Equipment Inventory](https://docs.google.com/spreadsheets/d/1ASXu0ps3BrqrjYUC8LhvxPvBK6h6OCs9qLuDLNxKu0c/edit?usp=sharing)
+
+
+![Image of CIT mobile digitization kit with open cases]({{ "assets/img/15 - Equipment_CIT mobile digitisation kit.jpg" | prepend: site.baseurl }})
 
 
 
