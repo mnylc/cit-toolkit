@@ -117,6 +117,10 @@ We used our [blog](http://www.mnylc.org/cit/) to record our experiences of compi
 
 
 
+![Image of CIT mobile digitization kit]({{ "/assets/img/16 - Equipment_CIT kit all packaged up.jpg" | prepend: site.baseurl }})
+
+
+
 - [Equipment Review: Digitization Solution for Lantern Slides and Glass Plate Negatives, July 2016](http://www.mnylc.org/cit/?p=829)
 
 - [Equipment Review: Epson V800 Flatbed Scanner, April 2016](http://www.mnylc.org/cit/?p=776)
