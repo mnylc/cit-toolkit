@@ -20,13 +20,22 @@ permalink: /equipment/
 
 
 ## <a class="anchor" name="Mobile Digitization Kit: Scanning Kit List"></a>Mobile Digitization Kit: Scanning Kit List
-This list includes everything that makes up our mobile scanning kit. A [complete inventory of equipment](https://docs.google.com/spreadsheets/d/1ASXu0ps3BrqrjYUC8LhvxPvBK6h6OCs9qLuDLNxKu0c/edit?usp=sharing) which includes the price of each piece of equipment, the product code, where we purchased it from and any comments about it is also available.
+The Scanning Kit was our mobile digitization kit used for scanning two-dimensional material and films and negatives. It was used at our community digitization events and in our work with cultural heritage institutions.
 
 
-This list is representative of our scanning kit, but is not an endorsement for specific products. Please refer to the [complete equipment inventory](https://docs.google.com/spreadsheets/d/1ASXu0ps3BrqrjYUC8LhvxPvBK6h6OCs9qLuDLNxKu0c/edit?usp=sharing) for comments about specific items.
+The standard Scanning Kit was made up of an Epson V600 flatbed scanner and a laptop. The scanner was transported in a wheeled hard protector case, with the laptop and other supplies transported in a backpack. The Epson V800, a larger model in the Epson V scanner series, was purchased for one of the community kits. It had added functionality over the V600, however, ultimately we decided this scanner was too large and heavy to truly be considered ‘mobile’ so we did not include it in the list of recommended equipment.
+
+
+![Image of Epson V600 Scanner]({{ "/assets/img/12 - Equipment_Scanner in action.jpg" | prepend: site.baseurl }})
+
+
+The Scanning Kit List comprises everything that makes up the kit. It is split into two sections, with a minimum and maximum price range. We purchased everything in the two sections, however we made some items optional to differentiate between what we believe are required items for the kit and items that can be purchased depending on budget considerations and/or that may already be in hand.
 
 
 [Culture in Transit Scanning Kit List]({{ "/assets/docs/01 - Equipment_Culture in Transit Scanning Kit List.pdf" | prepend: site.baseurl }})
+
+
+Please note: This list is representative of our Scanning Kit, but is not an endorsement for specific products. Please refer to the [complete equipment inventory](https://docs.google.com/spreadsheets/d/1ASXu0ps3BrqrjYUC8LhvxPvBK6h6OCs9qLuDLNxKu0c/edit?usp=sharing) for more details including product information, pricing and comments about specific items.
 
 
 
@@ -36,14 +45,22 @@ This list is representative of our scanning kit, but is not an endorsement for s
 
 
 ## <a class="anchor" name="Mobile Digitization Kit: Copy Stand Kit List"></a>Mobile Digitization Kit: Copy Stand Kit List
-This list includes everything that makes up our mobile copy stand kit. A [complete inventory of equipment](https://docs.google.com/spreadsheets/d/1ASXu0ps3BrqrjYUC8LhvxPvBK6h6OCs9qLuDLNxKu0c/edit?usp=sharing) which includes the price of each piece of equipment, the product code, where we purchased it from and any comments about it is also available.
+The Copy Stand Kit was our mobile digitization kit used to digitize oversize two-dimensional and three-dimensional objects. We used the kit in our community events and in our work with cultural heritage institutions. However, as the project progressed we found that using the copy stand at community events was not efficient in the fast-paced workflow of an event. The lighting environment could not be controlled in a community event setting either, which lowered the quality of the images.
 
 
-This list is representative of our copy stand kit, but is not an endorsement for specific products. Please refer to the [complete equipment inventory](https://docs.google.com/spreadsheets/d/1ASXu0ps3BrqrjYUC8LhvxPvBK6h6OCs9qLuDLNxKu0c/edit?usp=sharing) for comments about specific items.
+The kit comprised of a Canon Rebel T5 DSLR camera, a tripod that could invert, a photographic backdrop, studio quality lights and a laptop. The camera and lights were transported in a wheeled hard protector case, with the laptop, tripod and backdrop and other supplies loaded into a backpack.
+
+
+![Image of Copy Stand]({{ "/assets/img/13 - Equipment_Copy Stand in action.jpg" | prepend: site.baseurl }})
+
+
+The Copy Stand Kit List comprises everything that makes up the kit. It is split into two sections, with a minimum and maximum price range. We purchased everything in the two sections, however we made some items optional to differentiate between what we believe are required items for the kit and items that can be purchased depending on budget considerations and/or that may already be in hand.
 
 
 [Culture in Transit Copy Stand Kit List]({{ "/assets/docs/02 - Equipment_Culture in Transit Copy Stand Kit List.pdf" | prepend: site.baseurl }})
 
+
+Please note: This list is representative of our Copy Stand Kit, but is not an endorsement for specific products. Please refer to the [complete equipment inventory](https://docs.google.com/spreadsheets/d/1ASXu0ps3BrqrjYUC8LhvxPvBK6h6OCs9qLuDLNxKu0c/edit?usp=sharing) for more details including product information, pricing and comments about specific items.
 
 
 
@@ -53,7 +70,13 @@ This list is representative of our copy stand kit, but is not an endorsement for
 
 
 ## <a class="anchor" name="Mobile Digitization Kit: Outreach Kit List"></a>Mobile Digitization Kit: Outreach Kit List
-This list includes everything that makes up our outreach kit. This kit is used exclusively for community scanning to create interactive community events.  A [complete inventory of equipment](https://docs.google.com/spreadsheets/d/1ASXu0ps3BrqrjYUC8LhvxPvBK6h6OCs9qLuDLNxKu0c/edit?usp=sharing) which includes the price of each piece of equipment, the product code, where we purchased it from and any comments about it is also available.
+This kit was used exclusively at our community scanning events, in a move towards interactive community events. The kit comprised of a tablet that was used to create a slideshow of historic materials relevant to the neighborhood the event was being held in and another tablet with headphones that was used as an oral history listening station.
+
+
+![Image of Outreach Kit at community event]({{ "/assets\img\14 - Equipment_Outreach Kit.jpg" | prepend: site.baseurl }})
+
+
+The Outreach Kit List includes everything that makes up the kit.
 
 
 [Culture in Transit Outreach Kit List]({{ "/assets/docs/03 - Equipment_Culture in Transit Outreach Kit List.pdf" | prepend: site.baseurl }})
@@ -70,6 +93,9 @@ We developed a master equipment inventory to track every piece of equipment we c
 
 
 [Culture in Transit Master Equipment Inventory](https://docs.google.com/spreadsheets/d/1ASXu0ps3BrqrjYUC8LhvxPvBK6h6OCs9qLuDLNxKu0c/edit?usp=sharing)
+
+
+Please note: This list is representative of our Outreach Kit, but is not an endorsement for specific products. Please refer to the [complete equipment inventory](https://docs.google.com/spreadsheets/d/1ASXu0ps3BrqrjYUC8LhvxPvBK6h6OCs9qLuDLNxKu0c/edit?usp=sharing) for more details including product information, pricing and comments about specific items.
 
 
 
