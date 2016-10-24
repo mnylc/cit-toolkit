@@ -98,7 +98,7 @@ We developed a master equipment inventory to track every piece of equipment we c
 [Culture in Transit Master Equipment Inventory](https://docs.google.com/spreadsheets/d/1ASXu0ps3BrqrjYUC8LhvxPvBK6h6OCs9qLuDLNxKu0c/edit?usp=sharing)
 
 
-![Image of CIT mobile digitization kit with open cases]({{ "/assets/img/15 - Equipment_CIT mobile digitisation kit.jpg" | prepend: site.baseurl }})
+![Image of CIT mobile digitization kit with open cases]({{ "/assets/img/15 - Equipment_CIT mobile digitisation kit.jpg" | prepend: site.baseurl }}) ![Image of CIT mobile digitization kit]({{ "/assets/img/16 - Equipment_CIT kit all packaged up.jpg" | prepend: site.baseurl }})
 
 
 
@@ -115,9 +115,6 @@ We developed a master equipment inventory to track every piece of equipment we c
 
 We used our [blog](http://www.mnylc.org/cit/) to record our experiences of compiling mobile digitization kits and also to review certain items of the equipment we purchased. Below are a list of posts we have written about our equipment that people may find useful/helpful.
 
-
-
-![Image of CIT mobile digitization kit]({{ "/assets/img/16 - Equipment_CIT kit all packaged up.jpg" | prepend: site.baseurl }})
 
 
 
