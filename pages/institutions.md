@@ -358,9 +358,9 @@ Metadata is an integral part of any digitization project and should follow a rec
 
 As the collections we digitize go into [Digital Culture of Metropolitan New York](http://dcmny.org/) (DCMNY), we use the following guidelines:
 
-- [DCMNY Metadata Spreadsheet Template.]({{ "/assets/docs/05 - Institution_Digital Culture Metadata Spreadsheet_blank.xlsx" || prepend: site.baseurl }})
+- [DCMNY Metadata Spreadsheet Template.](https://docs.google.com/spreadsheets/d/1fL9oO_x35tUx3wKSZ4a848ravc4Oh1Wjk5ykU3H1Ti8/edit#gid=400876969)
 
-- [DCMNY Metadata Requirements and Guidelines.]({{ "/assets/docs/04 - Institution_METRO DCMNY Metadata Requirements and Guidelines.pdf" || prepend: site.baseurl }})
+- [DCMNY Metadata Requirements and Guidelines.](https://docs.google.com/document/d/1SjnrI4e7Y_NJ0jgaTgmEdhM8tnqZXXCeVqHpx42IYU8/edit#)
 
 The requirements for DCMNY include required and recommended metadata fields for completion. Our approach for Culture in Transit was to complete as many of the metadata fields as possible. As each collection we worked with was different, the metadata work with our project partners fell into 3 categories:
 
