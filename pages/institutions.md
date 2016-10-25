@@ -312,7 +312,7 @@ Due to the time limited nature of our project, we often had work simultaneously 
 
 We create master files and access files when digitizing, copies of which are provided to the project partner after completion of the on-site work.
 
-A master file is a digital surrogate of an analog object. Scanned at high resolution, stored uncompressed, it should not be altered in any way. Access files are created from the master file. For our project, we used the following standards:
+A master file is a digital surrogate of an analog object. Scanned at high resolution, stored uncompressed, it should not be altered in any way. Access files are created from the master file. For our project, we used the following standards for the most common items we digitized. They form part of the [DCMNY Digitization Requirements and Guidelines](https://docs.google.com/document/d/12BmpIw5No4xOEMQGC1jJ1P0NcUhL3Tg8AgEVv8QWoCI/edit?usp=sharing) produced by METRO:
 
 |                | **Master Files**   | **Access Files** |
 | -------------- | :--------------: |:--------------:|
