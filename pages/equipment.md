@@ -136,7 +136,7 @@ We used our [blog](http://www.mnylc.org/cit/) to record our experiences of compi
 
 - [Moving Towards Interactive Community Events, November 2015](http://www.mnylc.org/cit/?p=478)
 
-- [Portable Book & Document Scanners: The Dilemma](http://www.mnylc.org/cit/?p=388)
+- [Portable Book & Document Scanners: The Dilemma, September 2015](http://www.mnylc.org/cit/?p=388)
 
 - [Equipment Review: Dell M2800 Laptop, September 2015](http://www.mnylc.org/cit/?p=300)
 
