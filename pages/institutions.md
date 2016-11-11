@@ -509,7 +509,7 @@ Once the project partners collections were published on DCMNY, we kept separate 
 
 Keeping this type of data was important primarily for our own internal uses but also for project reporting to our funders.
 
-[METRO’s Culture in Transit Collection Information]({{ "/assets/docs/08 - Institution_METRO CIT Collection Information.pdf" || prepend: site.baseurl }})
+[METRO’s Culture in Transit Collection Information]({{ "/assets/docs/08 - Institution_METRO Culture in Transit Collections Summary.pdf" || prepend: site.baseurl }})
 
 ### Qualitative Tracking - Outcomes
 
