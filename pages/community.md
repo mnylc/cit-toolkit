@@ -350,7 +350,7 @@ We developed a standardized file naming convention that adheres to existing inst
 ### Copyright
 For each event, we used consent forms specific to the project:
 
-- [Queens Memory Consent Form.]({{ "/assets/docs/08 - CS Section 3_Informed Consent for community events_Queens.pdf" | prepend: site.baseurl }})
+- [Queens Memory Consent Form.](https://drive.google.com/file/d/1M9mux8pKPhSYJKwswZHQJMfIx28y3hVl/view)
 
 - [Brooklyn Public Library Consent Form.]({{ "/assets/docs/09 - CS Section 3_Informed Consent for community events_Brooklyn.pdf" | prepend: site.baseurl }})
 
