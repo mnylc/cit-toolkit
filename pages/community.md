@@ -28,7 +28,7 @@ At community scanning events, we bring our mobile digitization kit to library br
 We hope this toolkit will serve as a valuable resource for individuals and organizations interested in launching community scanning events in their area.
 
 
-***The content in the Community Section of this toolkit was authored by Sarah Quick and Maggie Schreiner, Culture in Transit Mobile Digitization Specialists for [Brooklyn Public Library](https://www.bklynlibrary.org/) and [Queens Library](http://www.queenslibrary.org/), respectively.***
+***The content in the Community Section of this toolkit was authored by Sarah Quick and Maggie Schreiner, Culture in Transit Mobile Digitization Specialists for [Brooklyn Public Library](https://www.bklynlibrary.org/) and [Queens Public Library](http://www.queenslibrary.org/), respectively.***
 
 
 
@@ -244,12 +244,12 @@ We also send [metadata forms]({{ "/assets/docs/04 - CS Section_Metadata Collecti
 
 
 ### Linking with Oral History Projects
-Many of our participants are eager to share not only their physical items, but the stories and memories that come with a lifetime of collecting. It is a natural fit including an oral history component to our community scanning events. Both the Queens Library and the Brooklyn Public Library have oral history projects:
+Many of our participants are eager to share not only their physical items, but the stories and memories that come with a lifetime of collecting. It is a natural fit including an oral history component to our community scanning events. Both the Queens Public Library and the Brooklyn Public Library have oral history projects:
 
 
 [**Queens Memory:**](http://www.queensmemory.org/)
 
-A collaboration of the Archives at Queens Library and Queens College Libraries’ Department of Special Collections and Archives. The Queens Memory Project combines historical and contemporary photography with oral history interviews of current residents.
+A collaboration of the Archives at Queens Public Library and Queens College Libraries’ Department of Special Collections and Archives. The Queens Memory Project combines historical and contemporary photography with oral history interviews of current residents.
 
 
 [**Our Streets Our Stories:**](http://www.bklynlibrary.org/seniors/our-streets-our-stories-o)
@@ -475,7 +475,7 @@ Participants with a varying levels of technological knowledge attend community s
 
 **Preserving Your Digital Memories Brochure**
 
-This [brochure]({{ "/assets/docs/15 - CS Section 4_Preserving Your Digital Memories Brochure.pdf" | prepend: site.baseurl }}) is given to participants at Queens Library community scanning events. The pamphlet discusses why digital files require special care, provides a step-by-step guide to maintaining your personal digital archive, and provides tips for digitizing your own photographs or documents.
+This [brochure]({{ "/assets/docs/15 - CS Section 4_Preserving Your Digital Memories Brochure.pdf" | prepend: site.baseurl }}) is given to participants at Queens Public Library community scanning events. The pamphlet discusses why digital files require special care, provides a step-by-step guide to maintaining your personal digital archive, and provides tips for digitizing your own photographs or documents.
 
 
 **What's On My Thumb Drive? Handout**
@@ -533,7 +533,7 @@ Below is a list of all resources developed and used for community scanning event
 
 - [Community Scanning Digitization Workflow.]({{ "/assets/docs/07 - CS Section 3_Community Digitization Workflow.pdf" | prepend: site.baseurl }})
 
-- [Informed Consent Form for Community Scanning Events - Queens Library.]({{ "/assets/docs/08 - CS Section 3_Informed Consent for community events_Queens.pdf" | prepend: site.baseurl }})
+- [Informed Consent Form for Community Scanning Events - Queens Public Library.](https://drive.google.com/file/d/1M9mux8pKPhSYJKwswZHQJMfIx28y3hVl/view)
 
 - [Informed Consent Form for Community Scanning Events - Brooklyn Public Library.]({{ "/assets/docs/09 - CS Section 3_Informed Consent for community events_Brooklyn.pdf" | prepend: site.baseurl }})
 
